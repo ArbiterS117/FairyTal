@@ -1,0 +1,2595 @@
+fileFormatVersion: 2
+guid: 74a5b8287199eb64db65d8737cc1e325
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RAPUZEL1
+    21300002: 256-Air Attack-RAPUNZEL_AirAttack_1
+    21300004: 256-Air Attack-RAPUNZEL_AirAttack_2
+    21300006: 256-Air Attack-RAPUNZEL_AirAttack_3
+    21300008: 256-Air Attack-RAPUNZEL_AirAttack_4
+    21300010: 256-Air Attack-RAPUNZEL_AirAttack_5
+    21300012: 256-Attack-RAPUNZEL_Attack_1-1
+    21300014: 256-Attack-RAPUNZEL_Attack_1-2
+    21300016: 256-Attack-RAPUNZEL_Attack_1-3
+    21300018: 256-Attack-RAPUNZEL_Attack_1-4
+    21300020: 256-Attack-RAPUNZEL_Attack_1-5
+    21300022: 256-Attack-RAPUNZEL_Attack_1-6
+    21300024: 256-Attack-RAPUNZEL_Attack_2-1
+    21300026: 256-Attack-RAPUNZEL_Attack_2-2
+    21300028: 256-Attack-RAPUNZEL_Attack_2-3
+    21300030: 256-Attack-RAPUNZEL_Attack_2-4
+    21300032: 256-Attack-RAPUNZEL_Attack_2-5
+    21300034: 256-Attack-RAPUNZEL_Attack_2-6
+    21300036: 256-Attack-RAPUNZEL_Attack_3-3
+    21300038: 256-Attack-RAPUNZEL_Attack_3-4
+    21300040: 256-Attack-RAPUNZEL_Attack_3-5
+    21300042: 256-Attack-RAPUNZEL_Attack_3-6
+    21300044: 256-Attack-RAPUNZEL_Attack_3-7
+    21300046: 256-Attack-RAPUNZEL_Attack_3-9
+    21300048: 256-Attack-RAPUNZEL_Attack_PAN
+    21300050: 256-Damaged Down-RAPUNZEL_DamagedDown_1
+    21300052: 256-Damaged Down-RAPUNZEL_DamagedDown_2
+    21300054: 256-Damaged Down-RAPUNZEL_DamagedDown_3
+    21300056: 256-Damaged Down-RAPUNZEL_DamagedDown_4
+    21300058: 256-Damaged-RAPUNZEL_Damaged_1
+    21300060: 256-Damaged-RAPUNZEL_Damaged_2
+    21300062: 256-Damaged-RAPUNZEL_Damaged_3
+    21300064: 256-Damaged-RAPUNZEL_Damaged_4
+    21300066: 256-Dash Attack-RAPUNZEL_DashAttack_1
+    21300068: 256-Dash Attack-RAPUNZEL_DashAttack_2
+    21300070: 256-Dash Attack-RAPUNZEL_DashAttack_3
+    21300072: 256-Dash Attack-RAPUNZEL_DashAttack_4
+    21300074: 256-Idle-RAPUNZEL_Idle_1
+    21300076: 256-Idle-RAPUNZEL_Idle_2
+    21300078: 256-Idle-RAPUNZEL_Idle_3
+    21300080: 256-Idle-RAPUNZEL_Idle_4
+    21300082: 256-Idle-RAPUNZEL_Idle_5
+    21300084: 256-Jump-RAPUNZEL_Jump_1
+    21300086: 256-Jump-RAPUNZEL_Jump_2
+    21300088: 256-Jump-RAPUNZEL_Jump_3
+    21300090: 256-Jump-RAPUNZEL_Jump_4
+    21300092: 256-Knock Out-RAPUNZEL_KnockOut_1
+    21300094: 256-Knock Out-RAPUNZEL_KnockOut_2
+    21300096: 256-Knock Out-RAPUNZEL_KnockOut_3
+    21300098: 256-Knock Out-RAPUNZEL_KnockOut_4
+    21300100: 256-ULT&Spin-RAPUNZEL_ULT&Spin_1
+    21300102: 256-ULT&Spin-RAPUNZEL_ULT&Spin_2
+    21300104: 256-ULT&Spin-RAPUNZEL_ULT&Spin_3
+    21300106: 256-ULT&Spin-RAPUNZEL_ULT&Spin_4
+    21300108: 256-ULT&Spin-RAPUNZEL_ULT&Spin_5
+    21300110: 256-ULT&Spin-RAPUNZEL_ULT&Spin_6
+    21300112: 512-Arial Hair-RAPUNZLE_ArialHair_1
+    21300114: 512-Arial Hair-RAPUNZLE_ArialHair_2
+    21300116: 512-Arial Hair-RAPUNZLE_ArialHair_3
+    21300118: 512-Dash-RAPUNZEL_Dash_1
+    21300120: 512-Dash-RAPUNZEL_Dash_2
+    21300122: 512-Down Attack-RAPUNZEL_DownAttack_1
+    21300124: 512-Down Attack-RAPUNZEL_DownAttack_2
+    21300126: 512-Down Attack-RAPUNZEL_DownAttack_3
+    21300128: 512-Down Attack-RAPUNZEL_DownAttack_4
+    21300130: 512-Down Attack-RAPUNZEL_DownAttack_5
+    21300132: 512-Hair Combo-RAPUNZEL_HairCombo_1
+    21300134: 512-Hair Combo-RAPUNZEL_HairCombo_2
+    21300136: 512-Hair Combo-RAPUNZEL_HairCombo_3
+    21300138: 512-Hair Combo-RAPUNZEL_HairCombo_4
+    21300140: 512-Knock Down-RAPUNZEL_KnockDown_1
+    21300142: 512-Knock Down-RAPUNZEL_KnockDown_2
+    21300144: 512-Knock Down-RAPUNZEL_KnockDown_4
+    21300146: 512-Move-RAPUNZEL_Move_1
+    21300148: 512-Move-RAPUNZEL_Move_2
+    21300150: 512-Move-RAPUNZEL_Move_3
+    21300152: 512-Move-RAPUNZEL_Move_4
+    21300154: 512-Move-RAPUNZEL_Move_5
+    21300156: 512-Move-RAPUNZEL_Move_6
+    21300158: 512-Up Attack-RAPUNZEL_UpAttack_1
+    21300160: 512-Up Attack-RAPUNZEL_UpAttack_2
+    21300162: 512-Up Attack-RAPUNZEL_UpAttack_3-1
+    21300164: 512-Up Attack-RAPUNZEL_UpAttack_3-2
+    21300166: 512-Up Attack-RAPUNZEL_UpAttack_4-1
+    21300168: 512-Up Attack-RAPUNZEL_UpAttack_4-2
+    21300170: 512-Up Attack-RAPUNZEL_UpAttack_5
+    21300172: 512-Up Attack-RAPUNZEL_UpAttack_6
+    21300174: RAPUNZEL_SpecialEffect1-RAPUNZEL_SpecialEffect1_1
+    21300176: RAPUNZEL_SpecialEffect1-RAPUNZEL_SpecialEffect1_2
+    21300178: RAPUNZEL_SpecialEffect1-RAPUNZEL_SpecialEffect1_3
+    21300180: RAPUNZEL_SpecialEffect1-RAPUNZEL_SpecialEffect1_4
+    21300182: RAPUNZEL_SpecialEffect1-RAPUNZEL_SpecialEffect1_5
+    21300184: RAPUNZEL_SpecialEffect2-RAPUNZEL_SpecialEffect2_1
+    21300186: RAPUNZEL_SpecialEffect2-RAPUNZEL_SpecialEffect2_2
+    21300188: RAPUNZEL_SpecialEffect2-RAPUNZEL_SpecialEffect2_3
+    21300190: RAPUNZEL_SpecialEffect2-RAPUNZEL_SpecialEffect2_4
+    21300192: RAPUNZEL_SpecialEffect2-RAPUNZEL_SpecialEffect2_5
+    21300194: RAPUNZEL_StormSE-RAPUNZEL_StormSE_1
+    21300196: RAPUNZEL_StormSE-RAPUNZEL_StormSE_2
+    21300198: RAPUNZEL_StormSE-RAPUNZEL_StormSE_3
+    21300200: RAPUNZEL_StormSE-RAPUNZEL_StormSE_4
+    21300202: RAPUNZEL_StormSE-RAPUNZEL_StormSE_5
+    21300204: RAPUNZEL_StormSE-RAPUNZEL_StormSE_6
+    21300206: RAPUNZEL_StormSE-RAPUNZEL_StormSE_7
+    21300208: RAPUNZEL_StormSE-RAPUNZEL_StormSE_8
+    21300210: RAPUNZEL_StormSE-RAPUNZEL_StormSE_9
+    21300212: RAPUNZEL_StormSE-RAPUNZEL_StormSE_10
+    21300214: RAPUNZEL_TongueSE
+    21300216: RAPUNZEL_ULTSE-RAPUNZEL_ULTSE_1
+    21300218: RAPUNZEL_ULTSE-RAPUNZEL_ULTSE_2
+    21300220: RAPUNZEL_ULTSE-RAPUNZEL_ULTSE_3
+    21300222: RAPUNZEL_ULTSE-RAPUNZEL_ULTSE_4
+    21300224: RAPUNZEL_ULTSE-RAPUNZEL_ULTSE_5
+    21300226: RAPUNZEL_ULTSE-RAPUNZEL_ULTSE_6
+    21300228: RAPUNZEL_ULTSE-RAPUNZEL_ULTSE_7
+    21300230: RAPUNZEL_ULTSE-RAPUNZEL_ULTSE_8
+    21300232: 256-Knock Out-RAPUNZEL_KnockOutSide_1
+    21300234: 256-Knock Out-RAPUNZEL_KnockOutSide_2
+    21300236: 256-Knock Out-RAPUNZEL_KnockOutSide_3
+    21300238: 256-Knock Out-RAPUNZEL_KnockOutSide_4
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 256-Air Attack-RAPUNZEL_AirAttack_1
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1171
+        width: 162
+        height: 199
+      alignment: 9
+      pivot: {x: 0.22222222, y: 0.48241207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7b36cf9730dfc45b2275ddd0901f70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Air Attack-RAPUNZEL_AirAttack_2
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1376
+        width: 175
+        height: 212
+      alignment: 9
+      pivot: {x: 0.4457143, y: 0.46698114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1f34c3bcc30ee4b89a61f0d4ea07aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Air Attack-RAPUNZEL_AirAttack_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1099
+        width: 159
+        height: 211
+      alignment: 9
+      pivot: {x: 0.7044025, y: 0.47867298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2269d7074b704514aa3355223342c00f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Air Attack-RAPUNZEL_AirAttack_4
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1173
+        width: 166
+        height: 216
+      alignment: 9
+      pivot: {x: 0.30120483, y: 0.4675926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9d0954cd9b5924d9d190149d79ff0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Air Attack-RAPUNZEL_AirAttack_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1093
+        width: 159
+        height: 194
+      alignment: 9
+      pivot: {x: 0.2893082, y: 0.46391752}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ec8e4207f01c94b868f07a124233b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Attack-RAPUNZEL_Attack_1-1
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 443
+        width: 90
+        height: 187
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.4973262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebeeb2e3e105ff4fbc2562d7bb54ebc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Attack-RAPUNZEL_Attack_1-2
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 414
+        width: 90
+        height: 188
+      alignment: 9
+      pivot: {x: 0.65555555, y: 0.49468085}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2052e9ed3866c6447863e7d8df5e6f9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Attack-RAPUNZEL_Attack_1-3
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 2026
+        width: 143
+        height: 181
+      alignment: 9
+      pivot: {x: 0.73426574, y: 0.50276244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c6b5760a7aead44b9453871c04bfeb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Attack-RAPUNZEL_Attack_1-4
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 1839
+        width: 143
+        height: 181
+      alignment: 9
+      pivot: {x: 0.73426574, y: 0.50276244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c9ef52860881f41883671d4fb17c80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Attack-RAPUNZEL_Attack_1-5
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 3533
+        width: 144
+        height: 181
+      alignment: 9
+      pivot: {x: 0.7361111, y: 0.50276244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf8f60fdeaba2247984a34b3dd08ee3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Attack-RAPUNZEL_Attack_1-6
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1142
+        width: 104
+        height: 177
+      alignment: 9
+      pivot: {x: 0.6442308, y: 0.5141243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fa86c9d0c3b804bafff54c6ac6ed8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Attack-RAPUNZEL_Attack_2-1
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1527
+        width: 142
+        height: 178
+      alignment: 9
+      pivot: {x: 0.6619718, y: 0.51123595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa955e51d4e3bd64098351498318ab62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Attack-RAPUNZEL_Attack_2-2
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 996
+        width: 138
+        height: 179
+      alignment: 9
+      pivot: {x: 0.65217394, y: 0.5083799}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982632776db54884e983108636a8e854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Attack-RAPUNZEL_Attack_2-3
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 1494
+        width: 142
+        height: 185
+      alignment: 9
+      pivot: {x: 0.471831, y: 0.4918919}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292d736c1c7bb7b488a1c41d155e0071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Attack-RAPUNZEL_Attack_2-4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 789
+        width: 93
+        height: 188
+      alignment: 9
+      pivot: {x: 0.72043014, y: 0.4893617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e263f9373d208b4086e081bbb7a3d97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Attack-RAPUNZEL_Attack_2-5
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 635
+        width: 91
+        height: 189
+      alignment: 9
+      pivot: {x: 0.71428573, y: 0.4920635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe98ebe4343c1343bd35b33d4174d3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Attack-RAPUNZEL_Attack_2-6
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 636
+        width: 93
+        height: 188
+      alignment: 9
+      pivot: {x: 0.72043014, y: 0.4893617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb012ec58ae9ba4299c01d1827129be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Attack-RAPUNZEL_Attack_3-3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1181
+        width: 162
+        height: 182
+      alignment: 9
+      pivot: {x: 0.40123457, y: 0.489011}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd518c50b8ea7524dba6ffc28ae8a323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Attack-RAPUNZEL_Attack_3-4
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 3720
+        width: 149
+        height: 158
+      alignment: 9
+      pivot: {x: 0.7114094, y: 0.5822785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bceb04d90feb5cd46b31de4a50f23229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Attack-RAPUNZEL_Attack_3-5
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1152
+        width: 140
+        height: 154
+      alignment: 9
+      pivot: {x: 0.64285713, y: 0.6038961}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210a1a1e46720d6458d8ef256a94830d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Attack-RAPUNZEL_Attack_3-6
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 1685
+        width: 143
+        height: 148
+      alignment: 9
+      pivot: {x: 0.6503497, y: 0.6283784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06750ed0092dc0f4f88f5f219dcbee64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Attack-RAPUNZEL_Attack_3-7
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1013
+        width: 138
+        height: 154
+      alignment: 9
+      pivot: {x: 0.6376812, y: 0.6038961}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836cd1c87a329da49bad5b0cc4beff1c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Attack-RAPUNZEL_Attack_3-9
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1407
+        width: 99
+        height: 182
+      alignment: 9
+      pivot: {x: 0.6262626, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f833ada3efb9ad542a07a853a497787f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Attack-RAPUNZEL_Attack_PAN
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 3564
+        width: 60
+        height: 43
+      alignment: 9
+      pivot: {x: -0.6166667, y: 0.25581396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9921dbb8e4b941441969954e04e65ec8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Damaged Down-RAPUNZEL_DamagedDown_1
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1301
+        width: 174
+        height: 187
+      alignment: 9
+      pivot: {x: 0.5344828, y: 0.5294118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62744be597411804ca2fd9cc48ccfa53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Damaged Down-RAPUNZEL_DamagedDown_2
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1955
+        width: 192
+        height: 125
+      alignment: 9
+      pivot: {x: 0.515625, y: 0.584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9963c68294500d14e9cfdb39883863eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Damaged Down-RAPUNZEL_DamagedDown_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1293
+        width: 197
+        height: 124
+      alignment: 9
+      pivot: {x: 0.44162437, y: 0.5564516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83fe8eb65eb3e34fbc307e112b98abd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Damaged Down-RAPUNZEL_DamagedDown_4
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 1188
+        width: 70
+        height: 211
+      alignment: 9
+      pivot: {x: 0.37142858, y: 0.4549763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31cc1d5788bafc4a97802c0dfe53109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Damaged-RAPUNZEL_Damaged_1
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1711
+        width: 116
+        height: 177
+      alignment: 9
+      pivot: {x: 0.62068963, y: 0.5141243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd63772eb7f1e84fa52b4c94416183a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Damaged-RAPUNZEL_Damaged_2
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 608
+        width: 119
+        height: 188
+      alignment: 9
+      pivot: {x: 0.60504204, y: 0.5159575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef89212bd887bda4590e21be1966279e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Damaged-RAPUNZEL_Damaged_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 918
+        width: 134
+        height: 169
+      alignment: 9
+      pivot: {x: 0.64179105, y: 0.5443787}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f8ef53b1400fc4a8c54abe68ab8af4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Damaged-RAPUNZEL_Damaged_4
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 2213
+        width: 144
+        height: 172
+      alignment: 9
+      pivot: {x: 0.6527778, y: 0.5406977}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f636d929f0ca8b045aaf0c2cfa20c16a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Dash Attack-RAPUNZEL_DashAttack_1
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1395
+        width: 173
+        height: 194
+      alignment: 9
+      pivot: {x: 0.6763006, y: 0.5154639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b332bd5c02e8a743929c0fbaee55a45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Dash Attack-RAPUNZEL_DashAttack_2
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1495
+        width: 179
+        height: 181
+      alignment: 9
+      pivot: {x: 0.29608938, y: 0.519337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66419010c48d71047b056cb9466a120e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Dash Attack-RAPUNZEL_DashAttack_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1316
+        width: 198
+        height: 173
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5549133}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3358f939bbe8345a7b37ab29de1232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Dash Attack-RAPUNZEL_DashAttack_4
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 830
+        width: 137
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5912409, y: 0.53107345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac31d9bd24ffda4ca9d9aec24e45a93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Idle-RAPUNZEL_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 978
+        width: 102
+        height: 187
+      alignment: 9
+      pivot: {x: 0.4509804, y: 0.486631}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4309943bfa74e434ca60b03c9a65a1a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Idle-RAPUNZEL_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 983
+        width: 101
+        height: 187
+      alignment: 9
+      pivot: {x: 0.44554454, y: 0.51336896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d8583274c4d73418d4c08bcc06909a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Idle-RAPUNZEL_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 2313
+        width: 110
+        height: 194
+      alignment: 9
+      pivot: {x: 0.4090909, y: 0.49484536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191953499d58f5445b00f693c338aabf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Idle-RAPUNZEL_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 512
+        width: 122
+        height: 191
+      alignment: 9
+      pivot: {x: 0.5081967, y: 0.486911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4fa64a7547a98459e1f6b21391e39b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Idle-RAPUNZEL_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 986
+        width: 104
+        height: 189
+      alignment: 9
+      pivot: {x: 0.48076922, y: 0.48677248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6cea20e0a134ec4c87b04c1149df42f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Jump-RAPUNZEL_Jump_1
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1176
+        width: 94
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5212766, y: 0.51111114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88effc76ade818a448de80d016f13e58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Jump-RAPUNZEL_Jump_2
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 933
+        width: 94
+        height: 213
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52112675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c53b1d7b3a3af44ba83f2207ee7637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Jump-RAPUNZEL_Jump_3
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1894
+        width: 116
+        height: 195
+      alignment: 9
+      pivot: {x: 0.57758623, y: 0.47179487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d0c0f0cd6a761449d04a42d489657c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Jump-RAPUNZEL_Jump_4
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 802
+        width: 128
+        height: 188
+      alignment: 9
+      pivot: {x: 0.609375, y: 0.4680851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4022029d903a52b47a655b47fe48a6f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Knock Out-RAPUNZEL_KnockOut_1
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2513
+        width: 111
+        height: 202
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.46534654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77efdc36214bd641b22a87cc65247db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Knock Out-RAPUNZEL_KnockOut_2
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 2095
+        width: 109
+        height: 212
+      alignment: 9
+      pivot: {x: 0.6330275, y: 0.495283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9bb8f807ae5fd41970ef175865d81e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Knock Out-RAPUNZEL_KnockOut_3
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 979
+        width: 84
+        height: 203
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0.4729064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7772d40d0739754429739d9b5fb0f193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Knock Out-RAPUNZEL_KnockOut_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 701
+        width: 122
+        height: 196
+      alignment: 9
+      pivot: {x: 0.30327868, y: 0.48469388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b38c6c1bc6ca4c49a9d11b97375f366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-ULT&Spin-RAPUNZEL_ULT&Spin_1
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 1118
+        width: 103
+        height: 177
+      alignment: 9
+      pivot: {x: 0.39805827, y: 0.5141243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fcf2b64da86e346b760400d734b89a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-ULT&Spin-RAPUNZEL_ULT&Spin_2
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1142
+        width: 104
+        height: 177
+      alignment: 9
+      pivot: {x: 0.42307693, y: 0.5141243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ed0085abe0b0d4f8ecf095c0957084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-ULT&Spin-RAPUNZEL_ULT&Spin_3
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 1405
+        width: 74
+        height: 201
+      alignment: 9
+      pivot: {x: 0.4864865, y: 0.47263682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9584e39b8ae264da12ed20152641ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-ULT&Spin-RAPUNZEL_ULT&Spin_4
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 3884
+        width: 151
+        height: 209
+      alignment: 9
+      pivot: {x: 0.5033113, y: 0.47368422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed48df97f61bf74ab36e7b357e3d16e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-ULT&Spin-RAPUNZEL_ULT&Spin_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 709
+        width: 128
+        height: 203
+      alignment: 9
+      pivot: {x: 0.6328125, y: 0.49753696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5b97428236e784bb80f3a5e45836ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-ULT&Spin-RAPUNZEL_ULT&Spin_6
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 584
+        width: 90
+        height: 206
+      alignment: 9
+      pivot: {x: 0.45555556, y: 0.49029127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3690b3f73b2b74c91747459e91e2ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512-Arial Hair-RAPUNZLE_ArialHair_1
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2998
+        width: 287
+        height: 115
+      alignment: 9
+      pivot: {x: 0.4703833, y: 0.026086956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2730b7e9901f383439d6e08426fcf111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512-Arial Hair-RAPUNZLE_ArialHair_2
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2874
+        width: 281
+        height: 118
+      alignment: 9
+      pivot: {x: 0.50889677, y: 0.042372882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7d4189d3dbc514b88a05d1eadef01e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512-Arial Hair-RAPUNZLE_ArialHair_3
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 2855
+        width: 269
+        height: 120
+      alignment: 9
+      pivot: {x: 0.527881, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a1b2f03879ff94cb4909f66eda1274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512-Dash-RAPUNZEL_Dash_1
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 2964
+        width: 238
+        height: 177
+      alignment: 9
+      pivot: {x: 0.7226891, y: 0.46327683}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bea355223e163449eed7e2a96406e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512-Dash-RAPUNZEL_Dash_2
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 2123
+        width: 246
+        height: 197
+      alignment: 9
+      pivot: {x: 0.7601626, y: 0.4822335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac36d3d010c42604ead0a97eeac7916e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512-Down Attack-RAPUNZEL_DownAttack_1
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 2065
+        width: 248
+        height: 153
+      alignment: 9
+      pivot: {x: 0.2983871, y: 0.6013072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db235efb83c3ccb498fe8922e9551b28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512-Down Attack-RAPUNZEL_DownAttack_2
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2135
+        width: 249
+        height: 124
+      alignment: 9
+      pivot: {x: 0.28915662, y: 0.7177419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa750a7024485647bff94ac331cb888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512-Down Attack-RAPUNZEL_DownAttack_3
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 2578
+        width: 255
+        height: 125
+      alignment: 9
+      pivot: {x: 0.28235295, y: 0.712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d79bcd4179fafe4ea46ccf36bd817ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512-Down Attack-RAPUNZEL_DownAttack_4
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2739
+        width: 254
+        height: 129
+      alignment: 9
+      pivot: {x: 0.2913386, y: 0.7209302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8caf6bae4b07440b568eb63096796e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512-Down Attack-RAPUNZEL_DownAttack_5
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 3147
+        width: 239
+        height: 127
+      alignment: 9
+      pivot: {x: 0.30962342, y: 0.72440946}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bafe8cd23c0094b83312149e6aec49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512-Hair Combo-RAPUNZEL_HairCombo_1
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 3791
+        width: 306
+        height: 268
+      alignment: 9
+      pivot: {x: 0.38562092, y: 0.39179105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917e95464229a5948894ef2a28cb5a89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512-Hair Combo-RAPUNZEL_HairCombo_2
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 2981
+        width: 287
+        height: 270
+      alignment: 9
+      pivot: {x: 0.4076655, y: 0.39259258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0733fa7a441acd0438ffc3de4d3f6379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512-Hair Combo-RAPUNZEL_HairCombo_3
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 3257
+        width: 290
+        height: 252
+      alignment: 9
+      pivot: {x: 0.39655173, y: 0.40079364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4305b3bb059632741b512054329f12d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512-Hair Combo-RAPUNZEL_HairCombo_4
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 3515
+        width: 293
+        height: 270
+      alignment: 9
+      pivot: {x: 0.3890785, y: 0.4037037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc65a6484308c04e96e7a36efbef9e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512-Knock Down-RAPUNZEL_KnockDown_1
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1594
+        width: 179
+        height: 79
+      alignment: 9
+      pivot: {x: 0.48044693, y: 1.2911392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae07a57bb17effa4495b620867591f1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512-Knock Down-RAPUNZEL_KnockDown_2
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1955
+        width: 192
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5052083, y: 1.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebad9329635e6a418ff0bc14fb45b44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512-Knock Down-RAPUNZEL_KnockDown_4
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1595
+        width: 204
+        height: 58
+      alignment: 9
+      pivot: {x: 0.50490195, y: 1.8448275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901f0c64f9a0a524dae6fde62ee7c795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512-Move-RAPUNZEL_Move_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1423
+        width: 213
+        height: 204
+      alignment: 9
+      pivot: {x: 0.7230047, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b5112e2995ebc448d3b56e1fd72f33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512-Move-RAPUNZEL_Move_2
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1853
+        width: 235
+        height: 206
+      alignment: 9
+      pivot: {x: 0.77446806, y: 0.5048544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7392f65010df0bd498c1e313d5d5b8f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512-Move-RAPUNZEL_Move_3
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 2524
+        width: 252
+        height: 191
+      alignment: 9
+      pivot: {x: 0.74603176, y: 0.460733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2dfc389dd15859438b54a79c2872bb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512-Move-RAPUNZEL_Move_4
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1639
+        width: 226
+        height: 208
+      alignment: 9
+      pivot: {x: 0.75663716, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf5d15cdf7a99441a4cbdf6cdb1dfe9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512-Move-RAPUNZEL_Move_5
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1659
+        width: 227
+        height: 208
+      alignment: 9
+      pivot: {x: 0.76651984, y: 0.50961536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08cc5aca38345274d9150b7cff5c134c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512-Move-RAPUNZEL_Move_6
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 2180
+        width: 250
+        height: 205
+      alignment: 9
+      pivot: {x: 0.732, y: 0.49756098}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206835fb1a63b09468efca5ca80e9e1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512-Up Attack-RAPUNZEL_UpAttack_1
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 796
+        width: 120
+        height: 184
+      alignment: 9
+      pivot: {x: 0.53333336, y: 0.5054348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2002cb4f7bc9941baedba2f4359c87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512-Up Attack-RAPUNZEL_UpAttack_2
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 512
+        width: 114
+        height: 183
+      alignment: 9
+      pivot: {x: 0.55263156, y: 0.5081967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babf2ca2a803ec2479ee2cc51a1b1344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512-Up Attack-RAPUNZEL_UpAttack_3-1
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1345
+        width: 242
+        height: 261
+      alignment: 9
+      pivot: {x: 0.2892562, y: 0.35249043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef6e5f46ee820846a0b9226310b1f43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512-Up Attack-RAPUNZEL_UpAttack_3-2
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 2087
+        width: 247
+        height: 252
+      alignment: 9
+      pivot: {x: 0.2834008, y: 0.36507937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9898cf73fcd1e748b929a1b6ea32114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512-Up Attack-RAPUNZEL_UpAttack_4-1
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1682
+        width: 191
+        height: 267
+      alignment: 9
+      pivot: {x: 0.28795812, y: 0.3445693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134ae6ee3f59bb349a39055ff144117f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512-Up Attack-RAPUNZEL_UpAttack_4-2
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1369
+        width: 199
+        height: 264
+      alignment: 9
+      pivot: {x: 0.2713568, y: 0.34848484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f4b68c4abefd2449e9ce1cc1a34cfe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512-Up Attack-RAPUNZEL_UpAttack_5
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1312
+        width: 140
+        height: 209
+      alignment: 9
+      pivot: {x: 0.69285715, y: 0.45933014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a748fc444de1d24b9c2e2e2b12e8b29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512-Up Attack-RAPUNZEL_UpAttack_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 903
+        width: 134
+        height: 190
+      alignment: 9
+      pivot: {x: 0.52238804, y: 0.50526315}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b61e72225b235349832c322beeec2f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAPUNZEL_SpecialEffect1-RAPUNZEL_SpecialEffect1_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2466
+        width: 434
+        height: 382
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43193716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6cbec2467c22743825e759b8892fb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAPUNZEL_SpecialEffect1-RAPUNZEL_SpecialEffect1_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2086
+        width: 434
+        height: 374
+      alignment: 9
+      pivot: {x: 0.50691247, y: 0.43850267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db84b93f6865934db74a6241774f8f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAPUNZEL_SpecialEffect1-RAPUNZEL_SpecialEffect1_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2854
+        width: 451
+        height: 259
+      alignment: 9
+      pivot: {x: 0.4323725, y: 0.6833977}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1f236e58548024aa88e18fc6fd820f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAPUNZEL_SpecialEffect1-RAPUNZEL_SpecialEffect1_4
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 2391
+        width: 412
+        height: 204
+      alignment: 9
+      pivot: {x: 0.37864077, y: 0.8480392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f6dfd4b2f7508448743e8c840585f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAPUNZEL_SpecialEffect1-RAPUNZEL_SpecialEffect1_5
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2721
+        width: 340
+        height: 128
+      alignment: 9
+      pivot: {x: 0.25588235, y: 1.3515625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8e8fd1bcbab5449a8e1c43f61ea68a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAPUNZEL_SpecialEffect2-RAPUNZEL_SpecialEffect2_1
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 2601
+        width: 705
+        height: 510
+      alignment: 9
+      pivot: {x: 0.48794326, y: 0.5392157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48026dae73ed983418c351cbc111e90f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAPUNZEL_SpecialEffect2-RAPUNZEL_SpecialEffect2_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3572
+        width: 779
+        height: 487
+      alignment: 9
+      pivot: {x: 0.49807444, y: 0.51950717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0821fd2b72ee49b41a1965d84f33d288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAPUNZEL_SpecialEffect2-RAPUNZEL_SpecialEffect2_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3119
+        width: 776
+        height: 447
+      alignment: 9
+      pivot: {x: 0.53737116, y: 0.4966443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5da789f3c3e484cb80d85cd78d24d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAPUNZEL_SpecialEffect2-RAPUNZEL_SpecialEffect2_4
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 3613
+        width: 780
+        height: 480
+      alignment: 9
+      pivot: {x: 0.53589743, y: 0.5416667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9918d3f99f38a84995467df5a07b7bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAPUNZEL_SpecialEffect2-RAPUNZEL_SpecialEffect2_5
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 3117
+        width: 712
+        height: 490
+      alignment: 9
+      pivot: {x: 0.5603933, y: 0.5653061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8ec77e77350574984c6243826896f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAPUNZEL_StormSE-RAPUNZEL_StormSE_1
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 2265
+        width: 251
+        height: 253
+      alignment: 9
+      pivot: {x: 0.5099602, y: 0.49407116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a500e5f004e4fd74fa974f6cfd41d3a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAPUNZEL_StormSE-RAPUNZEL_StormSE_2
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 1612
+        width: 244
+        height: 246
+      alignment: 9
+      pivot: {x: 0.52459013, y: 0.50406504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede478afa7f7f9e4b8f913dc7ba4506a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAPUNZEL_StormSE-RAPUNZEL_StormSE_3
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 2224
+        width: 251
+        height: 250
+      alignment: 9
+      pivot: {x: 0.5059761, y: 0.504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a688c7e7c083e4ab2aab92c845b09f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAPUNZEL_StormSE-RAPUNZEL_StormSE_4
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 2326
+        width: 250
+        height: 246
+      alignment: 9
+      pivot: {x: 0.492, y: 0.49186993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c000365d67facd94b932dd46d935611c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAPUNZEL_StormSE-RAPUNZEL_StormSE_5
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1873
+        width: 247
+        height: 256
+      alignment: 9
+      pivot: {x: 0.49392712, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93601893f943d9c42acc10b6e9a2c0fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAPUNZEL_StormSE-RAPUNZEL_StormSE_6
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 2709
+        width: 256
+        height: 249
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4939759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd380ac63bc5f0f4f947bc6e2b12febc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAPUNZEL_StormSE-RAPUNZEL_StormSE_7
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1679
+        width: 244
+        height: 251
+      alignment: 9
+      pivot: {x: 0.5081967, y: 0.49003986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac50c8da79f434b408f4724abb0a1266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAPUNZEL_StormSE-RAPUNZEL_StormSE_8
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 2480
+        width: 253
+        height: 253
+      alignment: 9
+      pivot: {x: 0.49802372, y: 0.49802372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2cbebb91c8e7a409fab7db96e9369b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAPUNZEL_StormSE-RAPUNZEL_StormSE_9
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 2345
+        width: 251
+        height: 250
+      alignment: 9
+      pivot: {x: 0.50199205, y: 0.512}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0715317949f88e41bddb4fa01df7cef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAPUNZEL_StormSE-RAPUNZEL_StormSE_10
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 1586
+        width: 243
+        height: 236
+      alignment: 9
+      pivot: {x: 0.52674896, y: 0.47457626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df105623d632fcc48bc4389087f266e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAPUNZEL_TongueSE
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4065
+        width: 1093
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5846295, y: -0.8214286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34639b676cb2e145950b74b7190a571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAPUNZEL_ULTSE-RAPUNZEL_ULTSE_1
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 1325
+        width: 241
+        height: 255
+      alignment: 9
+      pivot: {x: 0.47302905, y: 0.49803922}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce0eded807d7b14ba10334e0bb1cee7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAPUNZEL_ULTSE-RAPUNZEL_ULTSE_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1633
+        width: 233
+        height: 220
+      alignment: 9
+      pivot: {x: 0.47639486, y: 0.52272725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29178a116fc6a564483a324bf11c97e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAPUNZEL_ULTSE-RAPUNZEL_ULTSE_3
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1828
+        width: 244
+        height: 253
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5019763}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce2c36363479b241b0f8e950739eda4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAPUNZEL_ULTSE-RAPUNZEL_ULTSE_4
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 1864
+        width: 245
+        height: 253
+      alignment: 9
+      pivot: {x: 0.48979592, y: 0.5059289}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76f54068be368f41868869f5b7e16dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAPUNZEL_ULTSE-RAPUNZEL_ULTSE_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1859
+        width: 235
+        height: 221
+      alignment: 9
+      pivot: {x: 0.4893617, y: 0.479638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96f086d7f8b9d742b9220423ad0f1c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAPUNZEL_ULTSE-RAPUNZEL_ULTSE_6
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 3280
+        width: 239
+        height: 247
+      alignment: 9
+      pivot: {x: 0.5230126, y: 0.51821864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f874d6de948b54f8ff8f4ccc279637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAPUNZEL_ULTSE-RAPUNZEL_ULTSE_7
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 1118
+        width: 236
+        height: 221
+      alignment: 9
+      pivot: {x: 0.5042373, y: 0.51583713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85472c2389d4a4408be51eed203602b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RAPUNZEL_ULTSE-RAPUNZEL_ULTSE_8
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 1936
+        width: 247
+        height: 238
+      alignment: 9
+      pivot: {x: 0.49392712, y: 0.53361344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9896515aaa12d6a43a50827bd90af7c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Knock Out-RAPUNZEL_KnockOutSide_1
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2513
+        width: 111
+        height: 202
+      alignment: 9
+      pivot: {x: 1.2666667, y: 0.4653465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43c9f704fb7a3f42977d131e6889734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Knock Out-RAPUNZEL_KnockOutSide_2
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 2095
+        width: 109
+        height: 212
+      alignment: 9
+      pivot: {x: 1.2330275, y: 0.495283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79ffa7c5abb2ee4c9fec96724fab0fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Knock Out-RAPUNZEL_KnockOutSide_3
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 979
+        width: 84
+        height: 203
+      alignment: 9
+      pivot: {x: 1.283333, y: 0.4729064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6943df61f4112aa47a45487ac547ab61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Knock Out-RAPUNZEL_KnockOutSide_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 701
+        width: 122
+        height: 196
+      alignment: 9
+      pivot: {x: 0.9032787, y: 0.4846939}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05ac52ba8c462144a2ea27c0b3ee6f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cd0e72c4eaa2c4042accab6f7da90add
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

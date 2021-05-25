@@ -1,0 +1,36 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Function/TexturePacker/Example/SpriteSheet/sprites.tpsheet
+- Assets/TexturePacker/Editor/ALADDIN1.tpsheet
+- Assets/TexturePacker/Editor/ALICE1.tpsheet
+- Assets/TexturePacker/Editor/MOMOTARO1.tpsheet
+- Assets/TexturePacker/Editor/RAPUZEL1.tpsheet
+- Assets/TexturePacker/Editor/RED1.tpsheet
+- Assets/TexturePacker/Editor/SNOWWHITE1.tpsheet
+- Assets/TexturePacker/Editor/SpecialEffecf1.tpsheet
+- Assets/TexturePacker/Example/SpriteSheet/sprites.tpsheet
+textureFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Function/TexturePacker/Example/SpriteSheet/sprites.png
+- Assets/TexturePacker/Editor/ALADDIN1.png
+- Assets/TexturePacker/Editor/ALICE1.png
+- Assets/TexturePacker/Editor/MOMOTARO1.png
+- Assets/TexturePacker/Editor/RAPUZEL1.png
+- Assets/TexturePacker/Editor/RED1.png
+- Assets/TexturePacker/Editor/SNOWWHITE1.png
+- Assets/TexturePacker/Editor/SpecialEffecf1.png
+- Assets/TexturePacker/Example/SpriteSheet/sprites.png
+normalmapFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- Assets/Function/TexturePacker/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- Assets/TexturePacker/Example/SpriteSheet/sprites_n.png
+enableDebugOutput: 0

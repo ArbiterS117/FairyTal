@@ -1,0 +1,683 @@
+fileFormatVersion: 2
+guid: ce76837702b004948a7bf8202c84c77f
+timeCreated: 1465042181
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UnityChan ATK_0
+    21300002: UnityChan ATK_1
+    21300004: UnityChan ATK_2
+    21300006: UnityChan ATK_3
+    21300008: UnityChan ATK_4
+    21300010: UnityChan ATK_5
+    21300012: UnityChan ATK_6
+    21300014: UnityChan ATK_7
+    21300016: UnityChan ATK_8
+    21300018: UnityChan ATK_9
+    21300020: UnityChan ATK_10
+    21300022: UnityChan ATK_11
+    21300024: UnityChan ATK_12
+    21300026: UnityChan ATK_13
+    21300028: UnityChan ATK_14
+    21300030: UnityChan ATK_15
+    21300032: UnityChan ATK_16
+    21300034: UnityChan ATK_17
+    21300036: UnityChan ATK_18
+    21300038: UnityChan ATK_19
+    21300040: UnityChan ATK_20
+    21300042: UnityChan ATK_21
+    21300044: UnityChan ATK_22
+    21300046: UnityChan ATK_23
+    21300048: UnityChan ATK_81
+    21300050: UnityChan ATK_82
+    21300052: UnityChan ATK_83
+    21300054: UnityChan ATK_84
+    21300056: UnityChan ATK_85
+    21300058: UnityChan ATK_86
+    21300060: UnityChan ATK_87
+    21300062: UnityChan ATK_88
+    21300064: UnityChan ATK_24
+    21300066: UnityChan ATK_25
+    21300068: UnityChan ATK_26
+    21300070: UnityChan ATK_27
+    21300072: UnityChan ATK_28
+    21300074: UnityChan ATK_29
+    21300076: UnityChan ATK_30
+    21300078: UnityChan ATK_31
+    21300080: UnityChan ATK_32
+    21300082: UnityChan ATK_33
+    21300084: UnityChan ATK_34
+    21300086: UnityChan ATK_35
+    21300088: UnityChan ATK_36
+    21300090: UnityChan ATK_37
+    21300092: UnityChan ATK_38
+    21300094: UnityChan ATK_39
+    21300096: UnityChan ATK_40
+    21300098: UnityChan ATK_41
+    21300100: UnityChan ATK_42
+    21300102: UnityChan ATK_43
+    21300104: UnityChan ATK_44
+    21300106: UnityChan ATK_45
+    21300108: UnityChan ATK_46
+    21300110: UnityChan ATK_47
+    21300112: UnityChan ATK_48
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: UnityChan ATK_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1968
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1968
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1968
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1968
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1968
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1968
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1968
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_7
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1968
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1968
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1968
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1968
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_11
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1968
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1888
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1888
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1888
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1888
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_16
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1888
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_17
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1888
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_18
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1888
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_19
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1888
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1888
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_21
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1888
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_22
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1888
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_23
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1888
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 838
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_82
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 838
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_83
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 838
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_84
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 838
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_85
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 838
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_86
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 838
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_87
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 838
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_88
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 838
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1694
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_25
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1694
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_26
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1694
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_27
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1694
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_28
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1694
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_30
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1500
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_31
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1500
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_32
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1500
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_33
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1500
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1306
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_35
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1306
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_36
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1306
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_37
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1306
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_38
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1306
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1112
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_40
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1112
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_41
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1112
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_42
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1112
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_43
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1112
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 918
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_45
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 918
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_46
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 918
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_47
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 918
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UnityChan ATK_48
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 918
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

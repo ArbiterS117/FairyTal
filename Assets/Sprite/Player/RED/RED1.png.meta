@@ -1,0 +1,4233 @@
+fileFormatVersion: 2
+guid: 8495d2d2fab86264a9507f4522e9288f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RED1
+    21300002: AirAttack-RED_AirAttack_1
+    21300004: AirAttack-RED_AirAttack_2
+    21300006: AirAttack-RED_AirAttack_3
+    21300008: AirAttack-RED_AirAttack_4
+    21300010: AirAttack-RED_AirAttackSE_1
+    21300012: AirAttack-RED_AirAttackSE_2
+    21300014: AirAttack-RED_AirAttackSE_3
+    21300016: AirAttack-RED_AirAttackSE_4
+    21300018: ArialAce-RED_ArialAceSE_1
+    21300020: ArialAce-RED_ArialAceSE_2
+    21300022: ArialAce-RED_ArialAceSE_3
+    21300024: ArialAce-RED_ArialAceSE_4
+    21300026: ArialAce-RED_ArialAceSE_5
+    21300028: ArialAce-RED_ArialAceSE_6
+    21300030: ArialAce-RED_ArialAceSE_7
+    21300032: ArialAce-RED_ArialAceSE_8
+    21300034: ArialAce-RED_ArialAceSE_9
+    21300036: ArialAce-RED_ArialAceSE_10
+    21300038: Attack-RED_AirAttackSE_1
+    21300040: Attack-RED_AirAttackSE_2
+    21300042: Attack-RED_AirAttackSE_3
+    21300044: Attack-RED_AirAttackSE_4
+    21300046: Attack-RED_AirAttackSE_5
+    21300048: Attack-RED_Attack_1-1
+    21300050: Attack-RED_Attack_1-2
+    21300052: Attack-RED_Attack_1-3
+    21300054: Attack-RED_Attack_1-4
+    21300056: Attack-RED_Attack_2-1
+    21300058: Attack-RED_Attack_2-2
+    21300060: Attack-RED_Attack_2-3
+    21300062: Attack-RED_Attack_3-1
+    21300064: Attack-RED_Attack_3-2
+    21300066: Attack-RED_Attack_3-3
+    21300068: Attack-RED_Attack_4-1
+    21300070: Attack-RED_Attack_4-2
+    21300072: Attack-RED_AttackOldSE_1-1
+    21300074: Attack-RED_AttackOldSE_1-2
+    21300076: Attack-RED_AttackOldSE_1-3
+    21300078: Attack-RED_AttackOldSE_1-4
+    21300080: Attack-RED_AttackOldSE_2-1
+    21300082: Attack-RED_AttackOldSE_2-2
+    21300084: Attack-RED_AttackOldSE_2-3
+    21300086: Attack-RED_AttackOldSE_2-4
+    21300088: Attack-RED_AttackOldSE_3-1
+    21300090: Attack-RED_AttackOldSE_3-2
+    21300092: Attack-RED_AttackOldSE_3-3
+    21300094: Attack-RED_AttackOldSE_3-4
+    21300096: Attack-RED_AttackSE_1-1
+    21300098: Attack-RED_AttackSE_1-2
+    21300100: Attack-RED_AttackSE_1-3
+    21300102: Attack-RED_AttackSE_1-4
+    21300104: Attack-RED_AttackSE_1-5
+    21300106: Attack-RED_AttackSE_1-6
+    21300108: Attack-RED_AttackSE_3-1
+    21300110: Attack-RED_AttackSE_3-2
+    21300112: Attack-RED_AttackSE_3-3
+    21300114: Attack-RED_AttackSE_3-4
+    21300116: Damaged-RED_Damaged_1-1
+    21300118: Damaged-RED_Damaged_1-2
+    21300120: Damaged-RED_Damaged_2-1
+    21300122: Damaged-RED_Damaged_2-2
+    21300124: Damaged-RED_Damaged_3-1
+    21300126: DamageedDown-RED_DamageedDown_1
+    21300128: DamageedDown-RED_DamageedDown_2
+    21300130: DamageedDown-RED_DamageedDown_3
+    21300132: DamageedDown-RED_DamageedDown_4
+    21300134: Dash-RED_Dash_1
+    21300136: Dash-RED_Dash_2
+    21300138: DashAttack-RED_DashAttackSE_1
+    21300140: DashAttack-RED_DashAttackSE_2
+    21300142: DashAttack-RED_DashAttackSE_3
+    21300144: DashAttack-RED_DashAttackSE_4
+    21300146: DashAttack-RED_DashAttackSE_Basket
+    21300148: DownAttack-RED_DownAttack_1-2
+    21300150: DownAttack-RED_DownAttack_1-3
+    21300152: DownAttack-RED_DownAttack_2-1
+    21300154: DownAttack-RED_DownAttack_2-2
+    21300156: DownAttack-RED_DownAttack_2-3
+    21300158: DownAttack-RED_DownAttack_3-1
+    21300160: DownAttack-RED_DownAttack_3-2
+    21300162: DownAttack-RED_DownAttackSE_1
+    21300164: DownAttack-RED_DownAttackSE_2
+    21300166: DownAttack-RED_DownAttackSE_3
+    21300168: DownAttack-RED_DownAttackSE_4
+    21300170: Explode-RED_Explode_1
+    21300172: Explode-RED_Explode_2
+    21300174: Explode-RED_Explode_3
+    21300176: Explode-RED_Explode_4
+    21300178: Explode-RED_Explode_5
+    21300180: Explode-RED_Explode_6
+    21300182: Explode-RED_Explode_7
+    21300184: Explode-RED_Explode_8
+    21300186: Explode-RED_Explode_9
+    21300188: ForwardATK-Fire(body)-RED_ForwardATK_body_1
+    21300190: ForwardATK-Fire(body)-RED_ForwardATK_body_2
+    21300192: ForwardATK-Fire(body)-RED_ForwardATK_body_3
+    21300194: ForwardATK-Fire(body)-RED_ForwardATK_body_4
+    21300196: ForwardATK-RED_ForwardATK_1
+    21300198: ForwardATK-RED_ForwardATK_2
+    21300200: ForwardATK-RED_ForwardATK_3
+    21300202: ForwardATK-Slash(fire)-RED_ForwardATK_Slash_1
+    21300204: ForwardATK-Slash(fire)-RED_ForwardATK_Slash_2
+    21300206: ForwardATK-Slash(fire)-RED_ForwardATK_Slash_3
+    21300208: ForwardATK-Slash(fire)-RED_ForwardATK_Slash_4
+    21300210: ForwardATK-Slash(fire)-RED_ForwardATK_Slash_5
+    21300212: Idle-RED_Idle_1
+    21300214: Idle-RED_Idle_2
+    21300216: Idle-RED_Idle_3
+    21300218: Idle-RED_Idle_4
+    21300220: Idle-RED_Idle_5
+    21300222: Jump-RED_Jump_1
+    21300224: Jump-RED_Jump_2
+    21300226: Jump-RED_Jump_3
+    21300228: Jump-RED_Jump_4
+    21300230: KnockDown-RED_KnockDown_1
+    21300232: KnockDown-RED_KnockDown_2
+    21300234: KnockDown-RED_KnockDown_3
+    21300236: KnockDown-RED_KnockDown_4
+    21300238: KnockOuted-RED_KnockOuted_1
+    21300240: KnockOuted-RED_KnockOuted_2
+    21300242: KnockOuted-RED_KnockOuted_3
+    21300244: KnockOuted-RED_KnockOuted_4
+    21300246: Meteor-RED_Meteor_1
+    21300248: Meteor-RED_Meteor_2
+    21300250: Meteor-RED_Meteor_3
+    21300252: Meteor-RED_Meteor_4
+    21300254: Meteor-RED_Meteor_5
+    21300256: Meteor-RED_Meteor_6
+    21300258: Meteor-RED_Meteor_7
+    21300260: Meteor-RED_Meteor_8
+    21300262: Meteor-RED_Meteor_9
+    21300264: Meteor-RED_Meteor_10
+    21300266: Meteor-RED_Meteor_11
+    21300268: Meteor-RED_Meteor_12
+    21300270: Meteor-RED_Meteor_13
+    21300272: Meteor-RED_Meteor_14
+    21300274: Meteor-RED_Meteor_15
+    21300276: Meteor-RED_Meteor_16
+    21300278: Meteor-RED_Meteor_17
+    21300280: Meteor-RED_Meteor_18
+    21300282: Meteor-RED_Meteor_19
+    21300284: Move-RED_Move_1
+    21300286: Move-RED_Move_2
+    21300288: Move-RED_Move_3
+    21300290: Move-RED_Move_4
+    21300292: Move-RED_Move_5
+    21300294: Move-RED_Move_6
+    21300296: NewAttack-RED_NewAttack_1-1-1
+    21300298: NewAttack-RED_NewAttack_1-1-2
+    21300300: NewAttack-RED_NewAttack_1-2-1
+    21300302: NewAttack-RED_NewAttack_1-2-2
+    21300304: NewAttack-RED_NewAttack_1-2-3
+    21300306: NewAttack-RED_NewAttack_1-3-1
+    21300308: NewAttack-RED_NewAttack_1-3-2
+    21300310: NewAttack-RED_NewAttack_2-1-1
+    21300312: NewAttack-RED_NewAttack_2-1-2
+    21300314: NewAttack-RED_NewAttack_2-2-1
+    21300316: NewAttack-RED_NewAttack_2-2-2
+    21300318: NewAttack-RED_NewAttack_2-2-3
+    21300320: NewAttack-RED_NewAttack_2-3-1
+    21300322: NewAttack-RED_NewAttack_2-3-2
+    21300324: NewAttack-RED_NewAttack_3-1-1
+    21300326: NewAttack-RED_NewAttack_3-1-2
+    21300328: NewAttack-RED_NewAttack_3-2-1
+    21300330: NewAttack-RED_NewAttack_3-2-2
+    21300332: NewAttack-RED_NewAttack_3-2-3
+    21300334: NewAttack-RED_NewAttack_3-3-1
+    21300336: NewAttack-RED_NewAttack_3-3-2
+    21300338: PreULT-RED_PreULT_1
+    21300340: PreULT-RED_PreULT_2
+    21300342: PreULT-RED_PreULT_3
+    21300344: PreULT-RED_PreULT_4
+    21300346: PreULT-RED_PreULT_5
+    21300348: PreULT-RED_PreULT_6
+    21300350: PreULT-RED_PreULT_7
+    21300352: StoneStrike-RED_StoneStrike_1
+    21300354: StoneStrike-RED_StoneStrike_2
+    21300356: StoneStrike-RED_StoneStrike_3
+    21300358: StoneStrike-RED_StoneStrike_4
+    21300360: StoneStrike-RED_StoneStrike_5
+    21300362: StoneStrike-RED_StoneStrike_6
+    21300364: StoneStrike-RED_StoneStrike_7
+    21300366: StoneStrike-RED_StoneStrike_8
+    21300368: UpAttack-RED_UpAttack_1-1
+    21300370: UpAttack-RED_UpAttack_1-2
+    21300372: UpAttack-RED_UpAttack_2-1
+    21300374: UpAttack-RED_UpAttack_3-1
+    21300376: WineAttack-RED_WineAttack_1
+    21300378: WineAttack-RED_WineAttack_2
+    21300380: WineAttack-RED_WineAttack_3
+    21300382: WineAttack-RED_WineAttack_4
+    21300384: WineAttack-RED_WineAttack_5
+    21300386: WineAttack-RED_WineAttack_6
+    21300388: KnockOuted-RED_KnockOutedSide_1
+    21300390: KnockOuted-RED_KnockOutedSide_2
+    21300392: KnockOuted-RED_KnockOutedSide_3
+    21300394: KnockOuted-RED_KnockOutedSide_4
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AirAttack-RED_AirAttack_1
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 204
+        width: 180
+        height: 225
+      alignment: 9
+      pivot: {x: 0.6944444, y: 0.46666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfda37ccda07e594db2e6eb380ad38bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirAttack-RED_AirAttack_2
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 192
+        width: 183
+        height: 235
+      alignment: 9
+      pivot: {x: 0.69945353, y: 0.45957446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871468c0cae253e45be3340f83220e18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirAttack-RED_AirAttack_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 440
+        width: 189
+        height: 233
+      alignment: 9
+      pivot: {x: 0.3227513, y: 0.5493562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fb849554f590340872929140522ced
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirAttack-RED_AirAttack_4
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1427
+        width: 197
+        height: 177
+      alignment: 9
+      pivot: {x: 0.6243655, y: 0.37853107}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeac83cab9ecb7c44802afa598110b79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirAttack-RED_AirAttackSE_1
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 622
+        width: 182
+        height: 289
+      alignment: 9
+      pivot: {x: 0.016483517, y: 0.6920415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e9cbe3a7a27b942b445f9046e5c81b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirAttack-RED_AirAttackSE_2
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 627
+        width: 182
+        height: 289
+      alignment: 9
+      pivot: {x: 0.016483517, y: 0.6920415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9062b484019396d448b6faf5abc7ce2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirAttack-RED_AirAttackSE_3
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 329
+        width: 186
+        height: 288
+      alignment: 9
+      pivot: {x: 0.02688172, y: 0.6875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c7ae23d1513204b92de34b6a89b324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirAttack-RED_AirAttackSE_4
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 635
+        width: 186
+        height: 282
+      alignment: 9
+      pivot: {x: 0.043010753, y: 0.6985816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fe3cd54ada2a44cbffe420c7de6bd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArialAce-RED_ArialAceSE_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2528
+        width: 377
+        height: 339
+      alignment: 9
+      pivot: {x: 1.1021221, y: 0.43510324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0737f536f7d0f4a95a05595a52a178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArialAce-RED_ArialAceSE_2
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2203
+        width: 329
+        height: 373
+      alignment: 9
+      pivot: {x: 1.2112463, y: 0.41689008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbd4cef56130314080e93c13133cbd6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArialAce-RED_ArialAceSE_3
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 2267
+        width: 317
+        height: 379
+      alignment: 9
+      pivot: {x: 1.2255521, y: 0.41029024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a637b91bed6f44b86f3b8263fb5b50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArialAce-RED_ArialAceSE_4
+      rect:
+        serializedVersion: 2
+        x: 3778
+        y: 2889
+        width: 305
+        height: 383
+      alignment: 9
+      pivot: {x: 1.2868853, y: 0.42950392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7fc6962c7cb0e4c8711ded010b7c95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArialAce-RED_ArialAceSE_5
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 243
+        width: 183
+        height: 369
+      alignment: 9
+      pivot: {x: 1.3032787, y: 0.44850948}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a903acdbe03ffb64591ab15710dccb82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArialAce-RED_ArialAceSE_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1548
+        width: 319
+        height: 495
+      alignment: 9
+      pivot: {x: 1.4905956, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbccefc9bb23aa846a27402fc9ed20ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArialAce-RED_ArialAceSE_7
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 520
+        width: 192
+        height: 473
+      alignment: 9
+      pivot: {x: 2.4921875, y: 0.52114165}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8ad8ace6f930a46a2ec252685f8d87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArialAce-RED_ArialAceSE_8
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 548
+        width: 155
+        height: 429
+      alignment: 9
+      pivot: {x: 3.080645, y: 0.5699301}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78715970c1d3abe43912159779b83957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArialAce-RED_ArialAceSE_9
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 620
+        width: 120
+        height: 291
+      alignment: 9
+      pivot: {x: 3.9625, y: 0.8298969}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d6d9207d2500b4083cc2b7625744cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArialAce-RED_ArialAceSE_10
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 1684
+        width: 104
+        height: 204
+      alignment: 9
+      pivot: {x: 4.5913463, y: 1.1838236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb0971c10a4f5043b4777768d0e2409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-RED_AirAttackSE_1
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1549
+        width: 233
+        height: 369
+      alignment: 9
+      pivot: {x: 0.4549356, y: 0.50948507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e798ec9f4ce6dd945955c2e4cc64889f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-RED_AirAttackSE_2
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 2271
+        width: 226
+        height: 375
+      alignment: 9
+      pivot: {x: 0.44690266, y: 0.48533332}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ef7ec8153c1d349947c8e56306a7fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-RED_AirAttackSE_3
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1619
+        width: 265
+        height: 382
+      alignment: 9
+      pivot: {x: 0.5245283, y: 0.5026178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668fd003451bb9241baa84597c14b21c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-RED_AirAttackSE_4
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 1846
+        width: 252
+        height: 319
+      alignment: 9
+      pivot: {x: 0.50793654, y: 0.56739813}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c23aa482c0375546aaec820eb4f7ed9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-RED_AirAttackSE_5
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1928
+        width: 268
+        height: 296
+      alignment: 9
+      pivot: {x: 0.5261194, y: 0.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7260fbbcb76774295737256f22adbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-RED_Attack_1-1
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 237
+        width: 158
+        height: 216
+      alignment: 9
+      pivot: {x: 0.33544305, y: 0.4074074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389687a5ddbe15f498aa58e551f2f898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-RED_Attack_1-2
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 12
+        width: 126
+        height: 215
+      alignment: 9
+      pivot: {x: 0.31746033, y: 0.40930232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7153a7363245f1459a1652ce8c9db6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-RED_Attack_1-3
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 2306
+        width: 91
+        height: 216
+      alignment: 9
+      pivot: {x: 0.36263737, y: 0.4074074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812800dfe417a304bbf5d9b77e3870ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-RED_Attack_1-4
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 5
+        width: 154
+        height: 177
+      alignment: 9
+      pivot: {x: 0.3181818, y: 0.519774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a47cea9de9a9b44d9fa1b7c3cfc7038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-RED_Attack_2-1
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 3035
+        width: 98
+        height: 181
+      alignment: 9
+      pivot: {x: 0.3877551, y: 0.5138122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1a4a5d1ce7981459ff1786b0ae9f53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-RED_Attack_2-2
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 2424
+        width: 97
+        height: 179
+      alignment: 9
+      pivot: {x: 0.39175257, y: 0.5139665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148a07bd83b09ae4db81c30905e45291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-RED_Attack_2-3
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1261
+        width: 130
+        height: 197
+      alignment: 9
+      pivot: {x: 0.6, y: 0.4467005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a920a20978e4e4448b2820c5cfe6d2ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-RED_Attack_3-1
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1374
+        width: 106
+        height: 175
+      alignment: 9
+      pivot: {x: 0.43396226, y: 0.49714285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c33ee74acbb3645b65c8fca3bba81d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-RED_Attack_3-2
+      rect:
+        serializedVersion: 2
+        x: 2978
+        y: 2091
+        width: 95
+        height: 205
+      alignment: 9
+      pivot: {x: 0.38947368, y: 0.53170735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0df3fb360ed7c40952fd98951e17c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-RED_Attack_3-3
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 934
+        width: 168
+        height: 192
+      alignment: 9
+      pivot: {x: 0.24404761, y: 0.47916666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8bf70543fb6774478df092979e939f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-RED_Attack_4-1
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 1898
+        width: 101
+        height: 195
+      alignment: 9
+      pivot: {x: 0.37623763, y: 0.5435898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9cacb7f2f1e8ce42a3110297d14ce9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-RED_Attack_4-2
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 107
+        width: 140
+        height: 188
+      alignment: 9
+      pivot: {x: 0.62857145, y: 0.5319149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1eb17b1ab1a81f4a85459a751fa9744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-RED_AttackOldSE_1-1
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 672
+        width: 192
+        height: 172
+      alignment: 9
+      pivot: {x: 0.22916667, y: 0.24418604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a181d0687431a42ae6de0e34f0824b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-RED_AttackOldSE_1-2
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1054
+        width: 201
+        height: 175
+      alignment: 9
+      pivot: {x: 0.2636816, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32f27395facfeb46900beb5bffa02c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-RED_AttackOldSE_1-3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1239
+        width: 206
+        height: 172
+      alignment: 9
+      pivot: {x: 0.29126215, y: 0.23255815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2dcad95867b8dc4b9b3b659dfe4c7e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-RED_AttackOldSE_1-4
+      rect:
+        serializedVersion: 2
+        x: 3555
+        y: 1817
+        width: 82
+        height: 161
+      alignment: 9
+      pivot: {x: -0.79268295, y: 0.21118012}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975dd0cdcfc36474c842ccf082e42e53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-RED_AttackOldSE_2-1
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 2591
+        width: 240
+        height: 89
+      alignment: 9
+      pivot: {x: 0.325, y: 0.46067417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58b7283a4f308244913879cb442d10e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-RED_AttackOldSE_2-2
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 2690
+        width: 246
+        height: 93
+      alignment: 9
+      pivot: {x: 0.36585367, y: 0.4516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc4185d4161f3b449f71698862d444e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-RED_AttackOldSE_2-3
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 463
+        width: 171
+        height: 75
+      alignment: 9
+      pivot: {x: 0.10526316, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd38df4f5b03cf408eac4c580dfaeaa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-RED_AttackOldSE_2-4
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1559
+        width: 227
+        height: 50
+      alignment: 9
+      pivot: {x: 0.32599118, y: 0.24}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e27b3aa4d190e243a41d8144dd1d1c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-RED_AttackOldSE_3-1
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 2116
+        width: 224
+        height: 145
+      alignment: 9
+      pivot: {x: 0.3482143, y: 0.49655172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe6cb85c92998f44b77dae74b19d850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-RED_AttackOldSE_3-2
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1401
+        width: 214
+        height: 144
+      alignment: 9
+      pivot: {x: 0.35514018, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337598ed7081fa94b932bc3e5c26159c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-RED_AttackOldSE_3-3
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1246
+        width: 206
+        height: 145
+      alignment: 9
+      pivot: {x: 0.32524273, y: 0.48965517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a9f64a238eb9f41b09e9baff1ef65c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-RED_AttackOldSE_3-4
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 3429
+        width: 29
+        height: 108
+      alignment: 9
+      pivot: {x: -3.6206896, y: 0.30555555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcfcd941314ef34d9ec87b7087488bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-RED_AttackSE_1-1
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 264
+        width: 181
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5082873, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae20636775af6a45ad3f8827e59b6c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-RED_AttackSE_1-2
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1555
+        width: 216
+        height: 53
+      alignment: 9
+      pivot: {x: 0.4398148, y: 0.509434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1814bdc721e90ed499883817c00ce87f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-RED_AttackSE_1-3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1490
+        width: 211
+        height: 48
+      alignment: 9
+      pivot: {x: 0.45971563, y: 0.47916666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48494db0030b024449d8d22c920d1ff7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-RED_AttackSE_1-4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 188
+        width: 188
+        height: 56
+      alignment: 9
+      pivot: {x: 0.39893618, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b1e2a813dde214bb833c469b5f9ddd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-RED_AttackSE_1-5
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 192
+        width: 170
+        height: 44
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.59090906}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e6544a44f374b4581414c95bd91285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-RED_AttackSE_1-6
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 1432
+        width: 166
+        height: 41
+      alignment: 9
+      pivot: {x: 0.45783132, y: 0.3902439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2dca93d1be97cf4fbba0082157c43a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-RED_AttackSE_3-1
+      rect:
+        serializedVersion: 2
+        x: 3082
+        y: 1789
+        width: 463
+        height: 189
+      alignment: 9
+      pivot: {x: 0.5053996, y: 0.55026454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a05f190c0fdf34dbbd49a7964f2206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-RED_AttackSE_3-2
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2877
+        width: 450
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5, y: 0.574359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcdc0328dd181a429c4ecf94b435bcc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-RED_AttackSE_3-3
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 2893
+        width: 454
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5088106, y: 0.57009345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5396bae0ff2561042a583ddd390cf482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-RED_AttackSE_3-4
+      rect:
+        serializedVersion: 2
+        x: 3649
+        y: 2277
+        width: 410
+        height: 216
+      alignment: 9
+      pivot: {x: 0.5804878, y: 0.5138889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84bc4d9dc6258a4aa05cf8334f0f285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged-RED_Damaged_1-1
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 308
+        width: 161
+        height: 187
+      alignment: 9
+      pivot: {x: 0.6459627, y: 0.54010695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6634f962122a009408cb06b990397f2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged-RED_Damaged_1-2
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 1096
+        width: 152
+        height: 181
+      alignment: 9
+      pivot: {x: 0.6184211, y: 0.5414365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9ecc4b3cbe248459d7170d01372972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged-RED_Damaged_2-1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 163
+        height: 173
+      alignment: 9
+      pivot: {x: 0.65030676, y: 0.54913294}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb14a1386223b2429d452119bd91916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged-RED_Damaged_2-2
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 1827
+        width: 172
+        height: 178
+      alignment: 9
+      pivot: {x: 0.61627907, y: 0.5505618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca011bbec2e7b9a45be253eaee88e6ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged-RED_Damaged_3-1
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 51
+        width: 163
+        height: 203
+      alignment: 9
+      pivot: {x: 0.5828221, y: 0.5418719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed89187580a74b041a84b2f71b13c903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageedDown-RED_DamageedDown_1
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 818
+        width: 168
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5654762, y: 0.68817204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6525c8b0058c387479ccdcfd15bb5522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageedDown-RED_DamageedDown_2
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1132
+        width: 187
+        height: 119
+      alignment: 9
+      pivot: {x: 0.48128343, y: 0.62184876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db192c1973dc8304bad32fddb0124a25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageedDown-RED_DamageedDown_3
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 1345
+        width: 172
+        height: 180
+      alignment: 9
+      pivot: {x: 0.4360465, y: 0.49444443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1955ea5238f3644bfcd5d43aab349c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageedDown-RED_DamageedDown_4
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1063
+        width: 110
+        height: 221
+      alignment: 9
+      pivot: {x: 0.44545454, y: 0.4479638}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5e7d9289fc16d42be464e9dfa6e580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash-RED_Dash_1
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 5
+        width: 182
+        height: 177
+      alignment: 9
+      pivot: {x: 0.6923077, y: 0.5141243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c689f756dd12ba41b242e1d93b5921f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash-RED_Dash_2
+      rect:
+        serializedVersion: 2
+        x: 2425
+        y: 1542
+        width: 179
+        height: 179
+      alignment: 9
+      pivot: {x: 0.7094972, y: 0.51955307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ea234ce76be9344877d667b4f2d63f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DashAttack-RED_DashAttackSE_1
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1618
+        width: 262
+        height: 147
+      alignment: 9
+      pivot: {x: 0.4980916, y: 0.8707483}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd1a60b645f77e43b3c656a144f0e34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DashAttack-RED_DashAttackSE_2
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1614
+        width: 236
+        height: 168
+      alignment: 9
+      pivot: {x: 0.43432203, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8273e3fc95b6e4aaa7b191e16f1e49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DashAttack-RED_DashAttackSE_3
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 2519
+        width: 217
+        height: 175
+      alignment: 9
+      pivot: {x: 0.38018432, y: 0.69142854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2722fd1265738442911bff6968aa4c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DashAttack-RED_DashAttackSE_4
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 6
+        width: 177
+        height: 192
+      alignment: 9
+      pivot: {x: 0.26271185, y: 0.59375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48de2a70967c5c94598b3fb6df2ac516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DashAttack-RED_DashAttackSE_Basket
+      rect:
+        serializedVersion: 2
+        x: 3083
+        y: 2950
+        width: 49
+        height: 54
+      alignment: 9
+      pivot: {x: 0.48979592, y: 0.4814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790c8c9532f2bf845aff1e9d2c20392c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownAttack-RED_DownAttack_1-2
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1468
+        width: 132
+        height: 181
+      alignment: 9
+      pivot: {x: 0.37878788, y: 0.5745856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3435f4875c41c874f8c162d9d5ed6bb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownAttack-RED_DownAttack_1-3
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1757
+        width: 100
+        height: 161
+      alignment: 9
+      pivot: {x: 0.03, y: 0.55279505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f72197e9c44fa949bea3d57dcf09823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownAttack-RED_DownAttack_2-1
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1792
+        width: 237
+        height: 151
+      alignment: 9
+      pivot: {x: 0.54008436, y: 0.6423841}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9526424c6b462ef40be6ff46e646d28c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownAttack-RED_DownAttack_2-2
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 2425
+        width: 237
+        height: 156
+      alignment: 9
+      pivot: {x: 0.54008436, y: 0.65384614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390dfd655cdb69a4d99053aab619f7e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownAttack-RED_DownAttack_2-3
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 1953
+        width: 237
+        height: 153
+      alignment: 9
+      pivot: {x: 0.54008436, y: 0.64705884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90fe820f888a9a42b0f9ef48ac56e97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownAttack-RED_DownAttack_3-1
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 1266
+        width: 121
+        height: 151
+      alignment: 9
+      pivot: {x: 0.47933885, y: 0.589404}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db0e5e2dfebaaf4ea5fc5af1b93dad8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownAttack-RED_DownAttack_3-2
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 437
+        width: 142
+        height: 195
+      alignment: 9
+      pivot: {x: 0.6056338, y: 0.5435898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c394c87ce47034c48a98ea56ed20359a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownAttack-RED_DownAttackSE_1
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 2503
+        width: 340
+        height: 181
+      alignment: 9
+      pivot: {x: 0.30882353, y: 0.6022099}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0356f4f6c77b11d469ff48eb41fba8aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownAttack-RED_DownAttackSE_2
+      rect:
+        serializedVersion: 2
+        x: 3740
+        y: 2694
+        width: 348
+        height: 185
+      alignment: 9
+      pivot: {x: 0.3275862, y: 0.61621624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd48ace691f8af46be1c6b973023454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownAttack-RED_DownAttackSE_3
+      rect:
+        serializedVersion: 2
+        x: 3647
+        y: 1731
+        width: 389
+        height: 187
+      alignment: 9
+      pivot: {x: 0.41131106, y: 0.6791444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4813ed88a29a52d408c30b261cd3b999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownAttack-RED_DownAttackSE_4
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 2359
+        width: 481
+        height: 163
+      alignment: 9
+      pivot: {x: 0.5155925, y: 0.69325155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8286bf69ef05244580b6ea16c110bcc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode-RED_Explode_1
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 2015
+        width: 477
+        height: 334
+      alignment: 9
+      pivot: {x: 0.47379455, y: 0.70658684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c37d6d26c70d5b46851d6300231b2ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode-RED_Explode_2
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 3306
+        width: 605
+        height: 377
+      alignment: 9
+      pivot: {x: 0.47768596, y: 0.6366048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b6904ce76b8bb438b63cd812a58893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode-RED_Explode_3
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 3117
+        width: 603
+        height: 420
+      alignment: 9
+      pivot: {x: 0.49751243, y: 0.5595238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34502738021339b4bac04f599c140945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode-RED_Explode_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3640
+        width: 654
+        height: 451
+      alignment: 9
+      pivot: {x: 0.47400612, y: 0.54102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7da858f497635f40b66fa62f4919cdf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode-RED_Explode_5
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 3656
+        width: 619
+        height: 435
+      alignment: 9
+      pivot: {x: 0.42487884, y: 0.49425286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618ba4a42a236284385e45fd05a6f56d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode-RED_Explode_6
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 3663
+        width: 606
+        height: 428
+      alignment: 9
+      pivot: {x: 0.4389439, y: 0.4813084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25fbb40737a31845a16e855498f0e09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode-RED_Explode_7
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 3226
+        width: 604
+        height: 420
+      alignment: 9
+      pivot: {x: 0.4437086, y: 0.4547619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16efb31366e0b0f45ac5ea4e3e8b9583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode-RED_Explode_8
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 3681
+        width: 601
+        height: 410
+      alignment: 9
+      pivot: {x: 0.43926787, y: 0.43170732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc3dfabbeef3534abf5569e9cc87060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Explode-RED_Explode_9
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 3693
+        width: 611
+        height: 398
+      alignment: 9
+      pivot: {x: 0.44517186, y: 0.42713568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3b7fddea21f4b48b74a61990deddb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForwardATK-Fire(body)-RED_ForwardATK_body_1
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 2011
+        width: 268
+        height: 182
+      alignment: 9
+      pivot: {x: 0.41417912, y: 0.54395604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11f758fb55976f43a79463e8eda463b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForwardATK-Fire(body)-RED_ForwardATK_body_2
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1659
+        width: 236
+        height: 267
+      alignment: 9
+      pivot: {x: 0.4957627, y: 0.49812734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97422ae01789694e92dc61b114573cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForwardATK-Fire(body)-RED_ForwardATK_body_3
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 2793
+        width: 176
+        height: 279
+      alignment: 9
+      pivot: {x: 0.6136364, y: 0.4874552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed990caa2e6c1c4196e33b712034857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForwardATK-Fire(body)-RED_ForwardATK_body_4
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 1136
+        width: 184
+        height: 281
+      alignment: 9
+      pivot: {x: 0.6304348, y: 0.4911032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227d79793e5b85540918ff84ae5a15ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForwardATK-RED_ForwardATK_1
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 926
+        width: 158
+        height: 167
+      alignment: 9
+      pivot: {x: 0.5443038, y: 0.53892213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b2482d6edfe5b4dbd726bbdec1870d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForwardATK-RED_ForwardATK_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 7
+        width: 179
+        height: 171
+      alignment: 9
+      pivot: {x: 0.575419, y: 0.5906433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90cd47208d98b9459d99b7b4807da21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForwardATK-RED_ForwardATK_3
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 1641
+        width: 120
+        height: 176
+      alignment: 9
+      pivot: {x: 0.55, y: 0.6193182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5246308c59e39874ba52b65b1c05c1ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForwardATK-Slash(fire)-RED_ForwardATK_Slash_1
+      rect:
+        serializedVersion: 2
+        x: 3778
+        y: 3282
+        width: 312
+        height: 141
+      alignment: 9
+      pivot: {x: 0.29807693, y: 0.6028369}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028020e9e053e88429a4630f93ac09ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForwardATK-Slash(fire)-RED_ForwardATK_Slash_2
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1936
+        width: 297
+        height: 145
+      alignment: 9
+      pivot: {x: 0.24242425, y: 0.5862069}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa7dfcb1007bb24db6163305acd3e20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForwardATK-Slash(fire)-RED_ForwardATK_Slash_3
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 2091
+        width: 298
+        height: 166
+      alignment: 9
+      pivot: {x: 0.25503355, y: 0.4759036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04e4aa49539d6248995a1e076d69a1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForwardATK-Slash(fire)-RED_ForwardATK_Slash_4
+      rect:
+        serializedVersion: 2
+        x: 3796
+        y: 3695
+        width: 289
+        height: 215
+      alignment: 9
+      pivot: {x: 0.2214533, y: 0.3627907}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb2c32a6bce0b04a8a58efd38a19e30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForwardATK-Slash(fire)-RED_ForwardATK_Slash_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1775
+        width: 263
+        height: 202
+      alignment: 9
+      pivot: {x: 0.16730037, y: 0.3960396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92dc98c2d07512644bba46160cc43c65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle-RED_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 1223
+        width: 172
+        height: 199
+      alignment: 9
+      pivot: {x: 0.6744186, y: 0.5678392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f7522b8ce04434da8a6a92d7a805e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle-RED_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 505
+        width: 173
+        height: 201
+      alignment: 9
+      pivot: {x: 0.6763006, y: 0.56218904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce11d10f439480b4b9878d9d77190cd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle-RED_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 28
+        width: 173
+        height: 205
+      alignment: 9
+      pivot: {x: 0.6763006, y: 0.5463415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53070399ad4aa92478a3d822c22dfcfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle-RED_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 110
+        width: 182
+        height: 187
+      alignment: 9
+      pivot: {x: 0.64285713, y: 0.54010695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fde3ef44006c34d89fb56fb940e75f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle-RED_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 921
+        width: 171
+        height: 196
+      alignment: 9
+      pivot: {x: 0.67836255, y: 0.56632656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ece8036881ded848936f8db875f6d0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump-RED_Jump_1
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 1014
+        width: 137
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5985401, y: 0.51758796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea19f5e568597864d9e48d037a9cbb1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump-RED_Jump_2
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 2704
+        width: 138
+        height: 201
+      alignment: 9
+      pivot: {x: 0.6086956, y: 0.5572139}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9cb841f9167e6f46bf49c954cbef719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump-RED_Jump_3
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 928
+        width: 159
+        height: 194
+      alignment: 9
+      pivot: {x: 0.6477987, y: 0.556701}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8404ff78206671244bc59e21a8c2c952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump-RED_Jump_4
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 723
+        width: 146
+        height: 201
+      alignment: 9
+      pivot: {x: 0.5753425, y: 0.5572139}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2b6e5978306d147be3401dd08fa2dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnockDown-RED_KnockDown_1
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1309
+        width: 196
+        height: 144
+      alignment: 9
+      pivot: {x: 0.39795917, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231268c8a22771d4db2d72f52aa4151b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnockDown-RED_KnockDown_2
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 305
+        width: 186
+        height: 107
+      alignment: 9
+      pivot: {x: 0.4247312, y: 1.1962616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd643defb3ed154c88975aa19d6c0af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnockDown-RED_KnockDown_3
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1219
+        width: 204
+        height: 73
+      alignment: 9
+      pivot: {x: 0.4019608, y: 1.2876712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defa7e8344e4b614d953d3ed190655dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnockDown-RED_KnockDown_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1421
+        width: 207
+        height: 59
+      alignment: 9
+      pivot: {x: 0.41062802, y: 1.7457627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf93511cbcb9594c826b0c7ffe35f8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnockOuted-RED_KnockOuted_1
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 209
+        width: 118
+        height: 225
+      alignment: 9
+      pivot: {x: 0.5762712, y: 0.5644444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa571cb8c1f8334b8c4f605946d0f9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnockOuted-RED_KnockOuted_2
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 2616
+        width: 97
+        height: 199
+      alignment: 9
+      pivot: {x: 0.49484536, y: 0.5276382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e02540418151614ea0b8d79badfafd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnockOuted-RED_KnockOuted_3
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 856
+        width: 114
+        height: 197
+      alignment: 9
+      pivot: {x: 0.21052632, y: 0.51269037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e82681cc0975214abb2353a036fd9e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnockOuted-RED_KnockOuted_4
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1178
+        width: 104
+        height: 186
+      alignment: 9
+      pivot: {x: 0.34615386, y: 0.5430108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b1049df549fd042a73a76512bb5ea7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor-RED_Meteor_1
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 439
+        width: 149
+        height: 71
+      alignment: 9
+      pivot: {x: 0.087248325, y: -1.915493}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0eaa4316231e340ac7baba9329aa80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor-RED_Meteor_2
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 2004
+        width: 256
+        height: 161
+      alignment: 9
+      pivot: {x: 0.25390625, y: -0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c69a630f7d44c645a4a0ec771a03893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor-RED_Meteor_3
+      rect:
+        serializedVersion: 2
+        x: 3796
+        y: 3920
+        width: 290
+        height: 171
+      alignment: 9
+      pivot: {x: 0.28275862, y: -0.50292397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b63c11775695f44b4d6531a58a6e92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor-RED_Meteor_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2332
+        width: 353
+        height: 186
+      alignment: 9
+      pivot: {x: 0.32294616, y: -0.45698926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b4733f306d86f4789252d501dd0bf7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor-RED_Meteor_5
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 2586
+        width: 373
+        height: 297
+      alignment: 9
+      pivot: {x: 0.34316355, y: 0.06734007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4910a1bc50b77fa4ebba5294aa9a4f46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor-RED_Meteor_6
+      rect:
+        serializedVersion: 2
+        x: 3649
+        y: 1928
+        width: 409
+        height: 339
+      alignment: 9
+      pivot: {x: 0.400978, y: 0.1740413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a07ef0fcc8bb648b735481fd21b896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor-RED_Meteor_7
+      rect:
+        serializedVersion: 2
+        x: 2563
+        y: 3082
+        width: 583
+        height: 571
+      alignment: 9
+      pivot: {x: 0.56946826, y: 0.5201401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d1014ac90d32946b5e72b45dd77640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor-RED_Meteor_8
+      rect:
+        serializedVersion: 2
+        x: 3185
+        y: 3099
+        width: 583
+        height: 572
+      alignment: 9
+      pivot: {x: 0.56946826, y: 0.5192308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37b8f7a489ebe14bab74552f7960da1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor-RED_Meteor_9
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 3547
+        width: 640
+        height: 544
+      alignment: 9
+      pivot: {x: 0.603125, y: 0.49632353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8213e0bff6bc7d047ba0c120dbbcfdc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor-RED_Meteor_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3082
+        width: 636
+        height: 548
+      alignment: 9
+      pivot: {x: 0.6069182, y: 0.49270073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ac97344f4e61b4093df41558dc40d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor-RED_Meteor_11
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 2656
+        width: 550
+        height: 560
+      alignment: 9
+      pivot: {x: 0.53818184, y: 0.50357145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6fef748edd5c7449c34a3ee7b45c15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor-RED_Meteor_12
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 2175
+        width: 550
+        height: 560
+      alignment: 9
+      pivot: {x: 0.53818184, y: 0.50357145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da0b79c777d29b4a992d1d34c109eb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor-RED_Meteor_13
+      rect:
+        serializedVersion: 2
+        x: 3156
+        y: 2538
+        width: 574
+        height: 551
+      alignment: 9
+      pivot: {x: 0.5574913, y: 0.4936479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874130e5bcf7be84685fbbff8e29c635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor-RED_Meteor_14
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 2745
+        width: 574
+        height: 551
+      alignment: 9
+      pivot: {x: 0.5574913, y: 0.4936479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d402bbeb69d4484a8db462120843942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor-RED_Meteor_15
+      rect:
+        serializedVersion: 2
+        x: 2517
+        y: 2532
+        width: 556
+        height: 540
+      alignment: 9
+      pivot: {x: 0.5467626, y: 0.4925926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ef4196c39062e459393f0139667d54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor-RED_Meteor_16
+      rect:
+        serializedVersion: 2
+        x: 3083
+        y: 1988
+        width: 556
+        height: 540
+      alignment: 9
+      pivot: {x: 0.5467626, y: 0.4925926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867bdd18f3ba91049b5c436f51e6899c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor-RED_Meteor_17
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2053
+        width: 320
+        height: 269
+      alignment: 9
+      pivot: {x: 0.35, y: 0.059479553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f17e2164f63684090849430ffe2cde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor-RED_Meteor_18
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 2254
+        width: 256
+        height: 161
+      alignment: 9
+      pivot: {x: 0.25390625, y: -0.5714286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c08d8d2ffb3ed4ea2fee3127d5ed9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor-RED_Meteor_19
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 443
+        width: 140
+        height: 67
+      alignment: 9
+      pivot: {x: 0.05, y: -2.0149255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce0b555c9c0dde498d383c53ca56f11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move-RED_Move_1
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 146
+        width: 159
+        height: 179
+      alignment: 9
+      pivot: {x: 0.6855346, y: 0.5083799}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d044583570b492443a5b251e0c093c07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move-RED_Move_2
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 716
+        width: 154
+        height: 202
+      alignment: 9
+      pivot: {x: 0.6883117, y: 0.52970296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec405bc2254b8ff4c80730da4a9206b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move-RED_Move_3
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 1483
+        width: 163
+        height: 190
+      alignment: 9
+      pivot: {x: 0.73006135, y: 0.5473684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b00f39da06f530428101aab1820a103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move-RED_Move_4
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 692
+        width: 155
+        height: 176
+      alignment: 9
+      pivot: {x: 0.67741936, y: 0.51704544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2da2b11b512fe4449a49ea8fd52952d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move-RED_Move_5
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 927
+        width: 156
+        height: 195
+      alignment: 9
+      pivot: {x: 0.67948717, y: 0.51282054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec74d150fa3e90498f5952100502d7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move-RED_Move_6
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 1069
+        width: 152
+        height: 186
+      alignment: 9
+      pivot: {x: 0.69736844, y: 0.53763443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5595bcd061d1da249973a038f0a5cd1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAttack-RED_NewAttack_1-1-1
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 1287
+        width: 151
+        height: 186
+      alignment: 9
+      pivot: {x: 0.54966885, y: 0.53763443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d80c93b726fc84bbd587e3fa05ecae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAttack-RED_NewAttack_1-1-2
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 1535
+        width: 151
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5562914, y: 0.53763443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5c1473806290a4c821d6051b06477a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAttack-RED_NewAttack_1-2-1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 876
+        width: 199
+        height: 168
+      alignment: 9
+      pivot: {x: 0.50753766, y: 0.6130952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90219fb89fe0f424584df89ed8622cb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAttack-RED_NewAttack_1-2-2
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 854
+        width: 198
+        height: 166
+      alignment: 9
+      pivot: {x: 0.510101, y: 0.61445785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9682cf27eb505458591c9a587368c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAttack-RED_NewAttack_1-2-3
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 335
+        width: 185
+        height: 181
+      alignment: 9
+      pivot: {x: 0.54594594, y: 0.6243094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1ff619e8822024093a1b5e9e11dfec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAttack-RED_NewAttack_1-3-1
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 1463
+        width: 205
+        height: 186
+      alignment: 9
+      pivot: {x: 0.60487807, y: 0.5483871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b558c8368585cdc4eb472990a0b22ac7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAttack-RED_NewAttack_1-3-2
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 115
+        width: 161
+        height: 183
+      alignment: 9
+      pivot: {x: 0.6459627, y: 0.49726775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0a5c1e750c78a4f8027c69c2d24c9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAttack-RED_NewAttack_2-1-1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 254
+        width: 188
+        height: 176
+      alignment: 9
+      pivot: {x: 0.4787234, y: 0.5625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1751319c74eb9c409b7615a37cd0ca7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAttack-RED_NewAttack_2-1-2
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1103
+        width: 130
+        height: 196
+      alignment: 9
+      pivot: {x: 0.35384616, y: 0.54591835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34f368cd30f2084e95f6cc0dbfe8a81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAttack-RED_NewAttack_2-2-1
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 627
+        width: 184
+        height: 181
+      alignment: 9
+      pivot: {x: 0.42391303, y: 0.49171272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4676b798f7145ee4aa16b7ccb3355d8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAttack-RED_NewAttack_2-2-2
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 1639
+        width: 167
+        height: 178
+      alignment: 9
+      pivot: {x: 0.41317365, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2edd020ddb2c944b1fb58bfbc6e658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAttack-RED_NewAttack_2-2-3
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 878
+        width: 160
+        height: 181
+      alignment: 9
+      pivot: {x: 0.36875, y: 0.49171272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6cd3e0ae80a7cd40ae38df09ce8d7f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAttack-RED_NewAttack_2-3-1
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 23
+        width: 119
+        height: 210
+      alignment: 9
+      pivot: {x: 0.29411766, y: 0.42380953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6f7f7b1b4dc8642a6f680a1bbfafc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAttack-RED_NewAttack_2-3-2
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 422
+        width: 161
+        height: 203
+      alignment: 9
+      pivot: {x: 0.33540374, y: 0.56157637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ace5f931f626f48b42b60ce80746e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAttack-RED_NewAttack_3-1-1
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 1474
+        width: 157
+        height: 199
+      alignment: 9
+      pivot: {x: 0.40127388, y: 0.45728642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f3b11fd8a7edb47932ba56378aaa08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAttack-RED_NewAttack_3-1-2
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 987
+        width: 123
+        height: 181
+      alignment: 9
+      pivot: {x: 0.2601626, y: 0.5690608}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862777e7381089440a9ece30c6d594f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAttack-RED_NewAttack_3-2-1
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1329
+        width: 204
+        height: 210
+      alignment: 9
+      pivot: {x: 0.49019608, y: 0.53809524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e7935f6db974d438e25ad80207245f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAttack-RED_NewAttack_3-2-2
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1003
+        width: 198
+        height: 206
+      alignment: 9
+      pivot: {x: 0.5050505, y: 0.5291262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275e8d5da570bad41844187613823460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAttack-RED_NewAttack_3-2-3
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1030
+        width: 202
+        height: 206
+      alignment: 9
+      pivot: {x: 0.4950495, y: 0.5291262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be54900fd429a249812088df4ea1284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAttack-RED_NewAttack_3-3-1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 683
+        width: 197
+        height: 183
+      alignment: 9
+      pivot: {x: 0.5786802, y: 0.57377046}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1265715d4f67c49a369a2c97c8a147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAttack-RED_NewAttack_3-3-2
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 5
+        width: 160
+        height: 189
+      alignment: 9
+      pivot: {x: 0.6625, y: 0.5185185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45dcf312f9f94234ca899c6b50d9bf5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreULT-RED_PreULT_1
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1127
+        width: 194
+        height: 192
+      alignment: 9
+      pivot: {x: 0.21649484, y: 0.114583336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d137adef44d45f4382e7e65d287a640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreULT-RED_PreULT_2
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 992
+        width: 127
+        height: 125
+      alignment: 9
+      pivot: {x: 0.07874016, y: -0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6aaf2dcb24c38f4c9f2fb0606add0c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreULT-RED_PreULT_3
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1294
+        width: 112
+        height: 97
+      alignment: 9
+      pivot: {x: 0.0625, y: -0.185567}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3162c57cbc4be394fbc38b595ccfe143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreULT-RED_PreULT_4
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 464
+        width: 141
+        height: 146
+      alignment: 9
+      pivot: {x: 0.120567374, y: 0.02739726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd02677a878936e4198320f8f5c04dfa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreULT-RED_PreULT_5
+      rect:
+        serializedVersion: 2
+        x: 3083
+        y: 3014
+        width: 58
+        height: 58
+      alignment: 9
+      pivot: {x: -0.39655173, y: -0.67241377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b0a1f2d407b8845be6420099a2544c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreULT-RED_PreULT_6
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 1483
+        width: 166
+        height: 191
+      alignment: 9
+      pivot: {x: 0.28313252, y: 0.12565444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93413a0926c774b4eab6237dd64de63d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PreULT-RED_PreULT_7
+      rect:
+        serializedVersion: 2
+        x: 3796
+        y: 3433
+        width: 284
+        height: 252
+      alignment: 9
+      pivot: {x: 0.26408452, y: 0.22222222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047700d777dbd9f41b4d363b879eab63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneStrike-RED_StoneStrike_1
+      rect:
+        serializedVersion: 2
+        x: 2599
+        y: 1826
+        width: 166
+        height: 179
+      alignment: 9
+      pivot: {x: 0.55421686, y: 0.5083799}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34dddd22d5188a47ade6f50415247a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneStrike-RED_StoneStrike_2
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 526
+        width: 145
+        height: 187
+      alignment: 9
+      pivot: {x: 0.5241379, y: 0.48128343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6286dc58520029e43bab3016a97d4b4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneStrike-RED_StoneStrike_3
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 1265
+        width: 129
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5426357, y: 0.5427136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc62461c90788d43b078d5ae6a56b73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneStrike-RED_StoneStrike_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 455
+        width: 189
+        height: 207
+      alignment: 9
+      pivot: {x: 0.4973545, y: 0.5797101}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e124c1af8040b84db448c3834c6c221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneStrike-RED_StoneStrike_5
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 246
+        width: 189
+        height: 199
+      alignment: 9
+      pivot: {x: 0.4973545, y: 0.5678392}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e22c3f4f0b4274e9e5068ec7d5a011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneStrike-RED_StoneStrike_6
+      rect:
+        serializedVersion: 2
+        x: 2978
+        y: 1899
+        width: 94
+        height: 182
+      alignment: 9
+      pivot: {x: 0.28723404, y: 0.52747256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ae0abdef4b11e46829442a5ff0eaff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneStrike-RED_StoneStrike_7
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 2915
+        width: 139
+        height: 192
+      alignment: 9
+      pivot: {x: 0.52517986, y: 0.5260417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67bb6b53fff12b94189158624a9ff70a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneStrike-RED_StoneStrike_8
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 439
+        width: 155
+        height: 178
+      alignment: 9
+      pivot: {x: 0.63225806, y: 0.5224719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091c32df2fe72794583fee19ec51766d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpAttack-RED_UpAttack_1-1
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 307
+        width: 108
+        height: 188
+      alignment: 9
+      pivot: {x: 0.49074075, y: 0.5319149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de473fd3ed97ca4bbff111dfab86dff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpAttack-RED_UpAttack_1-2
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 2103
+        width: 90
+        height: 208
+      alignment: 9
+      pivot: {x: 0.42222223, y: 0.52403843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c38e30fca4bbd64ab735020cce0b146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpAttack-RED_UpAttack_2-1
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 2822
+        width: 97
+        height: 203
+      alignment: 9
+      pivot: {x: 0.31958762, y: 0.5369458}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b32078335eace94183e63488a19e5d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpAttack-RED_UpAttack_3-1
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 642
+        width: 121
+        height: 204
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.4852941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b8ef2c8063a86418d951b8d92274bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WineAttack-RED_WineAttack_1
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 2321
+        width: 96
+        height: 93
+      alignment: 9
+      pivot: {x: 1.1666666, y: 1.655914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def56af6c81f08645b373ec4b953fddd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WineAttack-RED_WineAttack_2
+      rect:
+        serializedVersion: 2
+        x: 2452
+        y: 1732
+        width: 137
+        height: 157
+      alignment: 9
+      pivot: {x: 0.74452555, y: 0.88535035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9390cc14334e9c94ca4ad2f274563cef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WineAttack-RED_WineAttack_3
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1302
+        width: 214
+        height: 247
+      alignment: 9
+      pivot: {x: 0.55607474, y: 0.60728747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ae921d2b1dd2f49ba8c5904e0eff35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WineAttack-RED_WineAttack_4
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 1683
+        width: 250
+        height: 311
+      alignment: 9
+      pivot: {x: 0.568, y: 0.5305466}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a95d32de1ae7a4d8de156224be6a46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WineAttack-RED_WineAttack_5
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 2234
+        width: 270
+        height: 275
+      alignment: 9
+      pivot: {x: 0.537037, y: 0.42545456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5629646def9fe44abd278cdcd2a20a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WineAttack-RED_WineAttack_6
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1987
+        width: 280
+        height: 257
+      alignment: 9
+      pivot: {x: 0.50357145, y: 0.39688715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc1fe0eece503349a147dba74a99d4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnockOuted-RED_KnockOutedSide_1
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 209
+        width: 118
+        height: 225
+      alignment: 9
+      pivot: {x: 1.1762712, y: 0.5644444}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9937b087355f52f48a33efd757a349eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnockOuted-RED_KnockOutedSide_2
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 2616
+        width: 97
+        height: 199
+      alignment: 9
+      pivot: {x: 1.294845, y: 0.5276382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067c654ba968d6149810776445b91bc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnockOuted-RED_KnockOutedSide_3
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 856
+        width: 114
+        height: 197
+      alignment: 9
+      pivot: {x: 0.8105263, y: 0.5126904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260c91c26fc448d42940490a4721d3dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnockOuted-RED_KnockOutedSide_4
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1178
+        width: 104
+        height: 186
+      alignment: 9
+      pivot: {x: 0.9461539, y: 0.5430108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a6573402510fc4fa1d6a68d77c10d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f7f0cfa822e692f499a99c651fce6873
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

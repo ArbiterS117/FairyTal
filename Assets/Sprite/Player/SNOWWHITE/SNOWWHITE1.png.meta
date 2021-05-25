@@ -1,0 +1,2847 @@
+fileFormatVersion: 2
+guid: c0993abe5c4b21a4abcbad31b1052585
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SNOWWHITE1
+    21300002: 256-AppleMine-SNOWWHITE_AppleMine_1
+    21300004: 256-AppleMine-SNOWWHITE_AppleMine_2
+    21300006: 256-AppleMine-SNOWWHITE_AppleMine_3
+    21300008: 256-AppleMine-SNOWWHITE_AppleMine_4
+    21300010: 256-AppleMine-SNOWWHITE_AppleMine_5
+    21300012: 256-AppleMine-SNOWWHITE_AppleMine_6
+    21300014: 256-AppleMine-SNOWWHITE_AppleMine_7
+    21300016: 256-Attack-SNOWWHITE_Attack_1-1
+    21300018: 256-Attack-SNOWWHITE_Attack_1-2
+    21300020: 256-Attack-SNOWWHITE_Attack_1-3
+    21300022: 256-Attack-SNOWWHITE_Attack_1-4
+    21300024: 256-Attack-SNOWWHITE_Attack_1-5
+    21300026: 256-Attack-SNOWWHITE_Attack_1-6
+    21300028: 256-Attack-SNOWWHITE_Attack_1-7
+    21300030: 256-Attack-SNOWWHITE_Attack_1-8
+    21300032: 256-Attack-SNOWWHITE_Attack_3-1
+    21300034: 256-Attack-SNOWWHITE_Attack_3-2
+    21300036: 256-Attack-SNOWWHITE_Attack_3-3
+    21300038: 256-Attack-SNOWWHITE_Attack_3-4
+    21300040: 256-Attack-SNOWWHITE_Attack_3-5
+    21300042: 256-Attack-SNOWWHITE_Attack_3-6
+    21300044: 256-Attack-SNOWWHITE_Attack_3-7
+    21300046: 256-Attack-SNOWWHITE_Attack_3-8
+    21300048: 256-Damaged-SNOWWHITE_Damaged_1
+    21300050: 256-Damaged-SNOWWHITE_Damaged_2
+    21300052: 256-Damaged-SNOWWHITE_Damaged_3
+    21300054: 256-Damaged-SNOWWHITE_Damaged_4
+    21300056: 256-DamagedDown-SNOWWHITE_DamagedDown_1
+    21300058: 256-DamagedDown-SNOWWHITE_DamagedDown_2
+    21300060: 256-DamagedDown-SNOWWHITE_DamagedDown_3
+    21300062: 256-DamagedDown-SNOWWHITE_DamagedDown_4
+    21300064: 256-DownAttack-SNOWWHITE_DownAttack_2
+    21300066: 256-DownAttack-SNOWWHITE_DownAttack_3
+    21300068: 256-DraftRocket-SNOWWHITE_DraftRocket_1
+    21300070: 256-DraftRocket-SNOWWHITE_DraftRocket_2
+    21300072: 256-DraftRocket-SNOWWHITE_DraftRocket_3
+    21300074: 256-DraftRocket-SNOWWHITE_DraftRocket_4
+    21300076: 256-DraftRocket-SNOWWHITE_DraftRocket_5
+    21300078: 256-DraftRocket-SNOWWHITE_DraftRocket_6
+    21300080: 256-DraftRocket-SNOWWHITE_DraftRocket_7
+    21300082: 256-DraftRocket-SNOWWHITE_DraftRocket_8
+    21300084: 256-DraftRocket-SNOWWHITE_DraftRocket_9
+    21300086: 256-DraftRocket-SNOWWHITE_DraftRocket_10
+    21300088: 256-DraftRocket-SNOWWHITE_DraftRocket_Rocket
+    21300090: 256-Idle-SNOWWHITE_Idle_1
+    21300092: 256-Idle-SNOWWHITE_Idle_2
+    21300094: 256-Idle-SNOWWHITE_Idle_3
+    21300096: 256-Idle-SNOWWHITE_Idle_4
+    21300098: 256-Idle-SNOWWHITE_Idle_5
+    21300100: 256-Idle-SNOWWHITE_Idle_6
+    21300102: 256-Idle-SNOWWHITE_Idle_7
+    21300104: 256-Idle-SNOWWHITE_Idle_8
+    21300106: 256-Idle-SNOWWHITE_Idle_9
+    21300108: 256-Idle-SNOWWHITE_Idle_10
+    21300110: 256-Jump-SNOWWHITE_Jump_1
+    21300112: 256-Jump-SNOWWHITE_Jump_2
+    21300114: 256-Jump-SNOWWHITE_Jump_3
+    21300116: 256-Jump-SNOWWHITE_Jump_4
+    21300118: 256-KnockDown-SNOWWHITE_KnockDown_1
+    21300120: 256-KnockDown-SNOWWHITE_KnockDown_2
+    21300122: 256-KnockDown-SNOWWHITE_KnockDown_3
+    21300124: 256-KnockDown-SNOWWHITE_KnockDown_4
+    21300126: 256-KnockOut-SNOWWHITE_KnockOut_1
+    21300128: 256-KnockOut-SNOWWHITE_KnockOut_2
+    21300130: 256-KnockOut-SNOWWHITE_KnockOut_3
+    21300132: 256-KnockOut-SNOWWHITE_KnockOut_4
+    21300134: 256-Move-SNOWWHITE_Move_1
+    21300136: 256-Move-SNOWWHITE_Move_2
+    21300138: 256-Move-SNOWWHITE_Move_3
+    21300140: 256-Move-SNOWWHITE_Move_4
+    21300142: 256-Move-SNOWWHITE_Move_5
+    21300144: 256-Move-SNOWWHITE_Move_6
+    21300146: 256-SNOWWHITE_Weapon
+    21300148: 256-UPAttack-SNOWWHITE_UpAttack_1
+    21300150: 256-UPAttack-SNOWWHITE_UpAttack_2
+    21300152: 256-UPAttack-SNOWWHITE_UpAttack_3
+    21300154: 256-UPAttack-SNOWWHITE_UpAttack_4
+    21300156: 512-Attack-SNOWWHITE_Attack2-1
+    21300158: 512-Attack-SNOWWHITE_Attack2-2
+    21300160: 512-Attack-SNOWWHITE_Attack2-3
+    21300162: 512-Attack-SNOWWHITE_Attack2-4
+    21300164: 512-Attack-SNOWWHITE_Attack2-5
+    21300166: 512-Attack-SNOWWHITE_Attack2-6
+    21300168: 512-Attack-SNOWWHITE_Attack2-7
+    21300170: 512-Attack-SNOWWHITE_Attack2-8
+    21300172: 512-Attack-SNOWWHITE_Attack2-9
+    21300174: AppleMine-SNOWWHITE_AppleMineSE_1
+    21300176: AppleMine-SNOWWHITE_AppleMineSE_2
+    21300178: AppleMine-SNOWWHITE_AppleMineSE_3
+    21300180: AppleMine-SNOWWHITE_AppleMineSE_4
+    21300182: Attack-SNOWWHITE_AttackSE_1-1
+    21300184: Attack-SNOWWHITE_AttackSE_1-2
+    21300186: Attack-SNOWWHITE_AttackSE_1-3
+    21300188: Attack-SNOWWHITE_AttackSE_1-4
+    21300190: Attack-SNOWWHITE_AttackSE_2-1
+    21300192: Attack-SNOWWHITE_AttackSE_2-2
+    21300194: Attack-SNOWWHITE_AttackSE_2-3
+    21300196: Attack-SNOWWHITE_AttackSE_2-4
+    21300198: Attack-SNOWWHITE_AttackSE_2-5
+    21300200: Attack-SNOWWHITE_AttackSE_3-1
+    21300202: Attack-SNOWWHITE_AttackSE_3-2
+    21300204: Attack-SNOWWHITE_AttackSE_3-3
+    21300206: Attack-SNOWWHITE_AttackSE_3-4
+    21300208: Attack-SNOWWHITE_AttackSE_3-5
+    21300210: DraftRocket-SNOWWHITE_DraftRocket_Explode_1
+    21300212: DraftRocket-SNOWWHITE_DraftRocket_Explode_2
+    21300214: DraftRocket-SNOWWHITE_DraftRocket_Explode_3
+    21300216: DraftRocket-SNOWWHITE_DraftRocket_Explode_4
+    21300218: DraftRocket-SNOWWHITE_DraftRocket_Explode_5
+    21300220: DraftRocket-SNOWWHITE_DraftRocket_Explode_6
+    21300222: DraftRocket-SNOWWHITE_DraftRocket_Smoke_1
+    21300224: DraftRocket-SNOWWHITE_DraftRocket_Smoke_2
+    21300226: DraftRocket-SNOWWHITE_DraftRocket_Smoke_3
+    21300228: DraftRocket-SNOWWHITE_DraftRocket_Smoke_4
+    21300230: DraftRocket-SNOWWHITE_DraftRocket_Smoke_5
+    21300232: DraftRocket-SNOWWHITE_DraftRocket_Smoke_6
+    21300234: DraftRocket-SNOWWHITE_DraftRocket_Smoke_7
+    21300236: MushroomSpring-SNOWWHITE_MushroomSpring__1
+    21300238: MushroomSpring-SNOWWHITE_MushroomSpring__2
+    21300240: MushroomSpring-SNOWWHITE_MushroomSpring__3
+    21300242: MushroomSpring-SNOWWHITE_MushroomSpring__4
+    21300244: MushroomSpring-SNOWWHITE_MushroomSpring__5
+    21300246: MushroomSpring-SNOWWHITE_MushroomSpring__6
+    21300248: MushroomSpring-SNOWWHITE_MushroomSpring__7
+    21300250: MushroomSpring-SNOWWHITE_MushroomSpring__8
+    21300252: MushroomSpring-SNOWWHITE_MushroomSpring__9
+    21300254: MushroomSpring-SNOWWHITE_MushroomSpring__10
+    21300256: MushroomSpring-SNOWWHITE_MushroomSpring__11
+    21300258: 256-KnockOut-SNOWWHITE_KnockOutSide_4
+    21300260: 256-KnockOut-SNOWWHITE_KnockOutSide_1
+    21300262: 256-KnockOut-SNOWWHITE_KnockOutSide_3
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 256-AppleMine-SNOWWHITE_AppleMine_1
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1913
+        width: 125
+        height: 223
+      alignment: 9
+      pivot: {x: 0.272, y: 0.47085202}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cecce52950e87d140bad3b0423d3816c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-AppleMine-SNOWWHITE_AppleMine_2
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 2629
+        width: 129
+        height: 221
+      alignment: 9
+      pivot: {x: 0.24806201, y: 0.44343892}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b548aab7d8864448d7a3bc25100b76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-AppleMine-SNOWWHITE_AppleMine_3
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 1458
+        width: 200
+        height: 199
+      alignment: 9
+      pivot: {x: 0.64, y: 0.4924623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58f68a42bfbe2d4b939008b55bf3b9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-AppleMine-SNOWWHITE_AppleMine_4
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 1249
+        width: 203
+        height: 203
+      alignment: 9
+      pivot: {x: 0.63054186, y: 0.50246304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66434e9466979c847b2a7281ec9ccd3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-AppleMine-SNOWWHITE_AppleMine_5
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 818
+        width: 193
+        height: 217
+      alignment: 9
+      pivot: {x: 0.6632124, y: 0.4562212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3beedf316d6295c49be10d294a26503c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-AppleMine-SNOWWHITE_AppleMine_6
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1113
+        width: 193
+        height: 216
+      alignment: 9
+      pivot: {x: 0.6632124, y: 0.4537037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388a1f6099e880945a3497198c1199d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-AppleMine-SNOWWHITE_AppleMine_7
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 943
+        width: 193
+        height: 193
+      alignment: 9
+      pivot: {x: 0.63212436, y: 0.58549225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fa6ee30302deb4eb01e4ce78dcd69d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Attack-SNOWWHITE_Attack_1-1
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 3279
+        width: 144
+        height: 231
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.47186148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0242791f1c55d4d41a8b2424a9d4bc08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Attack-SNOWWHITE_Attack_1-2
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 3005
+        width: 140
+        height: 236
+      alignment: 9
+      pivot: {x: 0.6, y: 0.45762712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7bc014e0c93734a9adbcd568fe7a6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Attack-SNOWWHITE_Attack_1-3
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 1884
+        width: 194
+        height: 242
+      alignment: 9
+      pivot: {x: 0.53608245, y: 0.47933885}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db531cd92dd2fb4499cc5beb8ceed496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Attack-SNOWWHITE_Attack_1-4
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 2815
+        width: 171
+        height: 219
+      alignment: 9
+      pivot: {x: 0.53216374, y: 0.42465752}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fb3b56cc67fd44e8c42e18ab4af6bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Attack-SNOWWHITE_Attack_1-5
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1142
+        width: 194
+        height: 238
+      alignment: 9
+      pivot: {x: 0.53608245, y: 0.48739496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e02cc270e50a154b8c67f820b0e11d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Attack-SNOWWHITE_Attack_1-6
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1663
+        width: 197
+        height: 215
+      alignment: 9
+      pivot: {x: 0.52791876, y: 0.43255815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fe7bdb3d2feea4cbc76cad914b8a0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Attack-SNOWWHITE_Attack_1-7
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 1228
+        width: 121
+        height: 231
+      alignment: 9
+      pivot: {x: 0.47107437, y: 0.44588745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a223237949a7749ab21dde9d65e35f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Attack-SNOWWHITE_Attack_1-8
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 3127
+        width: 130
+        height: 237
+      alignment: 9
+      pivot: {x: 0.45384616, y: 0.4599156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e78cf8c6b51d048a5a3da0c2a4f710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Attack-SNOWWHITE_Attack_3-1
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 1030
+        width: 117
+        height: 225
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0.47111112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2896bb5c00619f449a0a95417c1ff1e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Attack-SNOWWHITE_Attack_3-2
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2684
+        width: 113
+        height: 230
+      alignment: 9
+      pivot: {x: 0.43362832, y: 0.47391304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258245ae257c31b4aaae4a9fd6a4bb5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Attack-SNOWWHITE_Attack_3-3
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 1386
+        width: 123
+        height: 222
+      alignment: 9
+      pivot: {x: 0.35772356, y: 0.4234234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05d896eeca09284bb70983126d12478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Attack-SNOWWHITE_Attack_3-4
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1519
+        width: 118
+        height: 235
+      alignment: 9
+      pivot: {x: 0.33050847, y: 0.45531914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed99ede910020174ab70f1fd6929df43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Attack-SNOWWHITE_Attack_3-5
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 1261
+        width: 121
+        height: 236
+      alignment: 9
+      pivot: {x: 0.34710744, y: 0.4661017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab39ced7559730f45ac1143feb5ec459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Attack-SNOWWHITE_Attack_3-6
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 1743
+        width: 125
+        height: 222
+      alignment: 9
+      pivot: {x: 0.368, y: 0.4234234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f52f4ef2b428584e9ff2b1dae31fdf7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Attack-SNOWWHITE_Attack_3-7
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 3370
+        width: 132
+        height: 230
+      alignment: 9
+      pivot: {x: 0.40151516, y: 0.47826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba90d562e4506174bbf5e1279a22c193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Attack-SNOWWHITE_Attack_3-8
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 933
+        width: 99
+        height: 237
+      alignment: 9
+      pivot: {x: 0.35353535, y: 0.46835443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8c42f9710d8854082dc03dc30886a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Damaged-SNOWWHITE_Damaged_1
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 3040
+        width: 143
+        height: 233
+      alignment: 9
+      pivot: {x: 0.56643355, y: 0.472103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbafb57c14f210c43984c99cbf2b3d00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Damaged-SNOWWHITE_Damaged_2
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2633
+        width: 129
+        height: 250
+      alignment: 9
+      pivot: {x: 0.5271318, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87710a6030a76ff4ebeebda47450fe5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Damaged-SNOWWHITE_Damaged_3
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 2377
+        width: 172
+        height: 243
+      alignment: 9
+      pivot: {x: 0.63372093, y: 0.48559672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e88f3ea14256949a037084801f7362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Damaged-SNOWWHITE_Damaged_4
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 2132
+        width: 176
+        height: 239
+      alignment: 9
+      pivot: {x: 0.6363636, y: 0.49790794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de304ef03bfc50479bcc29c2bd39304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-DamagedDown-SNOWWHITE_DamagedDown_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 514
+        width: 165
+        height: 201
+      alignment: 9
+      pivot: {x: 0.43030304, y: 0.43781096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869092f8dbe41dd439e9234b390a28fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-DamagedDown-SNOWWHITE_DamagedDown_2
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1952
+        width: 233
+        height: 106
+      alignment: 9
+      pivot: {x: 0.4806867, y: 0.41509435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce440e6bc5aa2c408ad51614e69a0f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-DamagedDown-SNOWWHITE_DamagedDown_3
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1409
+        width: 215
+        height: 150
+      alignment: 9
+      pivot: {x: 0.55813956, y: 0.48666668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a28de0a96f94d245805e6eae0454767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-DamagedDown-SNOWWHITE_DamagedDown_4
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1600
+        width: 112
+        height: 188
+      alignment: 9
+      pivot: {x: 0.54464287, y: 0.46276596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676fb4ae363fb6c48ae473af3056c6f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-DownAttack-SNOWWHITE_DownAttack_2
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 1001
+        width: 117
+        height: 221
+      alignment: 9
+      pivot: {x: 0.43589744, y: 0.47511312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9014462601a9cef419a166a610c832ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-DownAttack-SNOWWHITE_DownAttack_3
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 2442
+        width: 115
+        height: 236
+      alignment: 9
+      pivot: {x: 0.44347826, y: 0.45762712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4ab727cb8ee94409440bb46f7cc89a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-DraftRocket-SNOWWHITE_DraftRocket_1
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 3145
+        width: 107
+        height: 183
+      alignment: 9
+      pivot: {x: 0.43925235, y: 0.55191255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2446390b9deb34ba411e1453bde968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-DraftRocket-SNOWWHITE_DraftRocket_2
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 3098
+        width: 139
+        height: 188
+      alignment: 9
+      pivot: {x: 0.35971224, y: 0.54787236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a164a20ca42b994d86cd981395091d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-DraftRocket-SNOWWHITE_DraftRocket_3
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 3516
+        width: 146
+        height: 169
+      alignment: 9
+      pivot: {x: 0.369863, y: 0.56804734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9956dfd899bf3e749bd5b7564f660510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-DraftRocket-SNOWWHITE_DraftRocket_4
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 1465
+        width: 122
+        height: 197
+      alignment: 9
+      pivot: {x: 0.3852459, y: 0.4822335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de05be77fb6ed9148b31c4e2d8050003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-DraftRocket-SNOWWHITE_DraftRocket_5
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 1859
+        width: 122
+        height: 199
+      alignment: 9
+      pivot: {x: 0.3852459, y: 0.4874372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94b02484170d0f4095e0dd56ad6bec6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-DraftRocket-SNOWWHITE_DraftRocket_6
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 3691
+        width: 148
+        height: 196
+      alignment: 9
+      pivot: {x: 0.3783784, y: 0.47959185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49c17ad295204240a948276840565d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-DraftRocket-SNOWWHITE_DraftRocket_7
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 3893
+        width: 149
+        height: 200
+      alignment: 9
+      pivot: {x: 0.38926175, y: 0.49}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96becbb018c3e5548bbfe1c32c26f3eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-DraftRocket-SNOWWHITE_DraftRocket_8
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 2216
+        width: 143
+        height: 220
+      alignment: 9
+      pivot: {x: 0.35664335, y: 0.49545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6082f7fde73d05b4097fb047c3472f06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-DraftRocket-SNOWWHITE_DraftRocket_9
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1263
+        width: 180
+        height: 221
+      alignment: 9
+      pivot: {x: 0.4, y: 0.47511312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285baf6c7f5e3a948bf9c6f1de4c7444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-DraftRocket-SNOWWHITE_DraftRocket_10
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1033
+        width: 176
+        height: 224
+      alignment: 9
+      pivot: {x: 0.32386363, y: 0.42857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893fc497d49f7d540a2eb4a9b256cf0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-DraftRocket-SNOWWHITE_DraftRocket_Rocket
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 2394
+        width: 87
+        height: 107
+      alignment: 9
+      pivot: {x: -0.3678161, y: 0.86915886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebfbd8b5ca663f4a84090c25aea3951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Idle-SNOWWHITE_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 1668
+        width: 124
+        height: 239
+      alignment: 9
+      pivot: {x: 0.4516129, y: 0.46443516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd73bf0bb7f1b744d99351842a6ec3fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Idle-SNOWWHITE_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 1614
+        width: 123
+        height: 239
+      alignment: 9
+      pivot: {x: 0.45528457, y: 0.46443516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37a5b2e155e8e841a3eacba9ba3c884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Idle-SNOWWHITE_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 2856
+        width: 129
+        height: 236
+      alignment: 9
+      pivot: {x: 0.4651163, y: 0.45762712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d86e48626d60914e95f02431de7214b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Idle-SNOWWHITE_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 2392
+        width: 128
+        height: 235
+      alignment: 9
+      pivot: {x: 0.4609375, y: 0.45531914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7496f6006b36be8498f3995ec0325ead
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Idle-SNOWWHITE_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 3292
+        width: 138
+        height: 232
+      alignment: 9
+      pivot: {x: 0.42753622, y: 0.44827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466e56beb811ee24c9340f0ced9f3464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Idle-SNOWWHITE_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 2142
+        width: 127
+        height: 239
+      alignment: 9
+      pivot: {x: 0.46456692, y: 0.46443516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4367205e9da764438fd02b90bb0cce9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Idle-SNOWWHITE_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 1971
+        width: 127
+        height: 239
+      alignment: 9
+      pivot: {x: 0.46456692, y: 0.46443516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7741ba189a9b04d48b5d8e8def153a70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Idle-SNOWWHITE_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 2387
+        width: 128
+        height: 236
+      alignment: 9
+      pivot: {x: 0.46875, y: 0.45762712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633bd7c63df2f1b4c82ce1e8996463b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Idle-SNOWWHITE_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 1503
+        width: 124
+        height: 234
+      alignment: 9
+      pivot: {x: 0.4516129, y: 0.45299146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4722512034ed643b89623150eb18ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Idle-SNOWWHITE_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 2889
+        width: 130
+        height: 232
+      alignment: 9
+      pivot: {x: 0.43076923, y: 0.44827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58da0b43d71e80444833b640c690c74c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Jump-SNOWWHITE_Jump_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1384
+        width: 188
+        height: 221
+      alignment: 9
+      pivot: {x: 0.60106385, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2082168015ea4dc4c9eed514202f0695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Jump-SNOWWHITE_Jump_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1168
+        width: 180
+        height: 210
+      alignment: 9
+      pivot: {x: 0.5833333, y: 0.5190476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b03f27d0a234604697738d21ace6587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Jump-SNOWWHITE_Jump_3
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 794
+        width: 160
+        height: 201
+      alignment: 9
+      pivot: {x: 0.6, y: 0.49253732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac31b8f916fbf564ea7ead225a4af9ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Jump-SNOWWHITE_Jump_4
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 3247
+        width: 138
+        height: 228
+      alignment: 9
+      pivot: {x: 0.6376812, y: 0.44298247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377b19824d4e4604796a591deb7e492d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-KnockDown-SNOWWHITE_KnockDown_1
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 2066
+        width: 209
+        height: 128
+      alignment: 9
+      pivot: {x: 0.54545456, y: 0.8125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b20d3013cc5c140a6d6fcee6c9f101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-KnockDown-SNOWWHITE_KnockDown_2
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1952
+        width: 233
+        height: 106
+      alignment: 9
+      pivot: {x: 0.47639486, y: 1.1415094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3fb6be8a9bf8d428657ebbfd02cbd0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-KnockDown-SNOWWHITE_KnockDown_3
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 2477
+        width: 239
+        height: 94
+      alignment: 9
+      pivot: {x: 0.49790794, y: 1.0531915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0047f21b848789e45912975f343ac296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-KnockDown-SNOWWHITE_KnockDown_4
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1909
+        width: 229
+        height: 93
+      alignment: 9
+      pivot: {x: 0.55458516, y: 1.3118279}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c602db822b47694aa888dafd6c16396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-KnockOut-SNOWWHITE_KnockOut_1
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 806
+        width: 113
+        height: 218
+      alignment: 9
+      pivot: {x: 0.54867256, y: 0.51834863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1399dca9a53bbc64880477535e1ee1a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-KnockOut-SNOWWHITE_KnockOut_2
+      rect:
+        serializedVersion: 2
+        x: 1749
+        y: 3530
+        width: 133
+        height: 209
+      alignment: 9
+      pivot: {x: 0.5037594, y: 0.5550239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83ba3d7295a12144b40d3f1c5bed3ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-KnockOut-SNOWWHITE_KnockOut_3
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1176
+        width: 103
+        height: 232
+      alignment: 9
+      pivot: {x: 0.3592233, y: 0.47413793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8739ee38e171b6c4eb76c9c6ca45fb08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-KnockOut-SNOWWHITE_KnockOut_4
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1764
+        width: 120
+        height: 242
+      alignment: 9
+      pivot: {x: 0.40833333, y: 0.5206612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496d1d24f393c064dafb87281c91e788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Move-SNOWWHITE_Move_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 948
+        width: 176
+        height: 214
+      alignment: 9
+      pivot: {x: 0.41477272, y: 0.48598132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a1a0e6f157d054fb31cf1f1abc3868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Move-SNOWWHITE_Move_2
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1106
+        width: 177
+        height: 212
+      alignment: 9
+      pivot: {x: 0.40677965, y: 0.44339624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886fb8ca77c62f441953d26f1f36dfee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Move-SNOWWHITE_Move_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 721
+        width: 175
+        height: 221
+      alignment: 9
+      pivot: {x: 0.41142857, y: 0.46606335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f522fa50726e74488bbd6d8118cdfe7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Move-SNOWWHITE_Move_4
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 964
+        width: 175
+        height: 213
+      alignment: 9
+      pivot: {x: 0.41714287, y: 0.48356807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fe2dc5e07b99145a7500d7587e8051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Move-SNOWWHITE_Move_5
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 1183
+        width: 178
+        height: 208
+      alignment: 9
+      pivot: {x: 0.41011235, y: 0.4375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83b0d5bf7404074396af391e892a6ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-Move-SNOWWHITE_Move_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 806
+        width: 170
+        height: 221
+      alignment: 9
+      pivot: {x: 0.4117647, y: 0.47058824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2ed4e292deb634ba7441e8a791ea55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-SNOWWHITE_Weapon
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1414
+        width: 112
+        height: 180
+      alignment: 9
+      pivot: {x: 0.6339286, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b10ebb3eb451ed45a80be8953f32d24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-UPAttack-SNOWWHITE_UpAttack_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 699
+        width: 99
+        height: 228
+      alignment: 9
+      pivot: {x: 0.5050505, y: 0.48245615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017186d4a0c21314990f9ec238ce270b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-UPAttack-SNOWWHITE_UpAttack_2
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 941
+        width: 99
+        height: 226
+      alignment: 9
+      pivot: {x: 0.4949495, y: 0.4778761}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f080a168fc9cc64da0e6d258d005bda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-UPAttack-SNOWWHITE_UpAttack_3
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 936
+        width: 95
+        height: 231
+      alignment: 9
+      pivot: {x: 0.49473685, y: 0.44588745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9f5dbabf3b79243a2c70aa8fbc06d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-UPAttack-SNOWWHITE_UpAttack_4
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 2920
+        width: 105
+        height: 219
+      alignment: 9
+      pivot: {x: 0.43809524, y: 0.49315068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c7bb8992ca569419b35f102d8d788a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512-Attack-SNOWWHITE_Attack2-1
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1173
+        width: 193
+        height: 230
+      alignment: 9
+      pivot: {x: 0.64248705, y: 0.44347826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f166cf52b4b3f478e64aca6b21af03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512-Attack-SNOWWHITE_Attack2-2
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1490
+        width: 185
+        height: 240
+      alignment: 9
+      pivot: {x: 0.6054054, y: 0.42916667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b4d2ebdd3a48347a112e062591ff1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512-Attack-SNOWWHITE_Attack2-3
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 2295
+        width: 234
+        height: 176
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.48863637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3a935ff94dfac48ad2fd8363104591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512-Attack-SNOWWHITE_Attack2-4
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1736
+        width: 223
+        height: 167
+      alignment: 9
+      pivot: {x: 0.31390134, y: 0.46107784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1845e102ba5194943b36abf1751ea01d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512-Attack-SNOWWHITE_Attack2-5
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1565
+        width: 221
+        height: 185
+      alignment: 9
+      pivot: {x: 0.28959277, y: 0.44864866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26ef510e94f05a44ab0092663995f5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512-Attack-SNOWWHITE_Attack2-6
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1335
+        width: 212
+        height: 167
+      alignment: 9
+      pivot: {x: 0.2735849, y: 0.46706587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd6ade47b712c948b77c631a4f2a09c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512-Attack-SNOWWHITE_Attack2-7
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 1041
+        width: 196
+        height: 202
+      alignment: 9
+      pivot: {x: 0.24489796, y: 0.55445546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9f447a45340d44b953a05cd95e74a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512-Attack-SNOWWHITE_Attack2-8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1611
+        width: 189
+        height: 177
+      alignment: 9
+      pivot: {x: 0.22222222, y: 0.5141243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bc208a59ed2c74792763f67de5c4cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 512-Attack-SNOWWHITE_Attack2-9
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 933
+        width: 99
+        height: 237
+      alignment: 9
+      pivot: {x: 0.35353535, y: 0.46835443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fdb583e053c5c459aa7f3531550e44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleMine-SNOWWHITE_AppleMineSE_1
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 3606
+        width: 574
+        height: 225
+      alignment: 9
+      pivot: {x: 0.44599304, y: 0.5688889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b979c9d08574749b1c3cac4b0ccf1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleMine-SNOWWHITE_AppleMineSE_2
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 3745
+        width: 598
+        height: 115
+      alignment: 9
+      pivot: {x: 0.47826087, y: 1.0869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e7bba9dd0b49b4a8c1260068131ad7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleMine-SNOWWHITE_AppleMineSE_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3605
+        width: 570
+        height: 144
+      alignment: 9
+      pivot: {x: 0.5385965, y: 0.8680556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40629cd0e9e59d24d95a41f8af429081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AppleMine-SNOWWHITE_AppleMineSE_4
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 3334
+        width: 506
+        height: 146
+      alignment: 9
+      pivot: {x: 0.61857706, y: 0.8561644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8b21c561bb39742835fa99a92e28ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-SNOWWHITE_AttackSE_1-1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3755
+        width: 642
+        height: 338
+      alignment: 9
+      pivot: {x: 0.47975078, y: 0.45266274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51562eab122914446bcf56ff34c2d7b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-SNOWWHITE_AttackSE_1-2
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 3837
+        width: 625
+        height: 256
+      alignment: 9
+      pivot: {x: 0.4704, y: 0.57421875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0c05e90948a454c940534e4fb0bc48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-SNOWWHITE_AttackSE_1-3
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 3095
+        width: 394
+        height: 233
+      alignment: 9
+      pivot: {x: 0.13197969, y: 0.57939917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d08d36c5b2b0e41845e5dfa5e93b8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-SNOWWHITE_AttackSE_1-4
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 3866
+        width: 600
+        height: 227
+      alignment: 9
+      pivot: {x: 0.42333335, y: 0.50660795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d9f0893e341064d82cd213cabd8409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-SNOWWHITE_AttackSE_2-1
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 2507
+        width: 367
+        height: 464
+      alignment: 9
+      pivot: {x: 0.53405994, y: 0.44181034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3130e81f9bee4f74fbacf52e0f53c4c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-SNOWWHITE_AttackSE_2-2
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2008
+        width: 347
+        height: 493
+      alignment: 9
+      pivot: {x: 0.5158501, y: 0.4888438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9a097230eb1744f926c60ca0acde13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-SNOWWHITE_AttackSE_2-3
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1828
+        width: 287
+        height: 461
+      alignment: 9
+      pivot: {x: 0.37979093, y: 0.54880697}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5577689b34ad6be4caa7063a7dbecd12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-SNOWWHITE_AttackSE_2-4
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 1508
+        width: 232
+        height: 438
+      alignment: 9
+      pivot: {x: 0.25, y: 0.56164384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c84bcec2bd23441aaefa1b4f9837fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-SNOWWHITE_AttackSE_2-5
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1397
+        width: 222
+        height: 425
+      alignment: 9
+      pivot: {x: 0.1891892, y: 0.57411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87574f15b096b9c46b2f327cacf90034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-SNOWWHITE_AttackSE_3-1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2793
+        width: 428
+        height: 290
+      alignment: 9
+      pivot: {x: 0.5186916, y: 0.46896553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824dcba27c2984649a7781fcbf3e69fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-SNOWWHITE_AttackSE_3-2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3089
+        width: 443
+        height: 272
+      alignment: 9
+      pivot: {x: 0.46726862, y: 0.4154412}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776748b7f2df38446ba9663154875570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-SNOWWHITE_AttackSE_3-3
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 2977
+        width: 438
+        height: 259
+      alignment: 9
+      pivot: {x: 0.46803653, y: 0.46718147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee85af5003a288c45bd7d978c51b9a18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-SNOWWHITE_AttackSE_3-4
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 2477
+        width: 384
+        height: 251
+      alignment: 9
+      pivot: {x: 0.40885416, y: 0.4183267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97611f93c383dc241ad0f3dfe2070b64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-SNOWWHITE_AttackSE_3-5
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 2577
+        width: 271
+        height: 217
+      alignment: 9
+      pivot: {x: 0.16605166, y: 0.44700462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a9f3c338c271b4aabf64de28abd9f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DraftRocket-SNOWWHITE_DraftRocket_Explode_1
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 908
+        width: 172
+        height: 192
+      alignment: 9
+      pivot: {x: 0.44186047, y: 0.53125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375b59b3fa82cb8439662775cba8424d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DraftRocket-SNOWWHITE_DraftRocket_Explode_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1794
+        width: 334
+        height: 338
+      alignment: 9
+      pivot: {x: 0.48802397, y: 0.52071005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7910a7e5562a4d549a8d88761babcd8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DraftRocket-SNOWWHITE_DraftRocket_Explode_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2476
+        width: 351
+        height: 311
+      alignment: 9
+      pivot: {x: 0.4985755, y: 0.53697747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3b5e37d8bb1db48966f5cb5f15b9da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DraftRocket-SNOWWHITE_DraftRocket_Explode_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2138
+        width: 343
+        height: 332
+      alignment: 9
+      pivot: {x: 0.46938777, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c523d770addcc3749938875eb8604644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DraftRocket-SNOWWHITE_DraftRocket_Explode_5
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 2064
+        width: 360
+        height: 407
+      alignment: 9
+      pivot: {x: 0.4722222, y: 0.49140048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d13a0ec941138f458d407e70794d3dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DraftRocket-SNOWWHITE_DraftRocket_Explode_6
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 2734
+        width: 386
+        height: 355
+      alignment: 9
+      pivot: {x: 0.5103627, y: 0.52394366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923c38f02aab1c645ade7b2766b9255a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DraftRocket-SNOWWHITE_DraftRocket_Smoke_1
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 3486
+        width: 507
+        height: 132
+      alignment: 9
+      pivot: {x: 0.49506903, y: 0.5681818}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23078d4bf02ee114d9e364d887861234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DraftRocket-SNOWWHITE_DraftRocket_Smoke_2
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 3481
+        width: 507
+        height: 119
+      alignment: 9
+      pivot: {x: 0.504931, y: 0.64705884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58e024ed2168a44db496c6c04c36906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DraftRocket-SNOWWHITE_DraftRocket_Smoke_3
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 3371
+        width: 452
+        height: 104
+      alignment: 9
+      pivot: {x: 0.44911504, y: 0.6826923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3bfcf93757c82f418ec30a2a29c6615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DraftRocket-SNOWWHITE_DraftRocket_Smoke_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3483
+        width: 482
+        height: 116
+      alignment: 9
+      pivot: {x: 0.46887967, y: 0.6637931}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0ac5af090ccca469ac6382c902db83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DraftRocket-SNOWWHITE_DraftRocket_Smoke_5
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 3624
+        width: 512
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66086954}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bece5707c5c30cd47b17d7728d0e2fdf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DraftRocket-SNOWWHITE_DraftRocket_Smoke_6
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 3242
+        width: 450
+        height: 123
+      alignment: 9
+      pivot: {x: 0.4311111, y: 0.67479676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff1d693efdfa204e81dca33f041cae8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DraftRocket-SNOWWHITE_DraftRocket_Smoke_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3367
+        width: 481
+        height: 110
+      alignment: 9
+      pivot: {x: 0.46985447, y: 0.6363636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1affb81a7974f7041b3c9038b6f850f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomSpring-SNOWWHITE_MushroomSpring__1
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2800
+        width: 190
+        height: 199
+      alignment: 9
+      pivot: {x: 0.42631578, y: 0.63316584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74a9b440825a2e489ab39d372a980f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomSpring-SNOWWHITE_MushroomSpring__2
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 2200
+        width: 167
+        height: 186
+      alignment: 9
+      pivot: {x: 0.23353294, y: 0.6344086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c1344bebd20db46887c21f6fc254b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomSpring-SNOWWHITE_MushroomSpring__3
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 621
+        width: 191
+        height: 191
+      alignment: 9
+      pivot: {x: 0.35078534, y: 0.62827224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa65b6126d05ad418da388d8862015c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomSpring-SNOWWHITE_MushroomSpring__4
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1905
+        width: 208
+        height: 155
+      alignment: 9
+      pivot: {x: 0.42307693, y: 0.7419355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54c89fc13d36f041806bea7c76bfce3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomSpring-SNOWWHITE_MushroomSpring__5
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1756
+        width: 205
+        height: 143
+      alignment: 9
+      pivot: {x: 0.4, y: 0.8041958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d672d87d9ace69a46a1eb0c75fefe4d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomSpring-SNOWWHITE_MushroomSpring__6
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2800
+        width: 190
+        height: 199
+      alignment: 9
+      pivot: {x: 0.42631578, y: 0.63316584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e68c184a30a3f489b49df586f5588d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomSpring-SNOWWHITE_MushroomSpring__7
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1324
+        width: 181
+        height: 189
+      alignment: 9
+      pivot: {x: 0.45856354, y: 0.64021164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b907a7ba2d89b4ab6d48b0f9368cec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomSpring-SNOWWHITE_MushroomSpring__8
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 2626
+        width: 171
+        height: 183
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.69945353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ade7180ec8624546ac04d91d254df33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomSpring-SNOWWHITE_MushroomSpring__9
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1324
+        width: 181
+        height: 189
+      alignment: 9
+      pivot: {x: 0.45856354, y: 0.64021164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b932e20e9434e74d8a73e5267fc50bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomSpring-SNOWWHITE_MushroomSpring__10
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2800
+        width: 190
+        height: 199
+      alignment: 9
+      pivot: {x: 0.42631578, y: 0.63316584}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93898df03285d7d4aa1f3b6152d875bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomSpring-SNOWWHITE_MushroomSpring__11
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 621
+        width: 191
+        height: 191
+      alignment: 9
+      pivot: {x: 0.35078534, y: 0.62827224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6043c1848f6a9d1429d9add821dddff3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-KnockOut-SNOWWHITE_KnockOutSide_4
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1764
+        width: 120
+        height: 242
+      alignment: 9
+      pivot: {x: 1.0083333, y: 0.5206612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fd298269e9a81418692cd21cf721e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-KnockOut-SNOWWHITE_KnockOutSide_1
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 806
+        width: 113
+        height: 218
+      alignment: 9
+      pivot: {x: 1.1486726, y: 0.5183486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be51c060430dc1a42912d6a603c2a59c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 256-KnockOut-SNOWWHITE_KnockOutSide_3
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1176
+        width: 103
+        height: 232
+      alignment: 9
+      pivot: {x: 0.9592233, y: 0.4741379}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebea48b45bd43e34094511b787fb9cfd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4c169c7383e634e44ace3898308ac510
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

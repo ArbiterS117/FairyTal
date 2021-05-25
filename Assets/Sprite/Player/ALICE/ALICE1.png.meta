@@ -1,0 +1,5619 @@
+fileFormatVersion: 2
+guid: 71cd0ebfc9bd9014c82305c26f0ac1fb
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ALICE1
+    21300002: AirAttack-ALICE_AirAttack_1
+    21300004: AirAttack-ALICE_AirAttack_2
+    21300006: AirAttack-ALICE_AirAttack_3
+    21300008: ALICE Attack-ALICE_AttackSE_1-1
+    21300010: ALICE Attack-ALICE_AttackSE_1-2
+    21300012: ALICE Attack-ALICE_AttackSE_1-3
+    21300014: ALICE Attack-ALICE_AttackSE_1-4
+    21300016: ALICE Attack-ALICE_AttackSE_2-1
+    21300018: ALICE Attack-ALICE_AttackSE_2-2
+    21300020: ALICE Attack-ALICE_AttackSE_2-3
+    21300022: ALICE Attack-ALICE_AttackSE_2-4
+    21300024: ALICE Attack-ALICE_AttackSE_3-1
+    21300026: ALICE Attack-ALICE_AttackSE_3-2
+    21300028: ALICE Attack-ALICE_AttackSE_3-3
+    21300030: ALICE Attack-ALICE_AttackSE_3-4
+    21300032: ALICE Grail-Grail Spinning Circle-ALICE_GrailSpinningCircle_1
+    21300034: ALICE Grail-Grail Spinning Circle-ALICE_GrailSpinningCircle_2
+    21300036: ALICE Grail-Grail Spinning Circle-ALICE_GrailSpinningCircle_3
+    21300038: ALICE Grail-Grail Spinning Circle-ALICE_GrailSpinningCircle_4
+    21300040: ALICE Grail-Grail Spinning Circle-ALICE_GrailSpinningCircle_5
+    21300042: ALICE Grail-Grail Spinning Circle-ALICE_GrailSpinningCircle_6
+    21300044: ALICE Grail-Grail Spinning Circle-ALICE_GrailSpinningCircle_7
+    21300046: ALICE Grail-Grail Spinning Circle-ALICE_GrailSpinningCircle_8
+    21300048: ALICE Grail-Grail Spinning Circle-ALICE_GrailSpinningCircle_9
+    21300050: ALICE Grail-Grail Spinning Circle-ALICE_GrailSpinningCircle_10
+    21300052: ALICE Grail-Grail Spinning Circle-ALICE_GrailSpinningCircle_11
+    21300054: ALICE Grail-Grail Spinning Circle-ALICE_GrailSpinningCircle_12
+    21300056: ALICE Grail-Grail Spinning Circle-ALICE_GrailSpinningCircle_13
+    21300058: ALICE Grail-Grail Spinning Circle-ALICE_GrailSpinningCircle_14
+    21300060: ALICE Grail-Grail Spinning Circle-ALICE_GrailSpinningCircle_15
+    21300062: ALICE Grail-Grail Spinning Circle-ALICE_GrailSpinningCircle_16
+    21300064: ALICE Grail-Grail Spinning Circle-ALICE_GrailSpinningCircle_17
+    21300066: ALICE Grail-Grail Spinning Circle-ALICE_GrailSpinningCircle_18
+    21300068: ALICE Grail-Grail Spinning Circle-ALICE_GrailSpinningCircle_19
+    21300070: ALICE Grail-Grail Spinning Circle-ALICE_GrailSpinningCircle_20
+    21300072: ALICE Grail-Grail Water's Bubble-ALICE_GrailWaterBubble_1
+    21300074: ALICE Grail-Grail Water's Bubble-ALICE_GrailWaterBubble_2
+    21300076: ALICE Grail-Grail Water's Bubble-ALICE_GrailWaterBubble_3
+    21300078: ALICE Grail-Grail Water's Bubble-ALICE_GrailWaterBubble_4
+    21300080: ALICE Grail-Grail Water's Bubble-ALICE_GrailWaterBubble_5
+    21300082: ALICE Grail-Grail Water's Bubble-ALICE_GrailWaterBubble_6
+    21300084: ALICE Grail-Grail Water's Bubble-ALICE_GrailWaterBubble_7
+    21300086: ALICE Grail-Grail Water's Bubble-ALICE_GrailWaterBubble_8
+    21300088: ALICE Grail-Grail Water's Bubble-ALICE_GrailWaterBubble_9
+    21300090: ALICE Grail-Grail Water-ALICE_GrailWater_1
+    21300092: ALICE Grail-Grail Water-ALICE_GrailWater_2
+    21300094: ALICE Grail-Grail Water-ALICE_GrailWater_3
+    21300096: ALICE Grail-Grail Water-ALICE_GrailWater_4
+    21300098: ALICE Grail-Grail Water-ALICE_GrailWater_5
+    21300100: ALICE Grail-Grail Water-ALICE_GrailWater_6
+    21300102: ALICE Grail-Grail Water-ALICE_GrailWater_7
+    21300104: ALICE Grail-Grail Water-ALICE_GrailWater_8
+    21300106: ALICE Grail-Grail Water-ALICE_GrailWater_9
+    21300108: ALICE Grail-Grail Water-ALICE_GrailWater_10
+    21300110: ALICE Grail-Grail Water-ALICE_GrailWater_11
+    21300112: ALICE Grail-Grail Water-ALICE_GrailWater_12
+    21300114: ALICE Grail-Grail Water-ALICE_GrailWater_13
+    21300116: ALICE Grail-Grail Water-ALICE_GrailWater_14
+    21300118: ALICE Grail-Grail Water-ALICE_GrailWater_15
+    21300120: ALICE Grail-Grail Water-ALICE_GrailWater_16
+    21300122: ALICE Grail-Grail Water-ALICE_GrailWater_17
+    21300124: ALICE Grail-Grail Water-ALICE_GrailWater_18
+    21300126: ALICE Grail-Grail Water-ALICE_GrailWater_19
+    21300128: ALICE Grail-Grail Water-ALICE_GrailWater_20
+    21300130: ALICE Grail-Grail-ALICE_Grail_1
+    21300132: ALICE Grail-Grail-ALICE_Grail_2
+    21300134: ALICE Grail-Grail-ALICE_Grail_3
+    21300136: ALICE Grail-Grail-ALICE_Grail_4
+    21300138: ALICE Grail-Grail-ALICE_Grail_5
+    21300140: ALICE Grail-Grail-ALICE_Grail_6
+    21300142: ALICE Grail-Grail-ALICE_Grail_7
+    21300144: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_1
+    21300146: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_2
+    21300148: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_3
+    21300150: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_4
+    21300152: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_5
+    21300154: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_6
+    21300156: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_7
+    21300158: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_8
+    21300160: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_9
+    21300162: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_10
+    21300164: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_11
+    21300166: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_12
+    21300168: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_13
+    21300170: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_14
+    21300172: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_15
+    21300174: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_16
+    21300176: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_17
+    21300178: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_18
+    21300180: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_19
+    21300182: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_20
+    21300184: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_21
+    21300186: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_22
+    21300188: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_23
+    21300190: ALICE ULT-ULT Laser-ALICE_ULTLaser_1
+    21300192: ALICE ULT-ULT Laser-ALICE_ULTLaser_2
+    21300194: ALICE ULT-ULT Laser-ALICE_ULTLaser_3
+    21300196: ALICE ULT-ULT Laser-ALICE_ULTLaser_4
+    21300198: ALICE ULT-ULT Laser-ALICE_ULTLaser_5
+    21300200: ALICE ULT-ULT Laser-ALICE_ULTLaser_6
+    21300202: ALICE ULT-ULT Laser-ALICE_ULTLaser_7
+    21300204: ALICE ULT-ULT Laser-ALICE_ULTLaser_8
+    21300206: ALICE ULT-ULT Laser-ALICE_ULTLaser_9
+    21300208: ALICE ULT-ULT Laser-ALICE_ULTLaser_10
+    21300210: ALICE ULT-ULT Laser-ALICE_ULTLaser_11
+    21300212: ALICE ULT-ULT Laser-ALICE_ULTLaser_12
+    21300214: ALICE ULT-ULT Laser-ALICE_ULTLaser_13
+    21300216: ALICE ULT-ULT Laser-ALICE_ULTLaser_14
+    21300218: ALICE ULT-ULT Laser-ALICE_ULTLaser_15
+    21300220: ALICE ULT-ULT Laser-ALICE_ULTLaser_16
+    21300222: ALICE ULT-ULT Laser-ALICE_ULTLaser_17
+    21300224: ALICE ULT-ULT SpinningCircle-ALICE_ULTSpinningCircle_1
+    21300226: ALICE ULT-ULT SpinningCircle-ALICE_ULTSpinningCircle_2
+    21300228: ALICE ULT-ULT SpinningCircle-ALICE_ULTSpinningCircle_3
+    21300230: ALICE ULT-ULT SpinningCircle-ALICE_ULTSpinningCircle_4
+    21300232: ALICE ULT-ULT SpinningCircle-ALICE_ULTSpinningCircle_5
+    21300234: ALICE ULT-ULT SpinningCircle-ALICE_ULTSpinningCircle_6
+    21300236: ALICE ULT-ULT SpinningCircle-ALICE_ULTSpinningCircle_7
+    21300238: ALICE ULT-ULT SpinningCircle-ALICE_ULTSpinningCircle_8
+    21300240: ALICE ULT-ULT SpinningCircle-ALICE_ULTSpinningCircle_9
+    21300242: ALICE ULT-ULT SpinningCircle-ALICE_ULTSpinningCircle_10
+    21300244: ALICE ULT-ULT SpinningCircle-ALICE_ULTSpinningCircle_11
+    21300246: ALICE ULT-ULT SpinningCircle-ALICE_ULTSpinningCircle_12
+    21300248: ALICE ULT-ULT SpinningCircle-ALICE_ULTSpinningCircle_13
+    21300250: ALICE ULT-ULT SpinningCircle-ALICE_ULTSpinningCircle_14
+    21300252: ALICE ULT-ULT SpinningCircle-ALICE_ULTSpinningCircle_15
+    21300254: ALICE ULT-ULT SpinningCircle-ALICE_ULTSpinningCircle_16
+    21300256: ALICE ULT-ULT SpinningCircle-ALICE_ULTSpinningCircle_17
+    21300258: ALICE ULT-ULT SpinningCircle-ALICE_ULTSpinningCircle_18
+    21300260: ALICE ULT-ULT SpinningCircle-ALICE_ULTSpinningCircle_19
+    21300262: ALICE ULT-ULT SpinningCircle-ALICE_ULTSpinningCircle_20
+    21300264: ALICE ULT-ULT Staff-ALICE_ULTStaff_1
+    21300266: ALICE ULT-ULT Staff-ALICE_ULTStaff_2
+    21300268: ALICE ULT-ULT Staff-ALICE_ULTStaff_3
+    21300270: ALICE ULT-ULT Staff-ALICE_ULTStaff_4
+    21300272: ALICE ULT-ULT Staff-ALICE_ULTStaff_5
+    21300274: ALICE ULT-ULT Staff-ALICE_ULTStaff_6
+    21300276: ALICE ULT-ULT Staff-ALICE_ULTStaff_7
+    21300278: ALICE ULT-ULT Staff-ALICE_ULTStaff_8
+    21300280: ALICE ULT-ULT Staff-ALICE_ULTStaff_9
+    21300282: ALICE ULT-ULT Staff-ALICE_ULTStaff_10
+    21300284: ALICE ULT-ULT Staff-ALICE_ULTStaff_11
+    21300286: ALICE ULT-ULT Staff-ALICE_ULTStaff_12
+    21300288: ALICE ULT-ULT Staff-ALICE_ULTStaff_13
+    21300290: ALICE ULT-ULT Staff-ALICE_ULTStaff_14
+    21300292: ALICE ULT-ULT Staff-ALICE_ULTStaff_15
+    21300294: ALICE ULT-ULT Staff-ALICE_ULTStaff_16
+    21300296: ALICE ULT-ULT Staff-ALICE_ULTStaff_17
+    21300298: ALICE ULT-ULT Staff-ALICE_ULTStaff_18
+    21300300: ALICE ULT-ULT Staff-ALICE_ULTStaff_19
+    21300302: ALICE ULT-ULT Staff-ALICE_ULTStaff_20
+    21300304: ALICE ULT-ULT Staff-ALICE_ULTStaff_21
+    21300306: ALICE WindWalker-Sword-ALICE_Sword_1
+    21300308: ALICE WindWalker-Sword-ALICE_Sword_2
+    21300310: ALICE WindWalker-Sword-ALICE_Sword_3
+    21300312: ALICE WindWalker-Sword-ALICE_Sword_4
+    21300314: ALICE WindWalker-Sword-ALICE_Sword_5
+    21300316: ALICE WindWalker-Sword-ALICE_Sword_6
+    21300318: ALICE WindWalker-Sword-ALICE_Sword_7
+    21300320: ALICE WindWalker-Sword-ALICE_Sword_8
+    21300322: ALICE WindWalker-Sword-ALICE_Sword_9
+    21300324: ALICE WindWalker-Sword-ALICE_Sword_10
+    21300326: ALICE WindWalker-Sword-ALICE_Sword_11
+    21300328: ALICE WindWalker-Sword-ALICE_Sword_12
+    21300330: ALICE WindWalker-Sword-ALICE_Sword_13
+    21300332: ALICE WindWalker-Sword-ALICE_Sword_14
+    21300334: ALICE WindWalker-WindWalker Spinning circle-ALICE_WindWalkerSpinningCircle_1
+    21300336: ALICE WindWalker-WindWalker Spinning circle-ALICE_WindWalkerSpinningCircle_2
+    21300338: ALICE WindWalker-WindWalker Spinning circle-ALICE_WindWalkerSpinningCircle_3
+    21300340: ALICE WindWalker-WindWalker Spinning circle-ALICE_WindWalkerSpinningCircle_4
+    21300342: ALICE WindWalker-WindWalker Spinning circle-ALICE_WindWalkerSpinningCircle_5
+    21300344: ALICE WindWalker-WindWalker Spinning circle-ALICE_WindWalkerSpinningCircle_6
+    21300346: ALICE WindWalker-WindWalker Spinning circle-ALICE_WindWalkerSpinningCircle_7
+    21300348: ALICE WindWalker-WindWalker Spinning circle-ALICE_WindWalkerSpinningCircle_8
+    21300350: ALICE WindWalker-WindWalker Spinning circle-ALICE_WindWalkerSpinningCircle_9
+    21300352: ALICE WindWalker-WindWalker Spinning circle-ALICE_WindWalkerSpinningCircle_10
+    21300354: ALICE WindWalker-WindWalker Spinning circle-ALICE_WindWalkerSpinningCircle_11
+    21300356: ALICE WindWalker-WindWalker Spinning circle-ALICE_WindWalkerSpinningCircle_12
+    21300358: ALICE WindWalker-WindWalker Spinning circle-ALICE_WindWalkerSpinningCircle_13
+    21300360: ALICE WindWalker-WindWalker Spinning circle-ALICE_WindWalkerSpinningCircle_14
+    21300362: ALICE WindWalker-WindWalker Spinning circle-ALICE_WindWalkerSpinningCircle_15
+    21300364: ALICE WindWalker-WindWalker Spinning circle-ALICE_WindWalkerSpinningCircle_16
+    21300366: ALICE WindWalker-WindWalker Spinning circle-ALICE_WindWalkerSpinningCircle_17
+    21300368: ALICE WindWalker-WindWalker Spinning circle-ALICE_WindWalkerSpinningCircle_18
+    21300370: ALICE WindWalker-WindWalker Spinning circle-ALICE_WindWalkerSpinningCircle_19
+    21300372: ALICE WindWalker-WindWalker Spinning circle-ALICE_WindWalkerSpinningCircle_20
+    21300374: Attack-ALICE_Attack_1-1
+    21300376: Attack-ALICE_Attack_1-2
+    21300378: Attack-ALICE_Attack_1-3
+    21300380: Attack-ALICE_Attack_1-4
+    21300382: Attack-ALICE_Attack_2-1
+    21300384: Attack-ALICE_Attack_2-2
+    21300386: Attack-ALICE_Attack_2-3
+    21300388: Attack-ALICE_Attack_2-4
+    21300390: Attack-ALICE_Attack_3-1
+    21300392: Attack-ALICE_Attack_3-2
+    21300394: Attack-ALICE_Attack_4-1
+    21300396: Attack-ALICE_Attack_4-2
+    21300398: Damaged-ALICE_Damaged_1-1
+    21300400: Damaged-ALICE_Damaged_1-2
+    21300402: Damaged-ALICE_Damaged_2-1
+    21300404: Damaged-ALICE_Damaged_2-2
+    21300406: DamagedDown-ALICE_DamagedDown_1
+    21300408: DamagedDown-ALICE_DamagedDown_2
+    21300410: DamagedDown-ALICE_DamagedDown_3
+    21300412: DamagedDown-ALICE_DamagedDown_4
+    21300414: Dash-ALICE_Dash_1
+    21300416: Dash-ALICE_Dash_2
+    21300418: DownAttack-ALICE_DownAttack_1-1
+    21300420: DownAttack-ALICE_DownAttack_1-2
+    21300422: DownAttack-ALICE_DownAttack_2-1
+    21300424: DownAttack-ALICE_DownAttack_2-2
+    21300426: DownAttack-ALICE_DownAttack_2-3
+    21300428: DownAttack-ALICE_DownAttack_3-1
+    21300430: DownAttack-ALICE_DownAttack_Weapon
+    21300432: Idle-ALICE_Idle_1
+    21300434: Idle-ALICE_Idle_2
+    21300436: Idle-ALICE_Idle_3
+    21300438: Idle-ALICE_Idle_4
+    21300440: Idle-ALICE_Idle_5
+    21300442: Idle-ALICE_Idle_6
+    21300444: Idle-ALICE_Idle_7
+    21300446: Idle-ALICE_Idle_8
+    21300448: Jump-ALICE_Jump_1
+    21300450: Jump-ALICE_Jump_2
+    21300452: Jump-ALICE_Jump_3
+    21300454: Jump-ALICE_Jump_4
+    21300456: KnockDown-ALICE_KnockDown_1
+    21300458: KnockDown-ALICE_KnockDown_2
+    21300460: KnockDown-ALICE_KnockDown_3
+    21300462: KnockDown-ALICE_KnockDown_4
+    21300464: KnockOut-ALICE_KnockOut_1
+    21300466: KnockOut-ALICE_KnockOut_2
+    21300468: KnockOut-ALICE_KnockOut_3
+    21300470: KnockOut-ALICE_KnockOut_4
+    21300472: LimitBreak-ALICE_LimitBreak_1
+    21300474: LimitBreak-ALICE_LimitBreak_2
+    21300476: LimitBreak-ALICE_LimitBreak_Air1
+    21300478: LimitBreak-ALICE_LimitBreak_Air2
+    21300480: Move-ALICE_Move_1
+    21300482: Move-ALICE_Move_2
+    21300484: Move-ALICE_Move_3
+    21300486: Move-ALICE_Move_4
+    21300488: Move-ALICE_Move_5
+    21300490: Move-ALICE_Move_6
+    21300492: Summon-ALICE_Summon_1
+    21300494: Summon-ALICE_Summon_2
+    21300496: Summon-ALICE_Summon_3
+    21300498: Summon-ALICE_Summon_4
+    21300500: UpAttack-ALICE_UpAttack_1-1
+    21300502: UpAttack-ALICE_UpAttack_1-2
+    21300504: UpAttack-ALICE_UpAttack_2-1
+    21300506: UpAttack-ALICE_UpAttack_2-2
+    21300508: UpAttack-ALICE_UpAttack_2-3
+    21300510: UpAttack-ALICE_UpAttack_2-4
+    21300512: UpAttack-ALICE_UpAttack_2-5
+    21300514: UpAttack-ALICE_UpAttack_2-6
+    21300516: UpAttack-ALICE_UpAttack_3-1
+    21300518: UpAttack-ALICE_UpAttack_Weapon
+    21300520: KnockOut-ALICE_KnockOutSide_1
+    21300522: KnockOut-ALICE_KnockOutSide_2
+    21300524: KnockOut-ALICE_KnockOutSide_3
+    21300526: KnockOut-ALICE_KnockOutSide_4
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AirAttack-ALICE_AirAttack_1
+      rect:
+        serializedVersion: 2
+        x: 3169
+        y: 43
+        width: 93
+        height: 192
+      alignment: 9
+      pivot: {x: 0.516129, y: 0.47395834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52aa12f2bbe27f4292dc0d84a04eb9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirAttack-ALICE_AirAttack_2
+      rect:
+        serializedVersion: 2
+        x: 2841
+        y: 1572
+        width: 103
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5436893, y: 0.45959595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb33ff172ec1c34899bb6d2a4699a49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AirAttack-ALICE_AirAttack_3
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 2024
+        width: 126
+        height: 203
+      alignment: 9
+      pivot: {x: 0.61904764, y: 0.43842363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94eeca837f0527f4bb0f196f7388a1ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Attack-ALICE_AttackSE_1-1
+      rect:
+        serializedVersion: 2
+        x: 3565
+        y: 3823
+        width: 202
+        height: 122
+      alignment: 9
+      pivot: {x: 0.24752475, y: 0.46721312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6c9d2d423cf92499ea5ba53b985efa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Attack-ALICE_AttackSE_1-2
+      rect:
+        serializedVersion: 2
+        x: 2950
+        y: 2286
+        width: 222
+        height: 131
+      alignment: 9
+      pivot: {x: 0.3198198, y: 0.5038168}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b20e5477f00fb4ea0d8c924b6a11ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Attack-ALICE_AttackSE_1-3
+      rect:
+        serializedVersion: 2
+        x: 3783
+        y: 3977
+        width: 225
+        height: 116
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.5689655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12650e57e92c61343b120e68711a687b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Attack-ALICE_AttackSE_1-4
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 4
+        width: 109
+        height: 29
+      alignment: 9
+      pivot: {x: 0.12844037, y: 1.4482758}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b5ae176ef18f740b47055db84d65b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Attack-ALICE_AttackSE_2-1
+      rect:
+        serializedVersion: 2
+        x: 3485
+        y: 90
+        width: 189
+        height: 183
+      alignment: 9
+      pivot: {x: 0.25396827, y: 0.5136612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6dc289625348064bbfdabcf2b7d6a2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Attack-ALICE_AttackSE_2-2
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 912
+        width: 201
+        height: 185
+      alignment: 9
+      pivot: {x: 0.29850745, y: 0.51891893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1ffcbbcc7deef48863cc1e31f3d943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Attack-ALICE_AttackSE_2-3
+      rect:
+        serializedVersion: 2
+        x: 3268
+        y: 64
+        width: 211
+        height: 187
+      alignment: 9
+      pivot: {x: 0.33175355, y: 0.5240642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46466ecfba9955540870bd00b7b3f006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Attack-ALICE_AttackSE_2-4
+      rect:
+        serializedVersion: 2
+        x: 3565
+        y: 3951
+        width: 205
+        height: 142
+      alignment: 9
+      pivot: {x: 0.33658537, y: 0.6971831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd8e47f9c72da2489311224ffcce017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Attack-ALICE_AttackSE_3-1
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 18
+        width: 131
+        height: 113
+      alignment: 9
+      pivot: {x: 0.2519084, y: 0.5663717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19dcf3eadfb5816428e01d0534009615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Attack-ALICE_AttackSE_3-2
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 1330
+        width: 235
+        height: 228
+      alignment: 9
+      pivot: {x: 0.52340424, y: 0.61403507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4e8da58774eff4d959f90e351b6dc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Attack-ALICE_AttackSE_3-3
+      rect:
+        serializedVersion: 2
+        x: 2994
+        y: 898
+        width: 210
+        height: 191
+      alignment: 9
+      pivot: {x: 0.41904762, y: 0.5026178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a34f1d61f20c24aa7324ade5f3589b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Attack-ALICE_AttackSE_3-4
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1002
+        width: 220
+        height: 222
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5540541}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cdfa8568034adb44a90332c492a948b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Spinning Circle-ALICE_GrailSpinningCircle_1
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 308
+        width: 104
+        height: 196
+      alignment: 9
+      pivot: {x: 4.4423075, y: 0.67346936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9038389fee77c140bef3a3d14d41b19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Spinning Circle-ALICE_GrailSpinningCircle_2
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1276
+        width: 161
+        height: 268
+      alignment: 9
+      pivot: {x: 3.142857, y: 0.6604478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c28e2452586f954b80da63cc4890111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Spinning Circle-ALICE_GrailSpinningCircle_3
+      rect:
+        serializedVersion: 2
+        x: 2846
+        y: 1279
+        width: 216
+        height: 287
+      alignment: 9
+      pivot: {x: 2.5648148, y: 0.66550523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c4e28288ac4a04d9706abf570d2df1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Spinning Circle-ALICE_GrailSpinningCircle_4
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1567
+        width: 191
+        height: 330
+      alignment: 9
+      pivot: {x: 2.7329843, y: 0.6090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59564bacb759b04e98cb8a935a6496e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Spinning Circle-ALICE_GrailSpinningCircle_5
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 1574
+        width: 205
+        height: 366
+      alignment: 9
+      pivot: {x: 2.5902438, y: 0.59289616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64ee0abaaaf0504f8e8160f22526e25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Spinning Circle-ALICE_GrailSpinningCircle_6
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 516
+        width: 243
+        height: 483
+      alignment: 9
+      pivot: {x: 2.2757201, y: 0.5362319}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a38b2cdec46734484d6754f10a838e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Spinning Circle-ALICE_GrailSpinningCircle_7
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 2234
+        width: 246
+        height: 484
+      alignment: 9
+      pivot: {x: 2.2479675, y: 0.53512394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b042c87ff6d08624cabe5c6597f2e0fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Spinning Circle-ALICE_GrailSpinningCircle_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 224
+        width: 243
+        height: 486
+      alignment: 9
+      pivot: {x: 2.2633746, y: 0.5576132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf5a5d583d65024db58b240d90ee1a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Spinning Circle-ALICE_GrailSpinningCircle_9
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 586
+        width: 242
+        height: 466
+      alignment: 9
+      pivot: {x: 2.2727273, y: 0.555794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5539f5fcc2b184c883a782bb1b1cea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Spinning Circle-ALICE_GrailSpinningCircle_10
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1312
+        width: 243
+        height: 487
+      alignment: 9
+      pivot: {x: 2.2633746, y: 0.5400411}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231ccfb4715a32842834ad6d886d409f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Spinning Circle-ALICE_GrailSpinningCircle_11
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 511
+        width: 243
+        height: 485
+      alignment: 9
+      pivot: {x: 2.2633746, y: 0.5587629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa316d4f1663f044a97c13987d85a527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Spinning Circle-ALICE_GrailSpinningCircle_12
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 513
+        width: 240
+        height: 484
+      alignment: 9
+      pivot: {x: 2.2916667, y: 0.5413223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbe38db1fd38444f8a64595d719d1dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Spinning Circle-ALICE_GrailSpinningCircle_13
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1739
+        width: 245
+        height: 489
+      alignment: 9
+      pivot: {x: 2.2489796, y: 0.55010223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4940e88b0e8e71429d48d22c0c1e6a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Spinning Circle-ALICE_GrailSpinningCircle_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 716
+        width: 243
+        height: 486
+      alignment: 9
+      pivot: {x: 2.2633746, y: 0.5596708}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829834faafd79d444a32a362ad0f15bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Spinning Circle-ALICE_GrailSpinningCircle_15
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 528
+        width: 239
+        height: 483
+      alignment: 9
+      pivot: {x: 2.292887, y: 0.5672878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b585abae913c414b9b0a08c0f238ed7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Spinning Circle-ALICE_GrailSpinningCircle_16
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 2179
+        width: 238
+        height: 474
+      alignment: 9
+      pivot: {x: 2.2983193, y: 0.54219407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ab41fee9448f94d8dffa515ab79d47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Spinning Circle-ALICE_GrailSpinningCircle_17
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 2179
+        width: 238
+        height: 474
+      alignment: 9
+      pivot: {x: 2.2983193, y: 0.54219407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85997fc2133ab4342a8616941b7406b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Spinning Circle-ALICE_GrailSpinningCircle_18
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 579
+        width: 233
+        height: 467
+      alignment: 9
+      pivot: {x: 2.330472, y: 0.5417559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0217dff1e9377884f800f701ece77c67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Spinning Circle-ALICE_GrailSpinningCircle_19
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 130
+        width: 225
+        height: 458
+      alignment: 9
+      pivot: {x: 2.3911111, y: 0.5371179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ab7999dd8cb1342848b995e4a14ada
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Spinning Circle-ALICE_GrailSpinningCircle_20
+      rect:
+        serializedVersion: 2
+        x: 2309
+        y: 2218
+        width: 225
+        height: 458
+      alignment: 9
+      pivot: {x: 2.3911111, y: 0.5371179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0abee1411efd34eb36ecbb9d8197ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Water's Bubble-ALICE_GrailWaterBubble_1
+      rect:
+        serializedVersion: 2
+        x: 2771
+        y: 1096
+        width: 94
+        height: 94
+      alignment: 9
+      pivot: {x: 3.1702127, y: 0.85106385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70d59eb527d43d4a888d1b0029a6129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Water's Bubble-ALICE_GrailWaterBubble_2
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 3
+        width: 93
+        height: 97
+      alignment: 9
+      pivot: {x: 3.204301, y: 0.83505154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a97ea1557acee419bf8fbffc344fb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Water's Bubble-ALICE_GrailWaterBubble_3
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 4
+        width: 87
+        height: 96
+      alignment: 9
+      pivot: {x: 3.3908045, y: 0.8333333}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c9c0bece7ad934aa3971cfa7026cd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Water's Bubble-ALICE_GrailWaterBubble_4
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1039
+        width: 80
+        height: 97
+      alignment: 9
+      pivot: {x: 3.675, y: 0.83505154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243c68e5e20d82d4784f4d265633e1bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Water's Bubble-ALICE_GrailWaterBubble_5
+      rect:
+        serializedVersion: 2
+        x: 3457
+        y: 813
+        width: 71
+        height: 93
+      alignment: 9
+      pivot: {x: 3.9859154, y: 0.83870965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e234e6936dab6a547b6424e948f2f468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Water's Bubble-ALICE_GrailWaterBubble_6
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1142
+        width: 80
+        height: 98
+      alignment: 9
+      pivot: {x: 3.575, y: 0.82653064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9d13ec2df390643a7c4e6d403b64e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Water's Bubble-ALICE_GrailWaterBubble_7
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 3760
+        width: 88
+        height: 98
+      alignment: 9
+      pivot: {x: 3.3295455, y: 0.82653064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b53ba854848d70408c5fdec162d384d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Water's Bubble-ALICE_GrailWaterBubble_8
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 3995
+        width: 93
+        height: 98
+      alignment: 9
+      pivot: {x: 3.1827958, y: 0.82653064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19001a957f50c54dae1e9464c5eefc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Water's Bubble-ALICE_GrailWaterBubble_9
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 1281
+        width: 94
+        height: 94
+      alignment: 9
+      pivot: {x: 3.1595745, y: 0.86170214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c378b09ed7106347933512033be7dbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Water-ALICE_GrailWater_1
+      rect:
+        serializedVersion: 2
+        x: 3313
+        y: 466
+        width: 101
+        height: 187
+      alignment: 9
+      pivot: {x: 2.4752476, y: 0.657754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d793f982ffa679498f816f1f8136280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Water-ALICE_GrailWater_2
+      rect:
+        serializedVersion: 2
+        x: 2871
+        y: 1095
+        width: 161
+        height: 178
+      alignment: 9
+      pivot: {x: 1.1925466, y: 0.66853935}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d036f80c28e7445a05e56e52bfa057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Water-ALICE_GrailWater_3
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 2112
+        width: 174
+        height: 163
+      alignment: 9
+      pivot: {x: 0.5574713, y: 0.6809816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f6a4f38cf93094cab70adb85c6a9fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Water-ALICE_GrailWater_4
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 3017
+        width: 180
+        height: 133
+      alignment: 9
+      pivot: {x: -0.05, y: 0.7218045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d5a7c47d31aa641b4d4ba7842b062e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Water-ALICE_GrailWater_5
+      rect:
+        serializedVersion: 2
+        x: 3038
+        y: 1099
+        width: 214
+        height: 174
+      alignment: 9
+      pivot: {x: -0.28037384, y: 0.67241377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9606118c3e6ea499488e93b9efab11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Water-ALICE_GrailWater_6
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1439
+        width: 172
+        height: 185
+      alignment: 9
+      pivot: {x: -1.1337209, y: 0.6594595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a77651e77e3b347b8501ffc1a977a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Water-ALICE_GrailWater_7
+      rect:
+        serializedVersion: 2
+        x: 3066
+        y: 647
+        width: 135
+        height: 149
+      alignment: 9
+      pivot: {x: -2.1555555, y: 0.6979866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e63bccdcfc1ff940b550f42fac03eea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Water-ALICE_GrailWater_8
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 3527
+        width: 132
+        height: 147
+      alignment: 9
+      pivot: {x: -2.2424242, y: 0.70068026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51e5e6092f192549aa72756b93b5ef6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Water-ALICE_GrailWater_9
+      rect:
+        serializedVersion: 2
+        x: 3140
+        y: 3864
+        width: 90
+        height: 125
+      alignment: 9
+      pivot: {x: -3.7666667, y: 0.736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decda65fc9f4b2e4ba9fd84ea998ce67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Water-ALICE_GrailWater_10
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 2944
+        width: 60
+        height: 120
+      alignment: 9
+      pivot: {x: -6.15, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db66ff635f31b9d439448418d2ae9ac8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Water-ALICE_GrailWater_11
+      rect:
+        serializedVersion: 2
+        x: 3258
+        y: 1103
+        width: 102
+        height: 173
+      alignment: 9
+      pivot: {x: -3.1862745, y: 0.69942194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81ac39315c752a48a8486a0b52e13dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Water-ALICE_GrailWater_12
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1024
+        width: 188
+        height: 300
+      alignment: 9
+      pivot: {x: -0.7446808, y: 0.61333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30244e77690712f4798f47b87929ef9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Water-ALICE_GrailWater_13
+      rect:
+        serializedVersion: 2
+        x: 2357
+        y: 1093
+        width: 231
+        height: 322
+      alignment: 9
+      pivot: {x: -0.077922076, y: 0.60559005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8275f57d4e566a947816e81423716d45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Water-ALICE_GrailWater_14
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 2683
+        width: 239
+        height: 329
+      alignment: 9
+      pivot: {x: 0.67782426, y: 0.6018237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277d96c38febb5844bcfcf2b03201b93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Water-ALICE_GrailWater_15
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 1034
+        width: 203
+        height: 299
+      alignment: 9
+      pivot: {x: 1.1871921, y: 0.61204016}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d8e53f2fee14d488b99b8c3df95539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Water-ALICE_GrailWater_16
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 2428
+        width: 158
+        height: 291
+      alignment: 9
+      pivot: {x: 1.556962, y: 0.6151203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406bce2c4c7b8bf4ab2a4da4f028e3e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Water-ALICE_GrailWater_17
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 2481
+        width: 122
+        height: 243
+      alignment: 9
+      pivot: {x: 2.0983605, y: 0.63786006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ee843612f5b514f9596d756e2e72f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Water-ALICE_GrailWater_18
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1003
+        width: 118
+        height: 237
+      alignment: 9
+      pivot: {x: 2.1949153, y: 0.6413502}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c19a6b9bc7b4274dac1f22554798ded
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Water-ALICE_GrailWater_19
+      rect:
+        serializedVersion: 2
+        x: 3226
+        y: 465
+        width: 81
+        height: 188
+      alignment: 9
+      pivot: {x: 3.2098765, y: 0.6755319}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff54d55a6b3373242a695d8aa2d8fd6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail Water-ALICE_GrailWater_20
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 2910
+        width: 52
+        height: 177
+      alignment: 9
+      pivot: {x: 5, y: 0.68926555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384c67b4fb7106542aa01271eafe832c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail-ALICE_Grail_1
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 802
+        width: 196
+        height: 89
+      alignment: 9
+      pivot: {x: 2.260204, y: 0.85393256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc15f3c407c8afd478adc2f0d710bc1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail-ALICE_Grail_2
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 1282
+        width: 199
+        height: 93
+      alignment: 9
+      pivot: {x: 2.241206, y: 0.83870965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83400809a143c424b9e1f40781fd9f71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail-ALICE_Grail_3
+      rect:
+        serializedVersion: 2
+        x: 3565
+        y: 3719
+        width: 199
+        height: 98
+      alignment: 9
+      pivot: {x: 2.241206, y: 0.81632656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0add8e45001c9904486b01a0009fb08c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail-ALICE_Grail_4
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 4
+        width: 200
+        height: 104
+      alignment: 9
+      pivot: {x: 2.235, y: 0.7980769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ac6a6ab05ae86408d1e3b72f7463d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail-ALICE_Grail_5
+      rect:
+        serializedVersion: 2
+        x: 3783
+        y: 3753
+        width: 202
+        height: 111
+      alignment: 9
+      pivot: {x: 2.2227724, y: 0.7837838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cccf130ca24627b49b070bb3267ab3f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail-ALICE_Grail_6
+      rect:
+        serializedVersion: 2
+        x: 3178
+        y: 2291
+        width: 207
+        height: 131
+      alignment: 9
+      pivot: {x: 2.1932368, y: 0.70229006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d1b98b9d6a7a24db57f2e5cffba701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE Grail-Grail-ALICE_Grail_7
+      rect:
+        serializedVersion: 2
+        x: 2527
+        y: 3018
+        width: 209
+        height: 156
+      alignment: 9
+      pivot: {x: 2.1818182, y: 0.67948717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1486d402d0be0a741a4a96e8578a4057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_1
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 813
+        width: 93
+        height: 93
+      alignment: 9
+      pivot: {x: 1.7311828, y: -1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550c736644956eb4d997c0114b095875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_2
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 6
+        width: 119
+        height: 118
+      alignment: 9
+      pivot: {x: 1.4621849, y: -0.6779661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f37146d981b2ea4bbf38856d8a416dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_3
+      rect:
+        serializedVersion: 2
+        x: 3397
+        y: 3797
+        width: 143
+        height: 142
+      alignment: 9
+      pivot: {x: 1.3006994, y: -0.47887325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a28af9bb425de4385f85017dbd1226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_4
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2710
+        width: 179
+        height: 180
+      alignment: 9
+      pivot: {x: 1.1396648, y: -0.27222222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc972e4568767e47a2464a14ac2826f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_5
+      rect:
+        serializedVersion: 2
+        x: 3628
+        y: 505
+        width: 149
+        height: 148
+      alignment: 9
+      pivot: {x: 1.2684563, y: -0.4391892}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc4cbb5333d5ed4e91b322fe5cb3b49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_6
+      rect:
+        serializedVersion: 2
+        x: 3779
+        y: 361
+        width: 139
+        height: 138
+      alignment: 9
+      pivot: {x: 1.323741, y: -0.5072464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b7ee975e1f1c5488afa6f50f4849c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_7
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 3795
+        width: 147
+        height: 146
+      alignment: 9
+      pivot: {x: 1.2789116, y: -0.4520548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b172d4a0754e3409d4d456f9a5bcfb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_8
+      rect:
+        serializedVersion: 2
+        x: 3397
+        y: 3945
+        width: 149
+        height: 148
+      alignment: 9
+      pivot: {x: 1.2684563, y: -0.4391892}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddf5358ed50dba409fc75c857210ea0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_9
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 3018
+        width: 155
+        height: 154
+      alignment: 9
+      pivot: {x: 1.2387097, y: -0.4025974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f3c824b6a5e304088e9002118b5160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_10
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1550
+        width: 165
+        height: 153
+      alignment: 9
+      pivot: {x: 1.1818181, y: -0.4248366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcc42de88cdf5941938a99a91c42689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_11
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 3651
+        width: 139
+        height: 138
+      alignment: 9
+      pivot: {x: 1.323741, y: -0.5072464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f932971b09e2daf4a91aa40d52892376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_12
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 3018
+        width: 171
+        height: 172
+      alignment: 9
+      pivot: {x: 1.1695906, y: -0.30813953}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa5e4b9962f67847be36fe7a0996df2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_13
+      rect:
+        serializedVersion: 2
+        x: 3207
+        y: 659
+        width: 149
+        height: 148
+      alignment: 9
+      pivot: {x: 1.2684563, y: -0.4391892}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12eeef84efcb5ba4b9594f5ea61595fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_14
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 3018
+        width: 155
+        height: 154
+      alignment: 9
+      pivot: {x: 1.2387097, y: -0.4025974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b40f7f235e9ed4a8900d9ff3460833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_15
+      rect:
+        serializedVersion: 2
+        x: 3362
+        y: 659
+        width: 149
+        height: 148
+      alignment: 9
+      pivot: {x: 1.2684563, y: -0.4391892}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e121209ef944549bb1f48c44e78de1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_16
+      rect:
+        serializedVersion: 2
+        x: 3397
+        y: 3653
+        width: 143
+        height: 138
+      alignment: 9
+      pivot: {x: 1.3146853, y: -0.5072464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99454826caf95874e88157db90e43b83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_17
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 3947
+        width: 147
+        height: 146
+      alignment: 9
+      pivot: {x: 1.2789116, y: -0.4520548}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afbf78d40ad87d4c9da2ab77639ad98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_18
+      rect:
+        serializedVersion: 2
+        x: 3366
+        y: 1128
+        width: 149
+        height: 148
+      alignment: 9
+      pivot: {x: 1.2684563, y: -0.4391892}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552a794ce16b2254991043af0e56bb7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_19
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 633
+        width: 161
+        height: 161
+      alignment: 9
+      pivot: {x: 1.2111801, y: -0.36024845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f246a3a867a5a47a5d7262c10cbcf6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_20
+      rect:
+        serializedVersion: 2
+        x: 3517
+        y: 659
+        width: 149
+        height: 148
+      alignment: 9
+      pivot: {x: 1.2684563, y: -0.4391892}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2797ea4b7d860479cd62ab8d36f2c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_21
+      rect:
+        serializedVersion: 2
+        x: 3680
+        y: 137
+        width: 139
+        height: 138
+      alignment: 9
+      pivot: {x: 1.323741, y: -0.5072464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1b6c77dd700914c85f5aa7d0e4bbf1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_22
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 6
+        width: 119
+        height: 118
+      alignment: 9
+      pivot: {x: 1.4621849, y: -0.6779661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0fe7986fadb5f4f945ea20e1753f97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT EnergyBbolt-ALICE_ULTEnergyBolt_23
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 4
+        width: 95
+        height: 96
+      alignment: 9
+      pivot: {x: 1.7052631, y: -0.9479167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66c745804c4728479e96f68a42147e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT Laser-ALICE_ULTLaser_1
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 3070
+        width: 31
+        height: 146
+      alignment: 9
+      pivot: {x: 3.8387096, y: 0.21232876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52331f3a9cd93574c97262915e5f8b90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT Laser-ALICE_ULTLaser_2
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 2553
+        width: 105
+        height: 351
+      alignment: 9
+      pivot: {x: 1.2761905, y: 0.66096866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2111aee1030f584187aff6fa912cee1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT Laser-ALICE_ULTLaser_3
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 2669
+        width: 148
+        height: 342
+      alignment: 9
+      pivot: {x: 1.1013514, y: 0.66959065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0984d83874e4a56498a2c5c28ab0f65f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT Laser-ALICE_ULTLaser_4
+      rect:
+        serializedVersion: 2
+        x: 3014
+        y: 3680
+        width: 120
+        height: 413
+      alignment: 9
+      pivot: {x: 1.2583333, y: 0.69733655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cacf6af2cfdb05c458dfb5638a0ecae7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT Laser-ALICE_ULTLaser_5
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 1903
+        width: 133
+        height: 421
+      alignment: 9
+      pivot: {x: 1.2255639, y: 0.695962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b4453d1fb094948a6ef30cf453b49a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT Laser-ALICE_ULTLaser_6
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2281
+        width: 174
+        height: 423
+      alignment: 9
+      pivot: {x: 1.0402299, y: 0.6926714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7842e9b7591baf43917faec72039dd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT Laser-ALICE_ULTLaser_7
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 2285
+        width: 187
+        height: 425
+      alignment: 9
+      pivot: {x: 0.95187163, y: 0.68941176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8715fd6093fb848468e9ce6305c0061d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT Laser-ALICE_ULTLaser_8
+      rect:
+        serializedVersion: 2
+        x: 2940
+        y: 3237
+        width: 150
+        height: 425
+      alignment: 9
+      pivot: {x: 0.9866667, y: 0.68941176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d285196073303f640b8d8044c716f39e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT Laser-ALICE_ULTLaser_9
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 3668
+        width: 209
+        height: 425
+      alignment: 9
+      pivot: {x: 0.8947368, y: 0.68941176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6c9862a4564ab46b159148ea4a2524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT Laser-ALICE_ULTLaser_10
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1805
+        width: 246
+        height: 425
+      alignment: 9
+      pivot: {x: 0.7642276, y: 0.68941176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df4e91e3611649449f5e754690eaba9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT Laser-ALICE_ULTLaser_11
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 3660
+        width: 285
+        height: 433
+      alignment: 9
+      pivot: {x: 0.56842107, y: 0.6789838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46615c68542217468487f1418f03736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT Laser-ALICE_ULTLaser_12
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 3655
+        width: 342
+        height: 438
+      alignment: 9
+      pivot: {x: 0.4122807, y: 0.6689498}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e26c90a663a3b4da6f24dc7e0f37f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT Laser-ALICE_ULTLaser_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3222
+        width: 444
+        height: 438
+      alignment: 9
+      pivot: {x: 0.3153153, y: 0.6689498}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed1a11a8e4255f46a128a6321f807da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT Laser-ALICE_ULTLaser_14
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 3232
+        width: 597
+        height: 435
+      alignment: 9
+      pivot: {x: 0.23283082, y: 0.67356324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f368d2eb13c1643a7fb2c4ac8080d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT Laser-ALICE_ULTLaser_15
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 3662
+        width: 610
+        height: 431
+      alignment: 9
+      pivot: {x: 0.22295082, y: 0.6798144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c31411a76d0ca349b723c917463dcca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT Laser-ALICE_ULTLaser_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3666
+        width: 617
+        height: 427
+      alignment: 9
+      pivot: {x: 0.21393842, y: 0.6861827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45576877d5f54914e984fbd438909e23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT Laser-ALICE_ULTLaser_17
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 3673
+        width: 613
+        height: 420
+      alignment: 9
+      pivot: {x: 0.20391516, y: 0.6952381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba3809be73821b41b71fe1dcee9c5ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT SpinningCircle-ALICE_ULTSpinningCircle_1
+      rect:
+        serializedVersion: 2
+        x: 2783
+        y: 431
+        width: 104
+        height: 196
+      alignment: 9
+      pivot: {x: 4.4423075, y: 0.67346936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912ecbba7fa479d4c829f01548e064c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT SpinningCircle-ALICE_ULTSpinningCircle_2
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1002
+        width: 161
+        height: 268
+      alignment: 9
+      pivot: {x: 3.142857, y: 0.6604478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a3b0dbc7cf4ac48be1237324030366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT SpinningCircle-ALICE_ULTSpinningCircle_3
+      rect:
+        serializedVersion: 2
+        x: 2959
+        y: 1786
+        width: 216
+        height: 287
+      alignment: 9
+      pivot: {x: 2.5648148, y: 0.66550523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4043089e3ae935942852ba90c5120f48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT SpinningCircle-ALICE_ULTSpinningCircle_4
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 2682
+        width: 191
+        height: 330
+      alignment: 9
+      pivot: {x: 2.7329843, y: 0.6090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26def8d194a4dd540bda44ee689adb7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT SpinningCircle-ALICE_ULTSpinningCircle_5
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 1575
+        width: 205
+        height: 366
+      alignment: 9
+      pivot: {x: 2.5902438, y: 0.59289616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff36634eb10e452459727cac3776f390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT SpinningCircle-ALICE_ULTSpinningCircle_6
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 27
+        width: 243
+        height: 483
+      alignment: 9
+      pivot: {x: 2.2757201, y: 0.5362319}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43438b6298980e468de6d215fb8575c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT SpinningCircle-ALICE_ULTSpinningCircle_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1703
+        width: 246
+        height: 484
+      alignment: 9
+      pivot: {x: 2.2479675, y: 0.53512394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90668a2242ff8e4a9c6f77d93d8e7fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT SpinningCircle-ALICE_ULTSpinningCircle_8
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 18
+        width: 243
+        height: 486
+      alignment: 9
+      pivot: {x: 2.2633746, y: 0.5576132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca8c694ae1bb3b4caa409a3874da828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT SpinningCircle-ALICE_ULTSpinningCircle_9
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 114
+        width: 242
+        height: 466
+      alignment: 9
+      pivot: {x: 2.2727273, y: 0.555794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3cdadd699e5b64ea54e1f11407f067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT SpinningCircle-ALICE_ULTSpinningCircle_10
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1246
+        width: 243
+        height: 487
+      alignment: 9
+      pivot: {x: 2.2633746, y: 0.5400411}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3de0647fc9de541b71c5f48d5d6d67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT SpinningCircle-ALICE_ULTSpinningCircle_11
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 20
+        width: 243
+        height: 485
+      alignment: 9
+      pivot: {x: 2.2633746, y: 0.5587629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b014a095671fa5a4ca48b7ce1711df4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT SpinningCircle-ALICE_ULTSpinningCircle_12
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 23
+        width: 240
+        height: 484
+      alignment: 9
+      pivot: {x: 2.2916667, y: 0.5413223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a990002621b2d4d99a6d46f8728564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT SpinningCircle-ALICE_ULTSpinningCircle_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1208
+        width: 245
+        height: 489
+      alignment: 9
+      pivot: {x: 2.2489796, y: 0.55010223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77170c9d52714e64c9b4e0b01b92c334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT SpinningCircle-ALICE_ULTSpinningCircle_14
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 510
+        width: 243
+        height: 486
+      alignment: 9
+      pivot: {x: 2.2633746, y: 0.5596708}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a0f223ad4def947b4a21d80cc867f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT SpinningCircle-ALICE_ULTSpinningCircle_15
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 39
+        width: 239
+        height: 483
+      alignment: 9
+      pivot: {x: 2.292887, y: 0.5672878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ba00786509bfd489897f5de0c4b594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT SpinningCircle-ALICE_ULTSpinningCircle_16
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 3180
+        width: 238
+        height: 474
+      alignment: 9
+      pivot: {x: 2.2983193, y: 0.54219407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1df87aea2c946b459ce1a2db4542e9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT SpinningCircle-ALICE_ULTSpinningCircle_17
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 74
+        width: 238
+        height: 474
+      alignment: 9
+      pivot: {x: 2.2983193, y: 0.54219407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc948e97822dd4489f929943ce0aae7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT SpinningCircle-ALICE_ULTSpinningCircle_18
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 106
+        width: 233
+        height: 467
+      alignment: 9
+      pivot: {x: 2.330472, y: 0.5417559}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc360cc8b6b67684aab5ba869708795c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT SpinningCircle-ALICE_ULTSpinningCircle_19
+      rect:
+        serializedVersion: 2
+        x: 2709
+        y: 3196
+        width: 225
+        height: 458
+      alignment: 9
+      pivot: {x: 2.3911111, y: 0.5371179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e68fb97cd06e84e93c271e74645ca7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT SpinningCircle-ALICE_ULTSpinningCircle_20
+      rect:
+        serializedVersion: 2
+        x: 2455
+        y: 629
+        width: 225
+        height: 458
+      alignment: 9
+      pivot: {x: 2.3911111, y: 0.5371179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c319a1024630d409e8b4a3b16f4c5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT Staff-ALICE_ULTStaff_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2193
+        width: 294
+        height: 415
+      alignment: 9
+      pivot: {x: 0.8078231, y: 0.47228914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228b4128031f7c647ba17ce24831964d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT Staff-ALICE_ULTStaff_2
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 2725
+        width: 120
+        height: 296
+      alignment: 9
+      pivot: {x: 1.9791666, y: 0.26013514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd09078a8ab442f438751915150c024b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT Staff-ALICE_ULTStaff_3
+      rect:
+        serializedVersion: 2
+        x: 2707
+        y: 1722
+        width: 120
+        height: 296
+      alignment: 9
+      pivot: {x: 1.9791666, y: 0.26013514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb0e38b5aa968942aa850e32bc2bb06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT Staff-ALICE_ULTStaff_4
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 1196
+        width: 120
+        height: 296
+      alignment: 9
+      pivot: {x: 1.9791666, y: 0.26013514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5e226eb02bd7a41864e0a7b70d4357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT Staff-ALICE_ULTStaff_5
+      rect:
+        serializedVersion: 2
+        x: 2833
+        y: 1776
+        width: 120
+        height: 296
+      alignment: 9
+      pivot: {x: 1.9791666, y: 0.26013514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d617df8ab90c7b4283236aafc1fa95c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT Staff-ALICE_ULTStaff_6
+      rect:
+        serializedVersion: 2
+        x: 2950
+        y: 2423
+        width: 120
+        height: 296
+      alignment: 9
+      pivot: {x: 1.9791666, y: 0.26013514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c446cc3f4ab4314c9992e0c0e7a6bd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT Staff-ALICE_ULTStaff_7
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 2725
+        width: 120
+        height: 296
+      alignment: 9
+      pivot: {x: 1.9791666, y: 0.26013514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d329ea4e7209a7049bba01422080b272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT Staff-ALICE_ULTStaff_8
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1005
+        width: 126
+        height: 301
+      alignment: 9
+      pivot: {x: 1.8849206, y: 0.25581396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275b6275d6c4f7e46a18ffb0e1cd8a19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT Staff-ALICE_ULTStaff_9
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1005
+        width: 126
+        height: 301
+      alignment: 9
+      pivot: {x: 1.8849206, y: 0.25581396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acbbacf0b0e27c43989a029cf6b6907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT Staff-ALICE_ULTStaff_10
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 1017
+        width: 154
+        height: 307
+      alignment: 9
+      pivot: {x: 1.5422078, y: 0.25081432}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25b5b844b581fd47901d6e297b6e56d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT Staff-ALICE_ULTStaff_11
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 1680
+        width: 159
+        height: 322
+      alignment: 9
+      pivot: {x: 1.4937106, y: 0.23913044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d329bf705f967a4ea2a21798e28c529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT Staff-ALICE_ULTStaff_12
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 3156
+        width: 165
+        height: 340
+      alignment: 9
+      pivot: {x: 1.439394, y: 0.22647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ebc73daf28f6c46982aa8da8f842e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT Staff-ALICE_ULTStaff_13
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1709
+        width: 168
+        height: 320
+      alignment: 9
+      pivot: {x: 1.4136904, y: 0.240625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab26fca9d9b17ba4ea09f3861cc18af0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT Staff-ALICE_ULTStaff_14
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 1058
+        width: 155
+        height: 296
+      alignment: 9
+      pivot: {x: 1.532258, y: 0.26013514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8d783e402b3b14eb4b6079b73c7f6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT Staff-ALICE_ULTStaff_15
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 1063
+        width: 152
+        height: 296
+      alignment: 9
+      pivot: {x: 1.5625, y: 0.26013514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f90537ea7a06345bc3091305f36d0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT Staff-ALICE_ULTStaff_16
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 1064
+        width: 120
+        height: 296
+      alignment: 9
+      pivot: {x: 1.9791666, y: 0.26013514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44295c9a0b2d5747bcc3995b17964d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT Staff-ALICE_ULTStaff_17
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 2716
+        width: 120
+        height: 296
+      alignment: 9
+      pivot: {x: 1.9791666, y: 0.26013514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f21d34cc7a3da44a12c193824daed1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT Staff-ALICE_ULTStaff_18
+      rect:
+        serializedVersion: 2
+        x: 2581
+        y: 1706
+        width: 120
+        height: 296
+      alignment: 9
+      pivot: {x: 1.9791666, y: 0.26013514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf3d4cad95dda0468c7a5cd323f33b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT Staff-ALICE_ULTStaff_19
+      rect:
+        serializedVersion: 2
+        x: 2802
+        y: 2716
+        width: 120
+        height: 296
+      alignment: 9
+      pivot: {x: 1.9791666, y: 0.26013514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fcd7671d71797f4589df612c86bc48b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT Staff-ALICE_ULTStaff_20
+      rect:
+        serializedVersion: 2
+        x: 2594
+        y: 1168
+        width: 120
+        height: 296
+      alignment: 9
+      pivot: {x: 1.9791666, y: 0.26013514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5cbb24e9caccd40b160a40d1304161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE ULT-ULT Staff-ALICE_ULTStaff_21
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 3678
+        width: 293
+        height: 415
+      alignment: 9
+      pivot: {x: 0.8105802, y: 0.47228914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d9234d7db175c4690efb1ce257387d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE WindWalker-Sword-ALICE_Sword_1
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 3107
+        width: 294
+        height: 81
+      alignment: 9
+      pivot: {x: 1.1870748, y: 0.962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7119651f8cb9bbc4e9364821ed8e8c27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE WindWalker-Sword-ALICE_Sword_2
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 3020
+        width: 294
+        height: 81
+      alignment: 9
+      pivot: {x: 1.1870748, y: 0.962963}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e19b2c7d0909a242af004dce50923fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE WindWalker-Sword-ALICE_Sword_3
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2925
+        width: 310
+        height: 70
+      alignment: 9
+      pivot: {x: 1.1129032, y: 1.0285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843d5c4bc6cfa2446bbe88397cc5ffb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE WindWalker-Sword-ALICE_Sword_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3000
+        width: 361
+        height: 68
+      alignment: 9
+      pivot: {x: 0.85595566, y: 1.0441177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb52a9be63ac9e419b9a7022824d54b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE WindWalker-Sword-ALICE_Sword_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3074
+        width: 374
+        height: 68
+      alignment: 9
+      pivot: {x: 0.6657754, y: 1.0441177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda62d95677ba6b40a2474a1f7778755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE WindWalker-Sword-ALICE_Sword_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3148
+        width: 392
+        height: 68
+      alignment: 9
+      pivot: {x: 0.49489796, y: 1.0441177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d916a35b4d42d7f4a90c9899e4d2bdb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE WindWalker-Sword-ALICE_Sword_7
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 3584
+        width: 339
+        height: 72
+      alignment: 9
+      pivot: {x: 0.39233038, y: 1.0138888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9007e7efaed356145850ebdf43b77227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE WindWalker-Sword-ALICE_Sword_8
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 3155
+        width: 314
+        height: 71
+      alignment: 9
+      pivot: {x: 0.31847134, y: 1.028169}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c7c5159b2581d4e8ff5977b6c5bbb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE WindWalker-Sword-ALICE_Sword_9
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 3001
+        width: 313
+        height: 71
+      alignment: 9
+      pivot: {x: 0.29392973, y: 1.028169}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517348483c68b8e4e9bfce86a9ef665f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE WindWalker-Sword-ALICE_Sword_10
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 3078
+        width: 313
+        height: 71
+      alignment: 9
+      pivot: {x: 0.28753993, y: 1.028169}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad0dba9f5b3fea4ea58404885ab698e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE WindWalker-Sword-ALICE_Sword_11
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 3194
+        width: 314
+        height: 77
+      alignment: 9
+      pivot: {x: 0.27707008, y: 0.97402596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1e80de8eddd9149a912e367bc37e70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE WindWalker-Sword-ALICE_Sword_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2870
+        width: 296
+        height: 124
+      alignment: 9
+      pivot: {x: 0.25675675, y: 0.7903226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa75e61003beff4b9bb25e18e10c43d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE WindWalker-Sword-ALICE_Sword_13
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2724
+        width: 296
+        height: 195
+      alignment: 9
+      pivot: {x: 0.2533784, y: 0.6871795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c6b96df0ad82b4390aa834446bf9d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE WindWalker-Sword-ALICE_Sword_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2614
+        width: 295
+        height: 250
+      alignment: 9
+      pivot: {x: 0.25084746, y: 0.644}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5fec28b4ca4204a91e198be6c88ca9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE WindWalker-WindWalker Spinning circle-ALICE_WindWalkerSpinningCircle_1
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 3445
+        width: 113
+        height: 204
+      alignment: 9
+      pivot: {x: 2.8053098, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c8fd0c53d3f794da24df6f113f1e45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE WindWalker-WindWalker Spinning circle-ALICE_WindWalkerSpinningCircle_2
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 3178
+        width: 250
+        height: 494
+      alignment: 9
+      pivot: {x: 1.612, y: 0.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe21b7e3e5ad2a74f85422ccd51fd916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE WindWalker-WindWalker Spinning circle-ALICE_WindWalkerSpinningCircle_3
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 2668
+        width: 250
+        height: 492
+      alignment: 9
+      pivot: {x: 1.612, y: 0.5569106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ae155395847084f809b1736c5178af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE WindWalker-WindWalker Spinning circle-ALICE_WindWalkerSpinningCircle_4
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 2172
+        width: 247
+        height: 490
+      alignment: 9
+      pivot: {x: 1.6315789, y: 0.5408163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8fcbb6ad1972e45a5ead2fcf11fe3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE WindWalker-WindWalker Spinning circle-ALICE_WindWalkerSpinningCircle_5
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 2731
+        width: 252
+        height: 495
+      alignment: 9
+      pivot: {x: 1.6031746, y: 0.5494949}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d92c77f92847b499a1e0c4f4e5829f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE WindWalker-WindWalker Spinning circle-ALICE_WindWalkerSpinningCircle_6
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 2659
+        width: 250
+        height: 492
+      alignment: 9
+      pivot: {x: 1.612, y: 0.5589431}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d004d8309accfac4f946ed4a5915c2ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE WindWalker-WindWalker Spinning circle-ALICE_WindWalkerSpinningCircle_7
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 2236
+        width: 246
+        height: 489
+      alignment: 9
+      pivot: {x: 1.6300813, y: 0.56646216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec89f0ca31875444e9e8e10e44034771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE WindWalker-WindWalker Spinning circle-ALICE_WindWalkerSpinningCircle_8
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1564
+        width: 245
+        height: 480
+      alignment: 9
+      pivot: {x: 1.6326531, y: 0.5416667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c298e970d12dd646b7924b963f1a527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE WindWalker-WindWalker Spinning circle-ALICE_WindWalkerSpinningCircle_9
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 554
+        width: 239
+        height: 474
+      alignment: 9
+      pivot: {x: 1.6610879, y: 0.54219407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f12738e7139a1a4bb7c6e985773e929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE WindWalker-WindWalker Spinning circle-ALICE_WindWalkerSpinningCircle_10
+      rect:
+        serializedVersion: 2
+        x: 2222
+        y: 594
+        width: 227
+        height: 463
+      alignment: 9
+      pivot: {x: 1.7136564, y: 0.5399568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6cca8511a58534dbc4026ad0bad1c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE WindWalker-WindWalker Spinning circle-ALICE_WindWalkerSpinningCircle_11
+      rect:
+        serializedVersion: 2
+        x: 2562
+        y: 179
+        width: 215
+        height: 444
+      alignment: 9
+      pivot: {x: 1.7674419, y: 0.5382883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ad63f766799104aa3d1c64038de8df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE WindWalker-WindWalker Spinning circle-ALICE_WindWalkerSpinningCircle_12
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1827
+        width: 173
+        height: 279
+      alignment: 9
+      pivot: {x: 2.0924857, y: 0.65591395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff565400ab8e07c4d91fc3d9f53e5ef2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE WindWalker-WindWalker Spinning circle-ALICE_WindWalkerSpinningCircle_13
+      rect:
+        serializedVersion: 2
+        x: 2540
+        y: 2233
+        width: 211
+        height: 444
+      alignment: 9
+      pivot: {x: 1.8009479, y: 0.5382883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97a45f5859d7824aa2552954b968b0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE WindWalker-WindWalker Spinning circle-ALICE_WindWalkerSpinningCircle_14
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1052
+        width: 222
+        height: 298
+      alignment: 9
+      pivot: {x: 1.8198198, y: 0.6610738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76958a7fd020aa4a8e57f88172bcbe7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE WindWalker-WindWalker Spinning circle-ALICE_WindWalkerSpinningCircle_15
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 1631
+        width: 191
+        height: 330
+      alignment: 9
+      pivot: {x: 1.947644, y: 0.6090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9380f620934222428f8d4534584f18a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE WindWalker-WindWalker Spinning circle-ALICE_WindWalkerSpinningCircle_16
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 1577
+        width: 220
+        height: 381
+      alignment: 9
+      pivot: {x: 1.7636364, y: 0.5905512}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b36b58820098846878274b763ef75a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE WindWalker-WindWalker Spinning circle-ALICE_WindWalkerSpinningCircle_17
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 2050
+        width: 246
+        height: 486
+      alignment: 9
+      pivot: {x: 1.6422764, y: 0.5349794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae18e5e69b25924fa1f587d7f9809ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE WindWalker-WindWalker Spinning circle-ALICE_WindWalkerSpinningCircle_18
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 3166
+        width: 253
+        height: 490
+      alignment: 9
+      pivot: {x: 1.6047431, y: 0.5346939}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75de8d1109e513b4da886c660afc05c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE WindWalker-WindWalker Spinning circle-ALICE_WindWalkerSpinningCircle_19
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 3157
+        width: 250
+        height: 492
+      alignment: 9
+      pivot: {x: 1.612, y: 0.5569106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9d1cbd6336727429eb61b1fb6a5212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ALICE WindWalker-WindWalker Spinning circle-ALICE_WindWalkerSpinningCircle_20
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 2542
+        width: 249
+        height: 472
+      alignment: 9
+      pivot: {x: 1.6184739, y: 0.55508476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7fa6f6b3ed7bf44be1269fd7e5f315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-ALICE_Attack_1-1
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 897
+        width: 90
+        height: 192
+      alignment: 9
+      pivot: {x: 0.31111112, y: 0.46875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e8bbc1abbadb94d95613ebd71671b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-ALICE_Attack_1-2
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 1421
+        width: 109
+        height: 204
+      alignment: 9
+      pivot: {x: 0.44036698, y: 0.5245098}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7bdef72bd32c54ca7b90183620e316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-ALICE_Attack_1-3
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 2008
+        width: 105
+        height: 204
+      alignment: 9
+      pivot: {x: 0.41904762, y: 0.5245098}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35691aa3ce779b48a0cfd36cf94d7aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-ALICE_Attack_1-4
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 1470
+        width: 105
+        height: 204
+      alignment: 9
+      pivot: {x: 0.41904762, y: 0.5245098}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61eddf41809ac834f92e40da97284de1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-ALICE_Attack_2-1
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1331
+        width: 98
+        height: 227
+      alignment: 9
+      pivot: {x: 0.41836736, y: 0.49779737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560ab4dc9462f674498dbcfd98cbd258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-ALICE_Attack_2-2
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 3017
+        width: 110
+        height: 213
+      alignment: 9
+      pivot: {x: 0.3181818, y: 0.53521127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85ba222aae658845aa7586104584e29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-ALICE_Attack_2-3
+      rect:
+        serializedVersion: 2
+        x: 2741
+        y: 1515
+        width: 94
+        height: 201
+      alignment: 9
+      pivot: {x: 0.4680851, y: 0.49751243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411c5692656bdf2498bf5b92d04bc968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-ALICE_Attack_2-4
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 1360
+        width: 152
+        height: 209
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.5215311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0c611c87c10d5469e1dd7a71c245a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-ALICE_Attack_3-1
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 3236
+        width: 112
+        height: 203
+      alignment: 9
+      pivot: {x: 0.4642857, y: 0.49261084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f2abbdc7cd68a4097cc9a3226e3b2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-ALICE_Attack_3-2
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 2078
+        width: 94
+        height: 201
+      alignment: 9
+      pivot: {x: 0.42553192, y: 0.49751243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fd82ef757a410429b54e37d18a4966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-ALICE_Attack_4-1
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 1968
+        width: 94
+        height: 205
+      alignment: 9
+      pivot: {x: 0.44680852, y: 0.54146343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4927a3e5ab3324db65fd1ecb7597fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-ALICE_Attack_4-2
+      rect:
+        serializedVersion: 2
+        x: 2583
+        y: 2023
+        width: 91
+        height: 204
+      alignment: 9
+      pivot: {x: 0.48351648, y: 0.53431374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d764970534f9a4b8ec507e0c7528a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged-ALICE_Damaged_1-1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 101
+        height: 215
+      alignment: 9
+      pivot: {x: 0.35643566, y: 0.53953487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b117e172eefc1e94ea59b3a0834f44ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged-ALICE_Damaged_1-2
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 1964
+        width: 87
+        height: 209
+      alignment: 9
+      pivot: {x: 0.3678161, y: 0.5215311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b40fb217163f84cac98fe4571d56b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged-ALICE_Damaged_2-1
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 2268
+        width: 122
+        height: 207
+      alignment: 9
+      pivot: {x: 0.44262296, y: 0.57004833}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97f8bb956a513d4bb59a50117a92aaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damaged-ALICE_Damaged_2-2
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 1964
+        width: 137
+        height: 209
+      alignment: 9
+      pivot: {x: 0.47445256, y: 0.5885168}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f0385b1542e8b4f8463b5d7679560e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamagedDown-ALICE_DamagedDown_1
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 9
+        width: 186
+        height: 164
+      alignment: 9
+      pivot: {x: 0.58064514, y: 0.5914634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a197e68c9f3770a49811f58b7a4fd5fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamagedDown-ALICE_DamagedDown_2
+      rect:
+        serializedVersion: 2
+        x: 3181
+        y: 1786
+        width: 216
+        height: 101
+      alignment: 9
+      pivot: {x: 0.49537036, y: 0.25742576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69189b8fd4c329f43bd1ec2ce53683df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamagedDown-ALICE_DamagedDown_3
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 3502
+        width: 167
+        height: 158
+      alignment: 9
+      pivot: {x: 0.50898206, y: 0.37341774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3d51f818b5ec847a46996291800cef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamagedDown-ALICE_DamagedDown_4
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1342
+        width: 92
+        height: 221
+      alignment: 9
+      pivot: {x: 0.42391303, y: 0.51583713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d95b5fdc1fd3af4db153ec1cba25da7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash-ALICE_Dash_1
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 1381
+        width: 139
+        height: 186
+      alignment: 9
+      pivot: {x: 0.64748204, y: 0.46774194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c3fc22dca5e2943895f6c304a318d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dash-ALICE_Dash_2
+      rect:
+        serializedVersion: 2
+        x: 2950
+        y: 1573
+        width: 151
+        height: 197
+      alignment: 9
+      pivot: {x: 0.5960265, y: 0.4720812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4d83afdd74ad54499eda2f750c6bc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownAttack-ALICE_DownAttack_1-1
+      rect:
+        serializedVersion: 2
+        x: 2853
+        y: 637
+        width: 207
+        height: 157
+      alignment: 9
+      pivot: {x: 0.2415459, y: 0.6305733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412effb60ef057b40a8de9d23ca05d78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownAttack-ALICE_DownAttack_1-2
+      rect:
+        serializedVersion: 2
+        x: 2919
+        y: 3027
+        width: 205
+        height: 163
+      alignment: 9
+      pivot: {x: 0.24390244, y: 0.601227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb05fbad1a3eb247a25abfaaaa9edeb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownAttack-ALICE_DownAttack_2-1
+      rect:
+        serializedVersion: 2
+        x: 3181
+        y: 1893
+        width: 134
+        height: 185
+      alignment: 9
+      pivot: {x: 0.37313432, y: 0.47567567}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef566e5a4e8ae3d44ab7fb8556146e3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownAttack-ALICE_DownAttack_2-2
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 2100
+        width: 128
+        height: 185
+      alignment: 9
+      pivot: {x: 0.34375, y: 0.47567567}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3694e738c1734a438ca1cedb20de587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownAttack-ALICE_DownAttack_2-3
+      rect:
+        serializedVersion: 2
+        x: 3321
+        y: 1909
+        width: 126
+        height: 185
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.47567567}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14bb061a6f5ea5f4092629524a2039a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownAttack-ALICE_DownAttack_3-1
+      rect:
+        serializedVersion: 2
+        x: 2875
+        y: 231
+        width: 101
+        height: 194
+      alignment: 9
+      pivot: {x: 0.4059406, y: 0.45876288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4f77f864f20f448883b786499f4ef9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DownAttack-ALICE_DownAttack_Weapon
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 3093
+        width: 60
+        height: 95
+      alignment: 9
+      pivot: {x: 0.6, y: 0.44210526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638d29c0dec1a5f4aae58b7d0b7c4d99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle-ALICE_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 3107
+        y: 1594
+        width: 100
+        height: 186
+      alignment: 9
+      pivot: {x: 0.54, y: 0.49462366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5e1562f1abda447b1a171fd675569e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle-ALICE_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 1365
+        width: 102
+        height: 206
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5388349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f68b27f9a2e03841a71f6f708bf0280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle-ALICE_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 3126
+        y: 451
+        width: 94
+        height: 190
+      alignment: 9
+      pivot: {x: 0.5, y: 0.48421052}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd60d8063deae4d4ab75189fd4a77f24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle-ALICE_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 3066
+        y: 241
+        width: 100
+        height: 192
+      alignment: 9
+      pivot: {x: 0.54, y: 0.46354166}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d616484efb9a5d044adacded281db707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle-ALICE_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 2893
+        y: 437
+        width: 100
+        height: 194
+      alignment: 9
+      pivot: {x: 0.53, y: 0.49484536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbab845e2f9f1c84e9912c29b092fa92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle-ALICE_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 1967
+        width: 103
+        height: 206
+      alignment: 9
+      pivot: {x: 0.5048544, y: 0.5436893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84787d37fd26984992616fac95d1f56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle-ALICE_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 3026
+        y: 2083
+        width: 99
+        height: 197
+      alignment: 9
+      pivot: {x: 0.5050505, y: 0.5177665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146c047ae21964747af6b769e3dbff70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle-ALICE_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 3057
+        y: 40
+        width: 106
+        height: 192
+      alignment: 9
+      pivot: {x: 0.49056605, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022a6ca61a84f8840a4da91512280f15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump-ALICE_Jump_1
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1339
+        width: 93
+        height: 222
+      alignment: 9
+      pivot: {x: 0.5591398, y: 0.527027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75eab0906aa4f7540bac5460fa9da4eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump-ALICE_Jump_2
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 1356
+        width: 97
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5670103, y: 0.509434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e30fffc86e7a09468b9a40909770e56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump-ALICE_Jump_3
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 1498
+        width: 105
+        height: 202
+      alignment: 9
+      pivot: {x: 0.5809524, y: 0.45049506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167645b1d93f69349846b5e5505550a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump-ALICE_Jump_4
+      rect:
+        serializedVersion: 2
+        x: 2912
+        y: 2079
+        width: 108
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0.48}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e102d1f1c558924b8f86342b0410e92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnockDown-ALICE_KnockDown_1
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2896
+        width: 181
+        height: 115
+      alignment: 9
+      pivot: {x: 0.44751382, y: 0.8869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b08021550675e4d99d57d10e0fd5cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnockDown-ALICE_KnockDown_2
+      rect:
+        serializedVersion: 2
+        x: 3783
+        y: 3870
+        width: 216
+        height: 101
+      alignment: 9
+      pivot: {x: 0.45833334, y: 1.039604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73a16f9f6b1f7e4dadbf897243111a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnockDown-ALICE_KnockDown_3
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 813
+        width: 222
+        height: 79
+      alignment: 9
+      pivot: {x: 0.509009, y: 1.2025317}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b53df7a3a8893b44ad98f016deb0188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnockDown-ALICE_KnockDown_4
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 6
+        width: 210
+        height: 62
+      alignment: 9
+      pivot: {x: 0.5285714, y: 1.5806452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a037449c1485bc74ba270535a635f10d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnockOut-ALICE_KnockOut_1
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1946
+        width: 87
+        height: 220
+      alignment: 9
+      pivot: {x: 0.41379312, y: 0.53636366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14df71ff40cad0949a8e3db564ac5ef8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnockOut-ALICE_KnockOut_2
+      rect:
+        serializedVersion: 2
+        x: 2532
+        y: 1470
+        width: 92
+        height: 204
+      alignment: 9
+      pivot: {x: 0.54347825, y: 0.5245098}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc9a4386564a1045ab085ef032cb6a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnockOut-ALICE_KnockOut_3
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 2330
+        width: 105
+        height: 217
+      alignment: 9
+      pivot: {x: 0.36190477, y: 0.51152074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbbb9ea270dfe343905fe17ffe87742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnockOut-ALICE_KnockOut_4
+      rect:
+        serializedVersion: 2
+        x: 2783
+        y: 229
+        width: 86
+        height: 196
+      alignment: 9
+      pivot: {x: 0.30232558, y: 0.5102041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7144a7f74af19f41aaeb0ff0c95f1c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LimitBreak-ALICE_LimitBreak_1
+      rect:
+        serializedVersion: 2
+        x: 3172
+        y: 257
+        width: 115
+        height: 188
+      alignment: 9
+      pivot: {x: 0.5304348, y: 0.47340426}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6887cd14e3ee2d042b00bdc47b24dddb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LimitBreak-ALICE_LimitBreak_2
+      rect:
+        serializedVersion: 2
+        x: 3293
+        y: 272
+        width: 121
+        height: 187
+      alignment: 9
+      pivot: {x: 0.553719, y: 0.47593582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae340dd2f8471234291314297d399d09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LimitBreak-ALICE_LimitBreak_Air1
+      rect:
+        serializedVersion: 2
+        x: 2936
+        y: 32
+        width: 115
+        height: 193
+      alignment: 9
+      pivot: {x: 0.5304348, y: 0.48704663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b2ebb296535624198a3a5b215bfaf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LimitBreak-ALICE_LimitBreak_Air2
+      rect:
+        serializedVersion: 2
+        x: 2999
+        y: 439
+        width: 121
+        height: 192
+      alignment: 9
+      pivot: {x: 0.553719, y: 0.48958334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e41b80b082541a4490bd86b494f9685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move-ALICE_Move_1
+      rect:
+        serializedVersion: 2
+        x: 3131
+        y: 2084
+        width: 126
+        height: 196
+      alignment: 9
+      pivot: {x: 0.63492066, y: 0.49489796}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a464973dfb14641bc626a2f499caad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move-ALICE_Move_2
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 1358
+        width: 137
+        height: 210
+      alignment: 9
+      pivot: {x: 0.6131387, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066ce0981bea6ec4295a0327ba029505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move-ALICE_Move_3
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 903
+        width: 142
+        height: 190
+      alignment: 9
+      pivot: {x: 0.63380283, y: 0.45789474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00667d2f244808341b850972d98517c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move-ALICE_Move_4
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 2730
+        width: 123
+        height: 208
+      alignment: 9
+      pivot: {x: 0.62601626, y: 0.52403843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c42fa1adb7b19b48b23dc50afef26be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move-ALICE_Move_5
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 2008
+        width: 132
+        height: 204
+      alignment: 9
+      pivot: {x: 0.6287879, y: 0.49019608}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0092093e373254498640d72ccc70d6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Move-ALICE_Move_6
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 1366
+        width: 135
+        height: 205
+      alignment: 9
+      pivot: {x: 0.62222224, y: 0.52682924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1678d096eed4181478b13544415a6b61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon-ALICE_Summon_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 3
+        width: 100
+        height: 215
+      alignment: 9
+      pivot: {x: 0.54, y: 0.4651163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a953aff19fe873f4faa4c44c91395dd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon-ALICE_Summon_2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 2035
+        width: 121
+        height: 227
+      alignment: 9
+      pivot: {x: 0.6363636, y: 0.44052863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a4cad78c549bf4aa4eff96f0915fa6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon-ALICE_Summon_3
+      rect:
+        serializedVersion: 2
+        x: 2785
+        y: 29
+        width: 145
+        height: 194
+      alignment: 9
+      pivot: {x: 0.51724136, y: 0.46391752}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd379c72b88d35478917b0af1c43a94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Summon-ALICE_Summon_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 6
+        width: 140
+        height: 212
+      alignment: 9
+      pivot: {x: 0.4857143, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9f2572f62f1a242b8180ba1be0110a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpAttack-ALICE_UpAttack_1-1
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1230
+        width: 171
+        height: 203
+      alignment: 9
+      pivot: {x: 0.35672516, y: 0.43842363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f60411e61155b3478faef23d79fc7c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpAttack-ALICE_UpAttack_1-2
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1630
+        width: 173
+        height: 191
+      alignment: 9
+      pivot: {x: 0.3468208, y: 0.46596858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18aa9343f635ac649a8ef5bb1d39e6fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpAttack-ALICE_UpAttack_2-1
+      rect:
+        serializedVersion: 2
+        x: 3579
+        y: 281
+        width: 194
+        height: 182
+      alignment: 9
+      pivot: {x: 0.7474227, y: 0.489011}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2541380119fd7e543b96c46ee3fc97ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpAttack-ALICE_UpAttack_2-2
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 1947
+        width: 222
+        height: 219
+      alignment: 9
+      pivot: {x: 0.13513513, y: 0.5479452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1a9ca12d0c4644f941634670b36032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpAttack-ALICE_UpAttack_2-3
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 3277
+        width: 331
+        height: 301
+      alignment: 9
+      pivot: {x: 0.46223566, y: 0.29568106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68aeb663c7f86db46ab3d0f833883acb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpAttack-ALICE_UpAttack_2-4
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 800
+        width: 206
+        height: 289
+      alignment: 9
+      pivot: {x: 0.74271846, y: 0.30795848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63bcc582dd341f4093743beaaf6112f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpAttack-ALICE_UpAttack_2-5
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 469
+        width: 202
+        height: 184
+      alignment: 9
+      pivot: {x: 0.7574257, y: 0.48369566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ef4a0164ea03a478e349aaf6e37126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpAttack-ALICE_UpAttack_2-6
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 279
+        width: 153
+        height: 184
+      alignment: 9
+      pivot: {x: 0.6797386, y: 0.48369566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdf9894a6d64b74487dc04c13cf315a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpAttack-ALICE_UpAttack_3-1
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 238
+        width: 78
+        height: 193
+      alignment: 9
+      pivot: {x: 0.47435898, y: 0.45595855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c83fc074fd156b4b81d92cd8103b792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UpAttack-ALICE_UpAttack_Weapon
+      rect:
+        serializedVersion: 2
+        x: 2594
+        y: 1095
+        width: 171
+        height: 67
+      alignment: 9
+      pivot: {x: 0.50877196, y: 0.46268657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62d152ffa116db4e8bb3774254913a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnockOut-ALICE_KnockOutSide_1
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1946
+        width: 87
+        height: 220
+      alignment: 9
+      pivot: {x: 1.313793, y: 0.5363637}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaeeff86805f55a41b545619ef60b779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnockOut-ALICE_KnockOutSide_2
+      rect:
+        serializedVersion: 2
+        x: 2532
+        y: 1470
+        width: 92
+        height: 204
+      alignment: 9
+      pivot: {x: 1.393478, y: 0.5245098}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21686eddf9e299c428c630a3c78eb21f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnockOut-ALICE_KnockOutSide_3
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 2330
+        width: 105
+        height: 217
+      alignment: 9
+      pivot: {x: 1.111905, y: 0.5115207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d194cacf0ab79674ca04a6e8184de963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnockOut-ALICE_KnockOutSide_4
+      rect:
+        serializedVersion: 2
+        x: 2783
+        y: 229
+        width: 86
+        height: 196
+      alignment: 9
+      pivot: {x: 1.2023256, y: 0.5102041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2603be065e793664d8ce5059141c78f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 574be2fcf3147b847ad064dcd0579015
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

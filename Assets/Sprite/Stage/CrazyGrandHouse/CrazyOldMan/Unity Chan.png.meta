@@ -1,0 +1,1563 @@
+fileFormatVersion: 2
+guid: d2b3571a9d954c1429c52facd2d21593
+timeCreated: 1458455285
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Unity Chan_0
+    21300002: Unity Chan_1
+    21300004: Unity Chan_2
+    21300006: Unity Chan_3
+    21300008: Unity Chan_4
+    21300010: Unity Chan_5
+    21300012: Unity Chan_6
+    21300014: Unity Chan_7
+    21300016: Unity Chan_8
+    21300018: Unity Chan_9
+    21300020: Unity Chan_10
+    21300022: Unity Chan_11
+    21300024: Unity Chan_12
+    21300026: Unity Chan_13
+    21300028: Unity Chan_14
+    21300030: Unity Chan_15
+    21300032: Unity Chan_16
+    21300034: Unity Chan_17
+    21300036: Unity Chan_18
+    21300038: Unity Chan_19
+    21300040: Unity Chan_20
+    21300042: Unity Chan_21
+    21300044: Unity Chan_22
+    21300046: Unity Chan_23
+    21300048: Unity Chan_24
+    21300050: Unity Chan_25
+    21300052: Unity Chan_26
+    21300054: Unity Chan_27
+    21300056: Unity Chan_28
+    21300058: Unity Chan_29
+    21300060: Unity Chan_30
+    21300062: Unity Chan_31
+    21300064: Unity Chan_32
+    21300066: Unity Chan_33
+    21300068: Unity Chan_34
+    21300070: Unity Chan_35
+    21300072: Unity Chan_36
+    21300074: Unity Chan_37
+    21300076: Unity Chan_38
+    21300078: Unity Chan_39
+    21300080: Unity Chan_40
+    21300082: Unity Chan_41
+    21300084: Unity Chan_42
+    21300086: Unity Chan_43
+    21300088: Unity Chan_44
+    21300090: Unity Chan_45
+    21300092: Unity Chan_46
+    21300094: Unity Chan_47
+    21300096: Unity Chan_48
+    21300098: Unity Chan_49
+    21300100: Unity Chan_50
+    21300102: Unity Chan_51
+    21300104: Unity Chan_52
+    21300106: Unity Chan_53
+    21300108: Unity Chan_54
+    21300110: Unity Chan_55
+    21300112: Unity Chan_56
+    21300114: Unity Chan_57
+    21300116: Unity Chan_58
+    21300118: Unity Chan_59
+    21300120: Unity Chan_60
+    21300122: Unity Chan_61
+    21300124: Unity Chan_62
+    21300126: Unity Chan_63
+    21300128: Unity Chan_64
+    21300130: Unity Chan_65
+    21300132: Unity Chan_66
+    21300134: Unity Chan_67
+    21300136: Unity Chan_68
+    21300138: Unity Chan_69
+    21300140: Unity Chan_70
+    21300142: Unity Chan_71
+    21300144: Unity Chan_72
+    21300146: Unity Chan_73
+    21300148: Unity Chan_74
+    21300150: Unity Chan_75
+    21300152: Unity Chan_76
+    21300154: Unity Chan_77
+    21300156: Unity Chan_78
+    21300158: Unity Chan_79
+    21300160: Unity Chan_80
+    21300162: Unity Chan_81
+    21300164: Unity Chan_82
+    21300166: Unity Chan_83
+    21300168: Unity Chan_84
+    21300170: Unity Chan_85
+    21300172: Unity Chan_86
+    21300174: Unity Chan_87
+    21300176: Unity Chan_88
+    21300178: Unity Chan_89
+    21300180: Unity Chan_90
+    21300182: Unity Chan_91
+    21300184: Unity Chan_92
+    21300186: Unity Chan_93
+    21300188: Unity Chan_94
+    21300190: Unity Chan_95
+    21300192: Unity Chan_96
+    21300194: Unity Chan_97
+    21300196: Unity Chan_98
+    21300198: Unity Chan_99
+    21300200: Unity Chan_100
+    21300202: Unity Chan_101
+    21300204: Unity Chan_102
+    21300206: Unity Chan_103
+    21300208: Unity Chan_104
+    21300210: Unity Chan_105
+    21300212: Unity Chan_106
+    21300214: Unity Chan_107
+    21300216: Unity Chan_108
+    21300218: Unity Chan_109
+    21300220: Unity Chan_110
+    21300222: Unity Chan_111
+    21300224: Unity Chan_112
+    21300226: Unity Chan_113
+    21300228: Unity Chan_114
+    21300230: Unity Chan_115
+    21300232: Unity Chan_116
+    21300234: Unity Chan_117
+    21300236: Unity Chan_118
+    21300238: Unity Chan_119
+    21300240: Unity Chan_120
+    21300242: Unity Chan_121
+    21300244: Unity Chan_122
+    21300246: Unity Chan_123
+    21300248: Unity Chan_124
+    21300250: Unity Chan_125
+    21300252: Unity Chan_126
+    21300254: Unity Chan_127
+    21300256: Unity Chan_128
+    21300258: Unity Chan_129
+    21300260: Unity Chan_130
+    21300262: Unity Chan_131
+    21300264: Unity Chan_132
+    21300266: Unity Chan_133
+    21300268: Unity Chan_134
+    21300270: Unity Chan_135
+    21300272: Unity Chan_136
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Unity Chan_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 952
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 952
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 952
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 952
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 952
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_5
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 952
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_6
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 952
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_7
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 952
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_8
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 952
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_9
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 952
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_10
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 952
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_11
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 952
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_12
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 952
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_13
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 952
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 880
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 880
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_17
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 880
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 880
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_19
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 880
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_20
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 880
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_21
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 880
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 880
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_23
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 880
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_24
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 880
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_25
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 880
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_26
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 880
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_27
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 880
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 808
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_29
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 808
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_30
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 808
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_31
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 808
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_32
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 808
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_33
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 808
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_34
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 808
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_35
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 808
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_36
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 808
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_37
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 808
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_38
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 808
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_39
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 808
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_40
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 808
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_41
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 808
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_43
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 736
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_44
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 736
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_45
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 736
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_46
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 736
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_47
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 736
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_48
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 736
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_49
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 736
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_50
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 736
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_51
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 736
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_52
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 736
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_53
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 736
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_54
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 736
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_55
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 736
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 664
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_57
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 664
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_58
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 664
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_59
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 664
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_60
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 664
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_61
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 664
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_62
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 664
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_63
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 664
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_64
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 664
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_65
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 664
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_66
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 664
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_67
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 664
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_68
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 664
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_69
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 664
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 592
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_71
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 592
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_72
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 592
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_73
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 592
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_74
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 592
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_75
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 592
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_76
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 592
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_77
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 592
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_78
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 592
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_79
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 592
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_80
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 592
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_81
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 592
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_82
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 592
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_83
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 592
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 520
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_85
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 520
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_86
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 520
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_87
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 520
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_88
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 520
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_89
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 520
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_90
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 520
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_91
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 520
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_92
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 520
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_93
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 520
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_94
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 520
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_95
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 520
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_96
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 520
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_97
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 520
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_99
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 448
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_100
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 448
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_101
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 448
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_102
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_103
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 448
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_104
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 448
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_105
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 448
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_106
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 448
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_107
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 448
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_108
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 448
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_109
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 448
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_110
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 448
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_111
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 448
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 376
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_113
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 376
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_114
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 376
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_115
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 376
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_116
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 376
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_117
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 376
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_118
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 376
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_119
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 376
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_120
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 376
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_121
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 376
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_122
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 376
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_123
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 376
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_124
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 376
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_125
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 376
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_127
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 304
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_128
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 304
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_129
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 304
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_130
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 304
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_131
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 304
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_132
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 304
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_133
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 304
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_134
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 304
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_135
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 304
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Unity Chan_136
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 304
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1739 @@
+fileFormatVersion: 2
+guid: 417ae89a47d6ddc4fad6783216896502
+timeCreated: 1523437774
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpecialEffecf1
+    21300002: Blink-Blink_1
+    21300004: Blink-Blink_2
+    21300006: Blink-Blink_3
+    21300008: Blink-Blink_4
+    21300010: Blink-Blink_5
+    21300012: DashSmoke-DashSmoke_1
+    21300014: DashSmoke-DashSmoke_2
+    21300016: DashSmoke-DashSmoke_3
+    21300018: DashSmoke-DashSmoke_4
+    21300020: DashSmoke-DashSmoke_5
+    21300022: DeathExplosion-DeathExplosion_1
+    21300024: DeathExplosion-DeathExplosion_2
+    21300026: DeathExplosion-DeathExplosion_3
+    21300028: DeathExplosion-DeathExplosion_4
+    21300030: DeathExplosion-DeathExplosion_5
+    21300032: DeathExplosion-DeathExplosion_6
+    21300034: DeathExplosion-DeathExplosion_7
+    21300036: DeathExplosion-DeathExplosion_8
+    21300038: DoubleJump1-DoubleJump1_1
+    21300040: DoubleJump1-DoubleJump1_2
+    21300042: DoubleJump1-DoubleJump1_3
+    21300044: Doublejump2-Doublejump2_1
+    21300046: Doublejump2-Doublejump2_2
+    21300048: Doublejump2-Doublejump2_3
+    21300050: Doublejump2-Doublejump2_4
+    21300052: Doublejump2-Doublejump2_5
+    21300054: Doublejump2-Doublejump2_6
+    21300056: Doublejump2-Doublejump2_7
+    21300058: Doublejump2-Doublejump2_8
+    21300060: Doublejump2-Doublejump2_9
+    21300062: Doublejump2-Doublejump2_10
+    21300064: Fire-Fire_1
+    21300066: Fire-Fire_2
+    21300068: Fire-Fire_3
+    21300070: Fire-Fire_4
+    21300072: Fire-Fire_5
+    21300074: Fire-Fire_6
+    21300076: Fire-Fire_7
+    21300078: Fire-Fire_8
+    21300080: Fire-Fire_9
+    21300082: Fire-Fire_10
+    21300084: Fire-Fire_11
+    21300086: Fire-Fire_12
+    21300088: Fire-Fire_13
+    21300090: Fire-Fire_14
+    21300092: Fire-Fire_15
+    21300094: Fire-Fire_16
+    21300096: Fire-Fire_17
+    21300098: Fire-Fire_18
+    21300100: Fire-Fire_19
+    21300102: Fire-Fire_20
+    21300104: Fire-Fire_21
+    21300106: Fire-Fire_22
+    21300108: Fire-Fire_23
+    21300110: Fire-Fire_24
+    21300112: Fire-Fire_25
+    21300114: Fire-Fire_26
+    21300116: Hitmark_Circle1-Hitmark_Circle1_1
+    21300118: Hitmark_Circle1-Hitmark_Circle1_2
+    21300120: Hitmark_Circle1-Hitmark_Circle1_3
+    21300122: Hitmark_Circle1-Hitmark_Circle1_4
+    21300124: Hitmark_Circle1-Hitmark_Circle1_5
+    21300126: Hitmark_Circle1-Hitmark_Circle1_6
+    21300128: Hitmark_Circle2-Hitmark_Circle2_1
+    21300130: Hitmark_Circle2-Hitmark_Circle2_2
+    21300132: Hitmark_Circle2-Hitmark_Circle2_3
+    21300134: Hitmark_Circle2-Hitmark_Circle2_4
+    21300136: Hitmark_Circle2-Hitmark_Circle2_5
+    21300138: Hitmark_Dslide-Hitmark_Dslide_1
+    21300140: Hitmark_Dslide-Hitmark_Dslide_2
+    21300142: Hitmark_Dslide-Hitmark_Dslide_3
+    21300144: Hitmark_Dslide-Hitmark_Dslide_4
+    21300146: Hitmark_Dslide-Hitmark_Dslide_5
+    21300148: Hitmark_Dslide-Hitmark_Dslide_6
+    21300150: Hitmark_Dslide-Hitmark_Dslide_7
+    21300152: Hitmark_Dslide-Hitmark_Dslide_8
+    21300154: Hitmark_Slide-hitmark20009
+    21300156: Hitmark_Slide-hitmark20010
+    21300158: Hitmark_Slide-hitmark20011
+    21300160: Hitmark_Slide-Hitmark_Slide_1
+    21300162: Hitmark_Slide-Hitmark_Slide_2
+    21300164: Hitmark_Slide-Hitmark_Slide_3
+    21300166: Hitmark_Slide-Hitmark_Slide_4
+    21300168: Hitmark_Slide-Hitmark_Slide_5
+    21300170: Hitmark_Slide-Hitmark_Slide_6
+    21300172: Hitmark_Slide-Hitmark_Slide_7
+    21300174: Hitmark_Slide-Hitmark_Slide_8
+    21300176: JumpSmoke-JumpSmoke_1
+    21300178: JumpSmoke-JumpSmoke_2
+    21300180: JumpSmoke-JumpSmoke_3
+    21300182: JumpSmoke-JumpSmoke_4
+    21300184: JumpSmoke-JumpSmoke_5
+    21300186: KnockDownSmoke-KnockDownSmoke_1
+    21300188: KnockDownSmoke-KnockDownSmoke_2
+    21300190: KnockDownSmoke-KnockDownSmoke_3
+    21300192: KnockDownSmoke-KnockDownSmoke_4
+    21300194: KnockDownSmoke-KnockDownSmoke_5
+    21300196: LimitBreak-SpecialEffect_LimitBreakSE_1
+    21300198: LimitBreak-SpecialEffect_LimitBreakSE_2
+    21300200: LimitBreak-SpecialEffect_LimitBreakSE_3
+    21300202: LimitBreak-SpecialEffect_LimitBreakSE_4
+    21300204: LimitBreak-SpecialEffect_LimitBreakSE_5
+    21300206: LimitBreak-SpecialEffect_LimitBreakSE_6
+    21300208: LimitBreak-SpecialEffect_LimitBreakSE_Circle
+    21300210: Thunder-Thunder_1
+    21300212: Thunder-Thunder_2
+    21300214: Thunder-Thunder_3
+    21300216: Thunder-Thunder_4
+    21300218: Thunder-Thunder_5
+    21300220: Thunder-Thunder_6
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blink-Blink_1
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 2044
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Blink-Blink_2
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 2475
+        width: 164
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Blink-Blink_3
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 3041
+        width: 140
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Blink-Blink_4
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 2860
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Blink-Blink_5
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1990
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DashSmoke-DashSmoke_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2376
+        width: 213
+        height: 61
+      alignment: 9
+      pivot: {x: 0.47887325, y: 2.8032787}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DashSmoke-DashSmoke_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2391
+        width: 213
+        height: 50
+      alignment: 9
+      pivot: {x: 0.47887325, y: 3.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DashSmoke-DashSmoke_3
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 3330
+        width: 102
+        height: 67
+      alignment: 9
+      pivot: {x: 1.2254902, y: 2.5373135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DashSmoke-DashSmoke_4
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2537
+        width: 62
+        height: 63
+      alignment: 9
+      pivot: {x: 2.112903, y: 2.7301588}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DashSmoke-DashSmoke_5
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 3439
+        width: 30
+        height: 38
+      alignment: 9
+      pivot: {x: 3.9333334, y: 4.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeathExplosion-DeathExplosion_1
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 2288
+        width: 229
+        height: 530
+      alignment: 9
+      pivot: {x: 0.23799127, y: 0.5726415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeathExplosion-DeathExplosion_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1795
+        width: 193
+        height: 492
+      alignment: 9
+      pivot: {x: 0.19430052, y: 0.578252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeathExplosion-DeathExplosion_3
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1662
+        width: 219
+        height: 466
+      alignment: 9
+      pivot: {x: 0.2305936, y: 0.582618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeathExplosion-DeathExplosion_4
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 1958
+        width: 254
+        height: 439
+      alignment: 9
+      pivot: {x: 0.26574802, y: 0.5888383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeathExplosion-DeathExplosion_5
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 2675
+        width: 273
+        height: 398
+      alignment: 9
+      pivot: {x: 0.2838828, y: 0.5967337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeathExplosion-DeathExplosion_6
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2443
+        width: 213
+        height: 327
+      alignment: 9
+      pivot: {x: 0.2370892, y: 0.6131498}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeathExplosion-DeathExplosion_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2447
+        width: 223
+        height: 310
+      alignment: 9
+      pivot: {x: 0.25336322, y: 0.57258064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DeathExplosion-DeathExplosion_8
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 1866
+        width: 225
+        height: 288
+      alignment: 9
+      pivot: {x: 0.25555557, y: 0.5329861}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DoubleJump1-DoubleJump1_1
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1875
+        width: 175
+        height: 147
+      alignment: 9
+      pivot: {x: 0.38857144, y: -0.24829932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DoubleJump1-DoubleJump1_2
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 2915
+        width: 275
+        height: 180
+      alignment: 9
+      pivot: {x: 0.48727274, y: 0.11388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: DoubleJump1-DoubleJump1_3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 3087
+        width: 146
+        height: 142
+      alignment: 9
+      pivot: {x: 0.39041096, y: 0.31338027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Doublejump2-Doublejump2_1
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1875
+        width: 175
+        height: 147
+      alignment: 9
+      pivot: {x: 0.38857144, y: -0.24829932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Doublejump2-Doublejump2_2
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 2915
+        width: 275
+        height: 180
+      alignment: 9
+      pivot: {x: 0.48727274, y: 0.11388889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Doublejump2-Doublejump2_3
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 2815
+        width: 235
+        height: 252
+      alignment: 9
+      pivot: {x: 0.24255319, y: 0.6130952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Doublejump2-Doublejump2_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1641
+        width: 169
+        height: 148
+      alignment: 9
+      pivot: {x: -0.12426036, y: 1.1182432}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Doublejump2-Doublejump2_5
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 2134
+        width: 178
+        height: 156
+      alignment: 9
+      pivot: {x: -0.09550562, y: 1.0865384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Doublejump2-Doublejump2_6
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 2986
+        width: 180
+        height: 156
+      alignment: 9
+      pivot: {x: -0.08888889, y: 1.0865384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Doublejump2-Doublejump2_7
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 2824
+        width: 180
+        height: 156
+      alignment: 9
+      pivot: {x: -0.08888889, y: 1.0865384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Doublejump2-Doublejump2_8
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1786
+        width: 172
+        height: 83
+      alignment: 9
+      pivot: {x: -0.13372093, y: 2.0421686}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Doublejump2-Doublejump2_9
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 3554
+        width: 103
+        height: 74
+      alignment: 9
+      pivot: {x: -0.89320385, y: 2.2905405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Doublejump2-Doublejump2_10
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 1924
+        width: 86
+        height: 62
+      alignment: 9
+      pivot: {x: -1.244186, y: 2.733871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fire-Fire_1
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 3548
+        width: 55
+        height: 46
+      alignment: 9
+      pivot: {x: 1.4363636, y: 6.2608695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fire-Fire_2
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 3600
+        width: 58
+        height: 66
+      alignment: 9
+      pivot: {x: 1.3448275, y: 4.3636365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fire-Fire_3
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 3672
+        width: 59
+        height: 72
+      alignment: 9
+      pivot: {x: 1.3050847, y: 3.9861112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fire-Fire_4
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2606
+        width: 64
+        height: 78
+      alignment: 9
+      pivot: {x: 1.25, y: 3.6794872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fire-Fire_5
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 2394
+        width: 97
+        height: 113
+      alignment: 9
+      pivot: {x: 0.9896907, y: 2.5486727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fire-Fire_6
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2544
+        width: 93
+        height: 115
+      alignment: 9
+      pivot: {x: 0.97849464, y: 2.5043478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fire-Fire_7
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 2550
+        width: 94
+        height: 120
+      alignment: 9
+      pivot: {x: 0.9787234, y: 2.4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fire-Fire_8
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2665
+        width: 94
+        height: 105
+      alignment: 9
+      pivot: {x: 0.9680851, y: 2.7428572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fire-Fire_9
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 2303
+        width: 91
+        height: 112
+      alignment: 9
+      pivot: {x: 1.021978, y: 2.5714285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fire-Fire_10
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2421
+        width: 91
+        height: 117
+      alignment: 9
+      pivot: {x: 1.0329671, y: 2.4615386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fire-Fire_11
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 2114
+        width: 96
+        height: 132
+      alignment: 9
+      pivot: {x: 1.0208334, y: 2.1818182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fire-Fire_12
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 2252
+        width: 96
+        height: 136
+      alignment: 9
+      pivot: {x: 1, y: 2.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fire-Fire_13
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 2803
+        width: 95
+        height: 132
+      alignment: 9
+      pivot: {x: 1.0421053, y: 2.189394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fire-Fire_14
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 2676
+        width: 94
+        height: 121
+      alignment: 9
+      pivot: {x: 1.0106384, y: 2.3801653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fire-Fire_15
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 2966
+        width: 100
+        height: 125
+      alignment: 9
+      pivot: {x: 1.03, y: 2.304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fire-Fire_16
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 3097
+        width: 100
+        height: 136
+      alignment: 9
+      pivot: {x: 1.07, y: 2.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fire-Fire_17
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 3403
+        width: 102
+        height: 145
+      alignment: 9
+      pivot: {x: 1.0882353, y: 1.9931035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fire-Fire_18
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 3998
+        width: 105
+        height: 95
+      alignment: 9
+      pivot: {x: 1.0857143, y: 3.0421052}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fire-Fire_19
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 2513
+        width: 98
+        height: 105
+      alignment: 9
+      pivot: {x: 1.0918367, y: 2.7523808}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fire-Fire_20
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 2083
+        width: 91
+        height: 103
+      alignment: 9
+      pivot: {x: 1.1318681, y: 2.8155339}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fire-Fire_21
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 3239
+        width: 101
+        height: 109
+      alignment: 9
+      pivot: {x: 1.039604, y: 2.6605504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fire-Fire_22
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 2742
+        width: 98
+        height: 112
+      alignment: 9
+      pivot: {x: 1.0510204, y: 2.5892856}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fire-Fire_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2428
+        width: 94
+        height: 116
+      alignment: 9
+      pivot: {x: 1.0638298, y: 2.4913793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fire-Fire_24
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1958
+        width: 90
+        height: 119
+      alignment: 9
+      pivot: {x: 1.1, y: 2.4285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fire-Fire_25
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1928
+        width: 80
+        height: 91
+      alignment: 9
+      pivot: {x: 1.0875, y: 2.8461537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Fire-Fire_26
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 2201
+        width: 69
+        height: 81
+      alignment: 9
+      pivot: {x: 1.1304348, y: 3.0617285}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hitmark_Circle1-Hitmark_Circle1_1
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2690
+        width: 65
+        height: 67
+      alignment: 9
+      pivot: {x: 0.015384615, y: 0.6268657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hitmark_Circle1-Hitmark_Circle1_2
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 3634
+        width: 103
+        height: 104
+      alignment: 9
+      pivot: {x: 0.19417475, y: 0.58653843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hitmark_Circle1-Hitmark_Circle1_3
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 3189
+        width: 206
+        height: 182
+      alignment: 9
+      pivot: {x: 0.26213592, y: 0.5604396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hitmark_Circle1-Hitmark_Circle1_4
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 3101
+        width: 283
+        height: 270
+      alignment: 9
+      pivot: {x: 0.3074205, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hitmark_Circle1-Hitmark_Circle1_5
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 2380
+        width: 256
+        height: 289
+      alignment: 9
+      pivot: {x: 0.1796875, y: 0.5916955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hitmark_Circle1-Hitmark_Circle1_6
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 2085
+        width: 252
+        height: 289
+      alignment: 9
+      pivot: {x: 0.17460318, y: 0.5916955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hitmark_Circle2-Hitmark_Circle2_1
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 3483
+        width: 51
+        height: 59
+      alignment: 9
+      pivot: {x: -0.25490198, y: 0.7627119}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hitmark_Circle2-Hitmark_Circle2_2
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1897
+        width: 85
+        height: 87
+      alignment: 9
+      pivot: {x: 0.14117648, y: 0.6896552}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hitmark_Circle2-Hitmark_Circle2_3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2941
+        width: 144
+        height: 140
+      alignment: 9
+      pivot: {x: 0.2777778, y: 0.6142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hitmark_Circle2-Hitmark_Circle2_4
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 3079
+        width: 280
+        height: 269
+      alignment: 9
+      pivot: {x: 0.35, y: 0.5613383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hitmark_Circle2-Hitmark_Circle2_5
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 3377
+        width: 375
+        height: 361
+      alignment: 9
+      pivot: {x: 0.38666666, y: 0.5457064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hitmark_Dslide-Hitmark_Dslide_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 3235
+        width: 151
+        height: 155
+      alignment: 9
+      pivot: {x: 0.51655626, y: 0.4903226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hitmark_Dslide-Hitmark_Dslide_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 3235
+        width: 151
+        height: 155
+      alignment: 9
+      pivot: {x: 0.51655626, y: 0.4903226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hitmark_Dslide-Hitmark_Dslide_3
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 2160
+        width: 233
+        height: 243
+      alignment: 9
+      pivot: {x: 0.44635195, y: 0.46502057}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hitmark_Dslide-Hitmark_Dslide_4
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 2245
+        width: 172
+        height: 177
+      alignment: 9
+      pivot: {x: 0.44767442, y: 0.46892655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hitmark_Dslide-Hitmark_Dslide_5
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 2403
+        width: 264
+        height: 295
+      alignment: 9
+      pivot: {x: 0.47348484, y: 0.48135594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hitmark_Dslide-Hitmark_Dslide_6
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 3377
+        width: 428
+        height: 386
+      alignment: 9
+      pivot: {x: 0.38551402, y: 0.4818653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hitmark_Dslide-Hitmark_Dslide_7
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 3354
+        width: 410
+        height: 390
+      alignment: 9
+      pivot: {x: 0.46585366, y: 0.4871795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hitmark_Dslide-Hitmark_Dslide_8
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2028
+        width: 188
+        height: 211
+      alignment: 9
+      pivot: {x: 0.34574467, y: 0.49763033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hitmark_Slide-hitmark20009
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3396
+        width: 480
+        height: 345
+      alignment: 9
+      pivot: {x: 0.49375, y: 0.47536233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hitmark_Slide-hitmark20010
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3396
+        width: 480
+        height: 345
+      alignment: 9
+      pivot: {x: 0.49375, y: 0.47536233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hitmark_Slide-hitmark20011
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 3750
+        width: 477
+        height: 343
+      alignment: 9
+      pivot: {x: 0.4884696, y: 0.46938777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hitmark_Slide-Hitmark_Slide_1
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 3148
+        width: 181
+        height: 138
+      alignment: 9
+      pivot: {x: 0.5138122, y: 0.46376812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hitmark_Slide-Hitmark_Slide_2
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 3148
+        width: 181
+        height: 138
+      alignment: 9
+      pivot: {x: 0.5138122, y: 0.46376812}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hitmark_Slide-Hitmark_Slide_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2763
+        width: 295
+        height: 221
+      alignment: 9
+      pivot: {x: 0.49491525, y: 0.46153846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hitmark_Slide-Hitmark_Slide_4
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 2704
+        width: 273
+        height: 205
+      alignment: 9
+      pivot: {x: 0.4908425, y: 0.45365855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hitmark_Slide-Hitmark_Slide_5
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 2776
+        width: 257
+        height: 189
+      alignment: 9
+      pivot: {x: 0.48638132, y: 0.44973546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hitmark_Slide-Hitmark_Slide_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3747
+        width: 485
+        height: 346
+      alignment: 9
+      pivot: {x: 0.5072165, y: 0.48554912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hitmark_Slide-Hitmark_Slide_7
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 3769
+        width: 452
+        height: 324
+      alignment: 9
+      pivot: {x: 0.5022124, y: 0.4814815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Hitmark_Slide-Hitmark_Slide_8
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 3744
+        width: 481
+        height: 349
+      alignment: 9
+      pivot: {x: 0.4802495, y: 0.45845273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: JumpSmoke-JumpSmoke_1
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 3292
+        width: 73
+        height: 79
+      alignment: 9
+      pivot: {x: 0.08219178, y: 0.70886075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: JumpSmoke-JumpSmoke_2
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 2192
+        width: 91
+        height: 105
+      alignment: 9
+      pivot: {x: 0.14285715, y: 0.53333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: JumpSmoke-JumpSmoke_3
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 2624
+        width: 98
+        height: 112
+      alignment: 9
+      pivot: {x: 0.25510204, y: 0.41964287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: JumpSmoke-JumpSmoke_4
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 1992
+        width: 96
+        height: 116
+      alignment: 9
+      pivot: {x: 0.26041666, y: 0.37068966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: JumpSmoke-JumpSmoke_5
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1863
+        width: 79
+        height: 89
+      alignment: 9
+      pivot: {x: 0.18987341, y: 0.20224719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: KnockDownSmoke-KnockDownSmoke_1
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 3135
+        width: 205
+        height: 48
+      alignment: 9
+      pivot: {x: 0.56585366, y: 1.2083334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: KnockDownSmoke-KnockDownSmoke_2
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 3073
+        width: 204
+        height: 56
+      alignment: 9
+      pivot: {x: 0.59313726, y: 1.0535715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: KnockDownSmoke-KnockDownSmoke_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2321
+        width: 203
+        height: 64
+      alignment: 9
+      pivot: {x: 0.591133, y: 0.921875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: KnockDownSmoke-KnockDownSmoke_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2224
+        width: 208
+        height: 74
+      alignment: 9
+      pivot: {x: 0.60096157, y: 0.7837838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: KnockDownSmoke-KnockDownSmoke_5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2304
+        width: 210
+        height: 66
+      alignment: 9
+      pivot: {x: 0.61904764, y: 0.6363636}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LimitBreak-SpecialEffect_LimitBreakSE_1
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1829
+        width: 168
+        height: 250
+      alignment: 9
+      pivot: {x: 0.5119048, y: 0.32}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LimitBreak-SpecialEffect_LimitBreakSE_2
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 2025
+        width: 175
+        height: 257
+      alignment: 9
+      pivot: {x: 0.49142858, y: 0.3151751}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LimitBreak-SpecialEffect_LimitBreakSE_3
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1839
+        width: 175
+        height: 197
+      alignment: 9
+      pivot: {x: 0.49142858, y: 0.3401015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LimitBreak-SpecialEffect_LimitBreakSE_4
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 2860
+        width: 139
+        height: 175
+      alignment: 9
+      pivot: {x: 0.35971224, y: 0.21142857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LimitBreak-SpecialEffect_LimitBreakSE_5
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 2296
+        width: 132
+        height: 173
+      alignment: 9
+      pivot: {x: 0.37878788, y: 0.45086706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LimitBreak-SpecialEffect_LimitBreakSE_6
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 2645
+        width: 132
+        height: 209
+      alignment: 9
+      pivot: {x: 0.37878788, y: 0.2966507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: LimitBreak-SpecialEffect_LimitBreakSE_Circle
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2293
+        width: 201
+        height: 22
+      alignment: 9
+      pivot: {x: 0.49253732, y: 0.4090909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Thunder-Thunder_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2990
+        width: 311
+        height: 400
+      alignment: 9
+      pivot: {x: 0.45016077, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Thunder-Thunder_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2990
+        width: 311
+        height: 400
+      alignment: 9
+      pivot: {x: 0.45016077, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Thunder-Thunder_3
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 2971
+        width: 306
+        height: 400
+      alignment: 9
+      pivot: {x: 0.38562092, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Thunder-Thunder_4
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 2409
+        width: 233
+        height: 400
+      alignment: 9
+      pivot: {x: 0.42918456, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Thunder-Thunder_5
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 3186
+        width: 146
+        height: 400
+      alignment: 9
+      pivot: {x: 0.42465752, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: Thunder-Thunder_6
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 3592
+        width: 103
+        height: 400
+      alignment: 9
+      pivot: {x: 0.57281554, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

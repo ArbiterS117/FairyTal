@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: 1b0432759238c744fb7bdf851716380b
+timeCreated: 1494909579
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Cylinder001
+    100002: Cylinder002
+    100004: Cylinder003
+    100006: Cylinder004
+    100008: Line001
+    100010: Line004
+    100012: Rectangle001
+    100014: Rectangle002
+    100016: Rectangle003
+    100018: Rectangle004
+    100020: Rectangle005
+    100022: Rectangle006
+    100024: Rectangle007
+    100026: Rectangle008
+    100028: Rectangle009
+    100030: Rectangle010
+    100032: Rectangle011
+    100034: Torus001
+    100036: VRayLight001
+    100038: VRayPlane001
+    100040: //RootNode
+    400000: Cylinder001
+    400002: Cylinder002
+    400004: Cylinder003
+    400006: Cylinder004
+    400008: Line001
+    400010: Line004
+    400012: Rectangle001
+    400014: Rectangle002
+    400016: Rectangle003
+    400018: Rectangle004
+    400020: Rectangle005
+    400022: Rectangle006
+    400024: Rectangle007
+    400026: Rectangle008
+    400028: Rectangle009
+    400030: Rectangle010
+    400032: Rectangle011
+    400034: Torus001
+    400036: VRayLight001
+    400038: VRayPlane001
+    400040: //RootNode
+    2300000: Cylinder001
+    2300002: Cylinder002
+    2300004: Cylinder003
+    2300006: Cylinder004
+    2300008: Line001
+    2300010: Line004
+    2300012: Rectangle001
+    2300014: Rectangle002
+    2300016: Rectangle003
+    2300018: Rectangle004
+    2300020: Rectangle005
+    2300022: Rectangle006
+    2300024: Rectangle007
+    2300026: Rectangle008
+    2300028: Rectangle009
+    2300030: Rectangle010
+    2300032: Rectangle011
+    2300034: Torus001
+    3300000: Cylinder001
+    3300002: Cylinder002
+    3300004: Cylinder003
+    3300006: Cylinder004
+    3300008: Line001
+    3300010: Line004
+    3300012: Rectangle001
+    3300014: Rectangle002
+    3300016: Rectangle003
+    3300018: Rectangle004
+    3300020: Rectangle005
+    3300022: Rectangle006
+    3300024: Rectangle007
+    3300026: Rectangle008
+    3300028: Rectangle009
+    3300030: Rectangle010
+    3300032: Rectangle011
+    3300034: Torus001
+    4300000: Line001
+    4300002: Line004
+    4300004: Rectangle001
+    4300006: Rectangle002
+    4300008: Rectangle003
+    4300010: Rectangle004
+    4300012: Rectangle005
+    4300014: Rectangle006
+    4300016: Rectangle007
+    4300018: Rectangle008
+    4300020: Rectangle009
+    4300022: Rectangle010
+    4300024: Rectangle011
+    4300026: Torus001
+    4300028: Cylinder001
+    4300030: Cylinder002
+    4300032: Cylinder003
+    4300034: Cylinder004
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
